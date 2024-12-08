@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/podcasts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Sun, 08 Dec 2024 18:52:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>CryptoSlate</title>
+	<link>https://cryptoslate.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blockchain needs a killer use case, and authentication is cold-blooded</title>
+		<link>https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/</link>
+					<comments>https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Adams]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 19:00:43 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456273</guid>
+
+					<description><![CDATA[<p>The following article is an op-ed by Tyler Adams, CEO &#38; Co-Founder at COZ. For the last two years, crypto developers and venture capital have been hyper-focused on supporting infrastructure projects to the detriment of consumer-facing applications. If you look around this industry, you will see a plethora of tools for developers to integrate privacy [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/">Blockchain needs a killer use case, and authentication is cold-blooded</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following article is an op-ed by Tyler Adams, <span class="meta">CEO &amp; Co-Founder at COZ.</span></em></p>
+<p><span style="font-weight: 400;">For the last two years, crypto developers and venture capital have been hyper-focused on supporting infrastructure projects to the detriment of consumer-facing applications. If you look around this industry, you will see a plethora of tools for developers to integrate privacy features, decentralize information, and scale platforms, but a lack of applications where these tools can be used. We’re not beating the allegations that blockchain is a solution in search of a problem.</span></p>
+<p><span style="font-weight: 400;">It doesn’t have to be this way. Crypto and the underlying blockchain technology have the potential to revolutionize the way we interact online and in the real world. In particular, blockchain as an authentication tool could address a growing crisis in the market for consumer goods, providing an immutable source of truth to verify information.</span></p>
+<p><span style="font-weight: 400;">More folks in the space just need this type of integration with the physical world, what I would call Non-Fungible Items – NFIs. </span></p>
+<h2><b>Cheer Up, the Crypto Winter Is Over</b></h2>
+<p><span style="font-weight: 400;">The </span><strong><a href="https://nftevening.com/nft-market-crash/#:~:text=In%20May%202022%2C%20the%20Terra,for%20the%20NFT%20market%20crash.">collapse of the NFT market</a></strong><span style="font-weight: 400;"> and the </span><strong><a href="https://www.thenation.com/article/culture/metaverse-zuckerberg-pr-hype/">failure of the metaverse</a></strong><span style="font-weight: 400;"> to take off, combined with the onset of the crypto winter, caused many developers to retreat from consumer-facing applications and instead focus on improving decentralized infrastructure.</span></p>
+<p><span style="font-weight: 400;">Keep in mind, in this same year media coverage of the </span><strong><a href="https://abcnews.go.com/Business/timeline-cryptocurrency-exchange-ftxs-historic-collapse/story?id=93337035">FTX bankruptcy</a></strong><span style="font-weight: 400;"> severely damaged the reputation of the industry. It didn’t feel like a good time to onboard mainstream users. Instead, developers put their heads down and focused on tackling issues like scalability, user experience, and security. </span></p>
+<p><span style="font-weight: 400;">Now we have seen improvements on all these fronts. Zero Knowledge (ZK) rollups have improved speed and efficiency on layer 1 protocols, account abstraction has enabled a web2-like user experience, and there was a </span><strong><a href="https://hacken.io/insights/q2-2024-security-report/">decline in hacks</a></strong><span style="font-weight: 400;"> from Q1 to Q2 this year.</span></p>
+<p><span style="font-weight: 400;">Not to mention, <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> price has reached an </span><strong><a href="https://www.coingecko.com/en/coins/bitcoin">all-time high</a></strong><span style="font-weight: 400;">, bolstered this year by Bitcoin and <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> ETF approval and mainstream interest in </span><strong><a href="https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/">stablecoins</a></strong><span style="font-weight: 400;"> and real-world asset tokenization. There is no better time for builders of decentralized applications to reach out to web2 users and businesses. We just need to demonstrate that blockchain is more than just a platform for speculative assets.</span></p>
+<h2><b>Counterfeiting Crisis</b></h2>
+<p><span style="font-weight: 400;">As a transparent and immutable source of truth, blockchain can be used as a tool to authenticate information in the digital and physical world. The second-hand apparel market alone was worth roughly </span><strong><a href="https://www.statista.com/statistics/826162/apparel-resale-market-value-worldwide/#:~:text=Value%20of%20the%20secondhand%20apparel%20market%20worldwide%20from%202021%20to%202028&amp;text=In%202023%2C%20the%20global%20market,100%20billion%20dollars%20by%202026.">$230 million</a></strong><span style="font-weight: 400;"> this year, with the pre-owned collectibles market estimated to be worth </span><strong><a href="https://www.gminsights.com/industry-analysis/second-hand-collectibles-market#:~:text=Second%2Dhand%20Collectibles%20Market%20size%20was%20valued%20at%20USD%20134.1,toys%20can%20appreciate%20in%20value.">$134 billion</a></strong><span style="font-weight: 400;"> alone. One would expect that as the industry for second-hand goods grows, from Ebay to Depop, The Real Real, and beyond, opportunities for counterfeiting are growing.</span></p>
+<p><span style="font-weight: 400;">Indeed, the market for counterfeit goods is set to be worth almost </span><strong><a href="https://corsearch.com/about/press-releases/trade-in-counterfeit-goods-market-set-to-reach-1-79-trillion-in-2030/">$2 trillion</a></strong><span style="font-weight: 400;"> by the end of the decade. Imagine if there was an onchain authentication solution that could verify the origin of goods. This could unlock unprecedented opportunities to integrate blockchain in the fashion and luxury goods market. </span></p>
+<p><span style="font-weight: 400;">In the digital realm, the growth of decentralized finance (DeFi) means more people are trading assets without centralized actors. While privacy is a core value of DeFi, there needs to be a method of identity verification to protect against scams. Once again, blockchain authentication tools can be used here. </span></p>
+<p><span style="font-weight: 400;">Blockchain and AI can be integrated to improve methods of verification. Currently, authentication is done by </span><strong><a href="https://www.ebayinc.com/stories/news/ebay-launches-authentication-for-fine-jewelry/#:~:text=eBay%27s%20collaboration%20with%20GIA%20%E2%80%93%20preeminent,of%20this%20year%2C%20while%20eight">individuals</a></strong><span style="font-weight: 400;"><strong>.</strong> But AI enables image and pattern recognition, and object detection at a larger scale. Blockchain can then be used to store information collected by AI tools to provide a secure record. </span></p>
+<h2><b>Enter NFIs</b></h2>
+<p><span style="font-weight: 400;">NFIs bring real-world utility to NFT technology. By linking a physical asset cryptographically to a &#8220;digital twin&#8221; on the blockchain, NFIs can be used as a powerful authentication tool. For example, if you were creating a luxury watch, you could embed a private cryptographic key that could be used to verify the origin of the watch in case it makes its way onto the second-hand market.</span></p>
+<p><span style="font-weight: 400;">Why would brands invest in this technology? Because it brings greater value to the asset if purchasers can guarantee returns on the second-hand market. This isn’t just limited to watches – shoes, jewelry, and collectibles could all be verified onchain.</span></p>
+<p><span style="font-weight: 400;">Keep in mind that fashion and luxury brands haven’t given up on NFTs entirely. 9dcc’s </span><strong><a href="https://www.nftculture.com/nft-fashion/9dcc-blending-luxury-fashion-and-blockchain-at-paris-fashion-week/">NFT-linked fashion collection</a></strong><span style="font-weight: 400;"> debuted at Paris Fashion Week this year with designs inspired by digital innovation. Younger generations are also more concerned with the environmental impact of manufacturing. Seeing brands embracing the circular economy through blockchain-enabled authentication could be beneficial for their marketing. </span></p>
+<h2><b>Blockchain’s Killer Application</b></h2>
+<p><span style="font-weight: 400;">For too long, developers in the crypto industry have looked inward, focusing on problems that do not concern the general population. The industry is maturing and we need to embrace use cases beyond finance.</span></p>
+<p><span style="font-weight: 400;">Authentication is a prime area where blockchain can provide a better solution than existing technology. The crypto winter is over, now’s the time to call back the normies.</span></p>
+<p>The post <a href="https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/">Blockchain needs a killer use case, and authentication is cold-blooded</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/digital-twin-nfi-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/digital-twin-nfi-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Crypto industry frustrated over possibility of SEC commissioner Caroline Crenshaw’s renomination</title>
+		<link>https://cryptoslate.com/crypto-industry-frustrated-over-possibility-of-sec-commissioner-caroline-crenshaws-renomination/</link>
+					<comments>https://cryptoslate.com/crypto-industry-frustrated-over-possibility-of-sec-commissioner-caroline-crenshaws-renomination/#respond</comments>
+		
+		<dc:creator><![CDATA[Monika Ghosh]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 18:51:46 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[People]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456437</guid>
+
+					<description><![CDATA[<p>On Dec 11, the U.S. Senate Banking Committee will decide whether to renominate Caroline Crenshaw, a Democrat Securities and Exchange Commission (SEC) commissioner. Crenshaw has always been a staunch critic of cryptocurrencies and the crypto community is not happy with the prospect of her re-election. Crenshaw is &#8216;anti-crypto,&#8217; says Coinbase COO Crenshaw, who was sworn [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/crypto-industry-frustrated-over-possibility-of-sec-commissioner-caroline-crenshaws-renomination/">Crypto industry frustrated over possibility of SEC commissioner Caroline Crenshaw’s renomination</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On Dec 11, the U.S. Senate Banking Committee will decide whether to renominate Caroline Crenshaw, a Democrat Securities and Exchange Commission (SEC) commissioner. Crenshaw has always been a staunch critic of cryptocurrencies and the crypto community is not happy with the prospect of her re-election.</p>
+<h2>Crenshaw is &#8216;anti-crypto,&#8217; says Coinbase COO</h2>
+<p>Crenshaw, who was sworn into her role in August 2020, was one of two SEC commissioners who opposed the approval of spot Bitcoin exchange-traded funds (ETFs) in January. In her letter dissenting from the SEC&#8217;s decision, which Crenshaw called &#8220;unsound and ahistorical,&#8221; she wrote:</p>
+<blockquote><p>&#8220;I fear that today we are setting ourselves up for tomorrow’s failure, and it will be the investors that we have a duty to protect who will ultimately pay the price.&#8221;</p></blockquote>
+<p>SEC commissioner, Jaime Lizárraga, the only other SEC commissioner who voted against Bitcoin ETFs, did not add his name to her letter.</p>
+<p>According to <a href="https://cryptoslate.com/people/james-seyffart/">James Seyffart</a>, a Bloomberg ETF analyst, Crenshaw was even &#8220;<a href="https://x.com/JSeyff/status/1865147022812049635">more vehemently anti-crypto</a>&#8221; than SEC chair <a href="https://cryptoslate.com/people/gary-gensler/">Gary Gensler</a>, who has been called &#8220;<a href="https://cryptoslate.com/sec-chair-gary-genslers-behavior-cannot-be-chalked-off-as-good-faith-mistakes-says-tyler-winklevoss/">evil</a>&#8221; himself. In fact, she served as more than &#8220;just an ally to Gensler,&#8221; Seyffart wrote in an X <a href="https://x.com/JSeyff/status/1865147022812049635">post</a> earlier this week.</p>
+<p>In a Dec. 7 X <a title="null" href="https://x.com/emiliemc/status/1865191039495024804" target="null" rel="null noopener" data-ct-non-breakable="null">post</a>, <a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> president and COO Emilie Choi wrote:</p>
+<blockquote><p>“Caroline Crenshaw is anti-crypto. She even embarrassingly opposed Bitcoin ETFs. The SEC has to change.”</p></blockquote>
+<p>Given Crenshaw&#8217;s widely-known opinions against crypto, the community is frustrated with the upcoming vote on Wednesday. Alexander Grieve, vice president of government affairs at crypto investment firm Paradigm, called it &#8220;one last &#8220;gift&#8221; for crypto&#8221; that Democrat Senate Banking Chair Sherrod Brown is &#8220;trying to ram through&#8221; before he gives up his chair.</p>
+<p>If the Senate vote passes, Crenshaw will hold on to her position in the SEC till 2029. However, if she&#8217;s not confirmed by the Senate, president-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> will be free to nominate someone as replacement.</p>
+<p>Austin Campbell, CEO of digital payments firm WSPN, wrote in an X <a href="https://x.com/CampbellJAustin/status/1865446006625648707">post</a>:</p>
+<blockquote><p>&#8220;I will remind all Democrats that Caroline Crenshaw voted that the SEC should disobey a Federal judge, break the law, and instead reject BTC ETFs after being ordered to approve them by a court.&#8221;</p></blockquote>
+<h2>Trump&#8217;s SEC chair pick has received the crypto community&#8217;s approval</h2>
+<p>Earlier this week, Trump <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">appointed</a> <a href="https://cryptoslate.com/people/paul-atkins/">Paul Atkins</a>, a former SEC commissioner known for being pro-crypto, to be the next SEC chief. The crypto industry welcomed the news with open arms.</p>
+<p>Atkins, who served as a Republican SEC commissioner from 2002 to 2008, is expected to take a much more lenient approach to regulating crypto than Gensler. Atkins is known for his advocacy of free-market principles and investor protection and his focus on clarifying complex financial markets.</p>
+<p>Atkins&#8217; nomination. is &#8220;sorely needed and cannot come a day too soon,&#8221; Coinbase chief legal officer Paul Grewal said in an X post.</p>
+<p>The post <a href="https://cryptoslate.com/crypto-industry-frustrated-over-possibility-of-sec-commissioner-caroline-crenshaws-renomination/">Crypto industry frustrated over possibility of SEC commissioner Caroline Crenshaw’s renomination</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/crypto-industry-frustrated-over-possibility-of-sec-commissioner-caroline-crenshaws-renomination/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/sec-crypto.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/sec-crypto.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Trump, Bitcoin, and the race for tokenized capital markets</title>
+		<link>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/</link>
+					<comments>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[Jesse Knutson]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 13:18:11 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456125</guid>
+
+					<description><![CDATA[<p>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities. Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind Bitcoin’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities.</em></p>
+<p><span style="font-weight: 400;">Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 making </span><span style="font-weight: 400;">the US the ‘crypto capital of the world’ </span><span style="font-weight: 400;">and a financial services industry getting its first real taste of ‘number go up’. </span></p>
+<p><span style="font-weight: 400;">While the full details are yet to emerge, the number of Bitcoiners in Trump’s inner circle – including D.O.G.E. head <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a> – suggest Trump could come good on his crypto election promises. Fostering a more accommodative approach to banking, self-custody, and digital assets could have massive global knock-on effects. The success of the Bitcoin ETFs did much to destigmatize Bitcoin amongst institutional investors; US government support would likely do the same thing amongst governments.  </span></p>
+<p><span style="font-weight: 400;">A pro-Bitcoin administration will almost certainly drive prices higher and result in more countries following suit. In my Bitcoin pitch, I always avoided the end game to people in suits—institutional investors, regulators, and policymakers—but suddenly, hyperbitcoinzation and hash wars look entirely possible. </span></p>
+<p><span style="font-weight: 400;">What does this mean for Bitcoin first movers like El Salvador? Or the Bitcoin curious like Argentina? It’s hard to say. On the one hand, as the largest contributor and shareholder in the IMF, a more accommodative US stance on Bitcoin would likely end the IMF’s opposition to things like El Salvador’s 2021 Bitcoin law. On the other hand, it could steal a lot of thunder from smaller economies, leveraging Bitcoin to attract human and financial capital. </span></p>
+<p><span style="font-weight: 400;">Capital markets, though, are a different game. I’ve often said that the opportunity to monetize Bitcoin-based capital markets is naturally skewed to small to mid-sized economies. Bitfinex Securities is registered and licensed not in New York, London, or even Singapore but in El Salvador and Kazkahstan’s Astana International Financial Center. Two jurisdictions that not only have buy-in from the highest echelons of their respective governments, but maybe even more importantly, are places where financial services account for a very small proportion of GDP. There are fewer moats and less pushback from entrenched players in legacy markets.  It’s a good bet.  Lots of upside and minimal downside. </span></p>
+<p><span style="font-weight: 400;">The tokenization we have seen in financial hubs and by major financial institutions to date looks to me like token tokenization. Earlier this month, </span><span style="font-weight: 400;">UBS Asset Management launched a</span> <strong><a href="https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html">USD Money Market Investment Fund</a></strong> <span style="font-weight: 400;">built on Ethereum. The fund </span><i><span style="font-weight: 400;">“seeks to open the door to the world of decentralized finance, reduce barriers and provide access to products and services to a broader range of market participants, bringing them closer together”</span></i><span style="font-weight: 400;">, but is also only available through authorized distribution partners. This seems like corporate buzzwordery. More smoke and mirrors.  Authorized distribution partners sound like the antithesis of decentralized finance. </span></p>
+<p><span style="font-weight: 400;">A number of the big banks have built proprietary tokenization technology. HSBC, for example, has </span><a href="https://www.gbm.hsbc.com/en-gb/solutions/hsbc-orion"><span style="font-weight: 400;"><strong>Orion</strong></span></a><span style="font-weight: 400;">. UBS has Tokenize. Goldman’s has the Goldman Sachs Digital Asset Platform. </span><span style="font-weight: 400;">Most (maybe all) of these solutions limit participation to institutional and/or accredited investors, settle either in fiat or a CBDC, offer no integration with Bitcoin or Tether, and rely on the usual host of conventional capital market participants like transfer agents, custodians, and depositories with no effort at disintermediation. The future of finance looks a lot like the past. </span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">This, I think, is the opportunity for El Salvador and other countries like it: streamline capital markets, disintermediate technologically unnecessary roles, support self-custody and peer-to-peer trading between whitelisted counterparties, allow for broad market participation and encourage links between conventional and digital asset markets through Tether and Bitcoin. This could yield an alternative to conventional capital markets that allows issuers and investors to interact much more directly and is cheaper, faster, and more inclusive. </span></p>
+<p><span style="font-weight: 400;">Wall Street’s approach seems to focus almost exclusively on the efficiencies of tokenized securities while overlooking the opportunity to streamline markets, return more control to investors, or encourage participation in capital markets from a broader range of investors and issuers.  I think it’s mostly about firing the back office and improving margins. Regardless of Trump’s Bitcoin strategy, it’s difficult to imagine tokenization in major markets, weighed down by layers of incumbents and vested interests, following the El Salvador model. </span><span style="font-weight: 400;">They seem to want innovation without change.</span></p>
+<p><span style="font-weight: 400;">I think a race between the competing approaches to tokenization will emerge in the coming years, fuelled in part by a more digital-assets-friendly US administration: developed vs. developing economies, open source vs. permissioned chains, inclusion vs. institutional only, Bitcoin and Tether vs. CBDCs and fiat. It’s much too early to say which path will emerge as the dominant approach, but I think there’s a good chance that freer, cheaper, lower friction markets can come out on top.</span></p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</title>
+		<link>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/</link>
+					<comments>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 01:30:04 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Liquidium]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456333</guid>
+
+					<description><![CDATA[<p>DeFi lending on Bitcoin-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a new all-time high above $100,000. Onchain data reveals that loans against Runes accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while Ordinals accounted for the remaining 43%, contributing 9 BTC. These [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>DeFi lending on <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">new all-time high above $100,000.</a></p>
+<p>Onchain <a href="https://dune.com/liquidiumfi/liquidium">data</a> reveals that loans against <a href="https://cryptoslate.com/bitcoin-runes-made-up-57-percent-of-transactions-on-halving-day/">Runes</a> accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while <a href="https://cryptoslate.com/products/ordinals/">Ordinals</a> accounted for the remaining 43%, contributing 9 BTC.</p>
+<p>These numbers reflect a year-long upward trend for Liquidium, which has facilitated over 63,000 loans totaling more than 3,378 BTC. Runes dominate the platform, comprising over half of all collateral.</p>
+<p>Liquidium enables users to borrow Bitcoin against assets like Runes, Ordinals, Inscriptions, and BRC-20 tokens. Its non-custodial model employs Discreet Log Contracts (DLC) for secure escrow, ensuring that lenders&#8217; returns are protected, even in default cases.</p>
+<p>The rise in Liquidium&#8217;s activity mirrors Bitcoin&#8217;s increasing mainstream adoption. Analysts point to <a href="https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/">BTC&#8217;s price rally</a> above $100,000 and the introduction of spot <a href="https://cryptoslate.com/insights/us-bitcoin-etfs-exceed-satoshi-nakamotos-btc-holdings-in-less-than-a-year/">Bitcoin exchange-traded funds (ETFs)</a> as key factors driving institutional interest in the ecosystem.</p>
+<p>Additionally, market sentiment has dramatically improved with expectations of crypto-friendly regulations under a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Donald Trump-led US administration</a>, fueling optimism for broader industry growth.</p>
+<p>Moreover, the platform&#8217;s native LIQUIDIUM token is also enjoying an uptrend, according to CoinMarketCap data, which has pushed its value up over 25% during the past week.</p>
+<h2>New features</h2>
+<p>Looking ahead, Liquidium is set to launch features designed to streamline user experience. A new instant loans feature will allow borrowers to access funds without requiring lender countersignatures, simplifying the process for loans of any size.</p>
+<p>The upcoming Custom Loan V2 upgrade will introduce a gallery-like interface, enabling borrowers and lenders to create and customize loan offers.</p>
+<p>This shift from the traditional model — where only lenders could initiate offers — will make the platform more dynamic and accessible. The intuitive design promises an engaging experience where users can explore loan opportunities as effortlessly as browsing a curated collection.</p>
+<p>Liquidium&#8217;s consistent growth and planned advancements position it as a key player in the expanding Bitcoin DeFi ecosystem.</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>FSOC warns stablecoins pose stability risks, calls for legislative action to enhance oversight</title>
+		<link>https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/</link>
+					<comments>https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 00:00:17 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[TradFi]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456412</guid>
+
+					<description><![CDATA[<p>The Financial Stability Oversight Council (FSOC) raised concerns that stablecoins pose a mounting risk to financial stability due to inadequate oversight and significant market concentration, according to its 2024 annual report. The report called for urgent legislative action to create a comprehensive federal framework for stablecoin issuers to mitigate risks tied to their rapid growth [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/">FSOC warns stablecoins pose stability risks, calls for legislative action to enhance oversight</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Financial Stability Oversight Council (FSOC) raised concerns that stablecoins pose a mounting risk to financial stability due to inadequate oversight and significant market concentration, according to its 2024 <a href="https://home.treasury.gov/system/files/261/FSOC2024AnnualReport.pdf">annual report</a>.</p>
+<p>The report called for urgent legislative action to create a comprehensive federal framework for stablecoin issuers to mitigate risks tied to their <a href="https://cryptoslate.com/standard-chartered-calls-stablecoins-cryptos-first-killer-app/">rapid growth</a> and limited transparency.</p>
+<p>It also called for stricter oversight of the wider crypto market amid growing integration with the traditional financial system and sustained institutional adoption.</p>
+<h2>Recommendations for stablecoins</h2>
+<p>The FSOC emphasized that stablecoins, often marketed as reliable digital alternatives to traditional currencies, are acutely vulnerable to runs without stringent risk management standards.</p>
+<p>It also argued that the opacity surrounding issuers&#8217; reserves and operational practices further undermines market discipline and increases the potential for fraud. The report noted that one issuer accounts for approximately <a href="https://cryptoslate.com/insights/stablecoin-market-hits-2-year-high-of-183b-amid-trump-victory-fueled-optimism/">70% of the market</a>, amplifying the risk of systemic disruptions should the entity fail. However, it did not explicitly name the entity.</p>
+<p>The council urged Congress to establish a comprehensive federal prudential framework for stablecoin issuers. Recommended measures include requiring robust reserve management, setting minimum capital and liquidity standards, and implementing regular reporting obligations.</p>
+<p>The report stressed that such a framework would address risks related to payment system disruptions and enhance investor and consumer protections. FSOC members also highlighted stablecoins&#8217; growing integration with traditional financial systems as a key concern.</p>
+<p>The report warned that without appropriate risk management standards, any instability in the stablecoin market could cascade into broader financial markets. In the absence of legislative action, the council advised federal agencies to explore alternative regulatory measures under existing authorities.</p>
+<h2>Integration with TradFi</h2>
+<p>The FSOC also detailed the expanding footprint of crypto-assets in traditional markets and warned that the sector&#8217;s rising integration with traditional finance also required increased oversight.</p>
+<p>While the total global market value of crypto-assets remains modest compared to traditional financial markets at just under $2 trillion, recent regulatory approvals of spot exchange-traded products (ETPs) have <a href="https://cryptoslate.com/bloomberg-analyst-says-altcoin-etfs-will-ignite-a-wild-crypto-market-in-2025/">heightened investor accessibility</a>. The market value of spot crypto-asset ETPs surged to nearly $80 billion in 2024 following the SEC&#8217;s approval of several listings earlier this year.</p>
+<p>Despite their growth, the FSOC emphasized that the crypto-asset ecosystem remains a high-risk sector. The report identified significant gaps in regulatory oversight of the crypto spot market, citing a lack of explicit federal rulemaking authority to address fraud, market manipulation, and other risks.</p>
+<p>To counter these challenges, the FSOC recommended granting federal financial regulators explicit powers to oversee crypto markets that fall outside securities regulation.</p>
+<p>While acknowledging the transformative potential of digital assets, the FSOC emphasized the need for a balanced regulatory approach that supports innovation while safeguarding financial markets.</p>
+<p>The post <a href="https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/">FSOC warns stablecoins pose stability risks, calls for legislative action to enhance oversight</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/stablecoins.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/stablecoins.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>SEC rejecting Solana ETFs is Gensler&#8217;s &#8216;parting gift&#8217; to crypto industry – Bloomberg analyst</title>
+		<link>https://cryptoslate.com/sec-rejecting-solana-etfs-is-genslers-parting-gift-to-crypto-industry-bloomberg-analyst/</link>
+					<comments>https://cryptoslate.com/sec-rejecting-solana-etfs-is-genslers-parting-gift-to-crypto-industry-bloomberg-analyst/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 22:30:18 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[ETF]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456401</guid>
+
+					<description><![CDATA[<p>The US Securities and Exchange Commission (SEC) will reportedly reject two spot Solana (SOL) exchange-traded funds (ETF) applications, according to Bloomberg ETF senior analyst Eric Balchunas. Balchunas said the rejections were Chair Gary Gensler&#8217;s &#8220;parting gift&#8221; to the crypto industry. Fox News reported Eleanor Terrett revealed sources at two Solana ETF issuers told her the [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/sec-rejecting-solana-etfs-is-genslers-parting-gift-to-crypto-industry-bloomberg-analyst/">SEC rejecting Solana ETFs is Gensler&#8217;s &#8216;parting gift&#8217; to crypto industry – Bloomberg analyst</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The US Securities and Exchange Commission (SEC) will reportedly reject two spot Solana (<a href="https://cryptoslate.com/coins/solana/">SOL</a>) exchange-traded funds (ETF) applications, according to Bloomberg ETF senior analyst <a href="https://cryptoslate.com/people/eric-balchunas/">Eric Balchunas</a>.</span></p>
+<p><span style="font-weight: 400;">Balchunas said the rejections were Chair <a href="https://cryptoslate.com/people/gary-gensler/">Gary Gensler&#8217;s</a> &#8220;parting gift&#8221; to the crypto industry.</span></p>
+<p><span style="font-weight: 400;">Fox News reported Eleanor Terrett revealed sources at two Solana ETF issuers told her the SEC will not approve any new crypto-related ETF under Gensler. He is slated to</span><strong> <a href="https://cryptoslate.com/sec-chair-gary-gensler-to-step-down-on-jan-20/">step down</a></strong><span style="font-weight: 400;"> on Jan. 20, 2025.</span></p>
+<p><span style="font-weight: 400;">Balchunas</span> <strong><a href="https://x.com/EricBalchunas/status/1865061168630374620">expects</a></strong><span style="font-weight: 400;"> the issuers to file for the Solana ETFs again once <a href="https://cryptoslate.com/people/paul-atkins/">Paul Atkins</a> begins his term as SEC chair. President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> confirmed Atkins for the role</span> <strong><a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">on Nov. 27</a></strong><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">In response to the news, former <a href="https://cryptoslate.com/companies/vaneck/">VanEck</a> digital asset strategy director <a href="https://cryptoslate.com/people/gabor-guracs/">Gabor Gurbacs</a></span> commented<span style="font-weight: 400;"> that Gensler “<a href="https://x.com/gaborgurbacs/status/1865061656629281110">will take a hike soon,</a>” and Balchunas</span> <strong><a href="https://x.com/EricBalchunas/status/1865070360703496638">replied</a></strong><span style="font-weight: 400;">:</span></p>
+<blockquote><p><strong>&#8220;This was his parting gift I guess.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">However, Balchunas&#8217; fellow Bloomberg ETF analyst <a href="https://cryptoslate.com/people/james-seyffart/">James Seyffart</a> argued that Gensler had no choice on the Solana ETF matter, as it would be &#8220;disingenuous&#8221; to allow SOL-related exchange-traded products while the regulator claims the crypto is a security in multiple lawsuits.</span></p>
+<p><span style="font-weight: 400;">As a result, the new SEC administration will be responsible for sorting out the crypto lawsuits where SOL is considered a security. Until then, Seyffart sees applications as &#8220;dead in the water&#8221; until the watchdog decides on a new course of action. </span></p>
+<p><span style="font-weight: 400;">This pushes back the Solana ETF approval timeline, which Seyffart initially projected to conclude in August 2025. Nevertheless, he added that this was the earliest of the deadlines, and he expected it would be pushed back.</span></p>
+<h2><strong>Two gifts</strong></h2>
+<p><span style="font-weight: 400;">Seyffart also highlighted that the SEC&#8217;s recent brief on the Binance case is the real parting gift, which he argued was an unnecessary move for the regulator.</span></p>
+<p><span style="box-sizing: border-box; margin: 0px; padding: 0px;">Ripple&#8217;s chief legal officer, Stuart Alderoty, recently <a href="https://x.com/s_alderoty/status/1864730425274569019" target="_blank" rel="noopener"><strong>shared</strong></a><strong> </strong>that the regulator filed an 81-page document urging the court not to dismiss the Binance lawsuit that accuses the exchange of offering 11 tokens as investment contracts.</span></p>
+<p><span style="font-weight: 400;">According to Alderoty:</span></p>
+<blockquote><p><strong>&#8220;Instead of standing down and pausing crypto litigation with new leadership just weeks away, Gensler&#8217;s SEC filed an 81-page brief in the Binance case yesterday, recycling the same failed arguments — including the absurd (and unsupported) claim that crypto has no inherent value.&#8221;</strong></p></blockquote>
+<p>The post <a href="https://cryptoslate.com/sec-rejecting-solana-etfs-is-genslers-parting-gift-to-crypto-industry-bloomberg-analyst/">SEC rejecting Solana ETFs is Gensler&#8217;s &#8216;parting gift&#8217; to crypto industry – Bloomberg analyst</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/sec-rejecting-solana-etfs-is-genslers-parting-gift-to-crypto-industry-bloomberg-analyst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/gary-gensler-crypto-regulation.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/gary-gensler-crypto-regulation.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Australia intensifies crypto ATM oversight to curb money laundering risks</title>
+		<link>https://cryptoslate.com/australia-intensifies-crypto-atm-oversight-to-curb-money-laundering-risks/</link>
+					<comments>https://cryptoslate.com/australia-intensifies-crypto-atm-oversight-to-curb-money-laundering-risks/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 21:30:54 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Crypto ATMs]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456334</guid>
+
+					<description><![CDATA[<p>The Australian Transaction Reports and Analysis Centre (AUSTRAC) has intensified efforts to enforce Anti-Money Laundering and Counter-Terrorist Financing (AML/CTF) regulations among crypto ATM providers. On Dec. 6, the watchdog said that crypto ATMs are increasingly used for money laundering and other illicit activities. Despite the country having around 400 registered crypto exchanges, only a small portion [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/australia-intensifies-crypto-atm-oversight-to-curb-money-laundering-risks/">Australia intensifies crypto ATM oversight to curb money laundering risks</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Australian Transaction Reports and Analysis Centre (AUSTRAC) has intensified efforts to enforce Anti-Money Laundering and Counter-Terrorist Financing (AML/CTF) regulations among crypto ATM providers.</p>
+<p>On Dec. 6, the watchdog said that crypto ATMs are increasingly used for money laundering and other illicit activities. Despite the country having around 400 registered crypto exchanges, only a small portion operate crypto ATMs. This gap leaves a significant share of Australia&#8217;s 1,200 crypto ATMs potentially non-compliant.</p>
+<p>AUSTRAC CEO Brendan Thomas highlighted the risks posed by crypto ATMs, emphasizing their appeal to criminals due to their accessibility and capability for near-instant, irreversible transactions.</p>
+<p>He stated:</p>
+<blockquote><p><strong>&#8220;We’re seeing too many Australians falling victim to scams carried out through cryptocurrency, and we’ve heard of some victims losing their life savings, which is just heart breaking. As the use of cryptocurrency increases, so too will criminal exploitation, which is why this taskforce will work to eliminate non-compliant high risk operations.&#8221;</strong></p></blockquote>
+<p>AUSTRAC has launched a task force to ensure compliance among digital currency exchanges (DCEs) operating <a href="https://cryptoslate.com/california-to-limit-bitcoin-atm-transactions-to-1000-per-day-to-combat-fraud/">crypto ATMs</a> in order to tackle this issue. The initiative focuses on enforcing minimum compliance standards and implementing stronger safeguards to detect and prevent fraud and scams.</p>
+<p>Crypto ATM operators in Australia are required to adhere to strict AML/CTF obligations. These include registering with AUSTRAC, conducting Know Your Customer (KYC) checks, monitoring transactions, and reporting cash transactions exceeding AUD 10,000 (approximately USD 6,430). Non-compliance risks significant financial penalties and swift action from the regulator.</p>
+<p>Thomas warned:</p>
+<blockquote><p>&#8220;Cryptocurrency ATM providers need to ensure they are complying with their money laundering obligations and are reducing the risks of crime. If they’re ignoring those obligations they risk being subject to significant financial penalties and AUSTRAC won’t hesitate in taking action.&#8221;</p></blockquote>
+<p>The move aligns with a broader global trend of increased scrutiny <span style="margin: 0px; padding: 0px;">of crypto ATMs. German authorities recently <a href="https://cryptoslate.com/germany-seizes-28-million-in-raid-on-unlicensed-crypto-atms/" target="_blank" rel="noopener">seized 13 crypto ATMs</a> and €50,000 in cash due to non-compliant operations</span>.</p>
+<p>The post <a href="https://cryptoslate.com/australia-intensifies-crypto-atm-oversight-to-curb-money-laundering-risks/">Australia intensifies crypto ATM oversight to curb money laundering risks</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/australia-intensifies-crypto-atm-oversight-to-curb-money-laundering-risks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/australia-crypto-atm.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/australia-crypto-atm.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</title>
+		<link>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/</link>
+					<comments>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:45:48 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456388</guid>
+
+					<description><![CDATA[<p>Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (BTC) reserve is “crazy. &#8220; Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued: &#8220;Of all the prices to support, why would the government choose to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) reserve is “crazy. &#8220;</span></p>
+<p><span style="font-weight: 400;">Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued:</span></p>
+<blockquote><p><strong>&#8220;Of all the prices to support, why would the government choose to support by accumulating a sterile inventory, a bunch of Bitcoin? There is no reason other than to pander to generous special interest campaign contributors.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">His remarks follow</span> <strong><a href="https://cryptoslate.com/trumps-crypto-advisory-council-to-setup-promised-strategic-bitcoin-reserve-report/">reports</a></strong><span style="font-weight: 400;"> that President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump’s</a> Crypto Advisory Council is expected to establish the &#8220;Strategic Bitcoin Reserve.&#8221;</span></p>
+<p><span style="font-weight: 400;">The idea of a national Bitcoin reserve surfaced during the Bitcoin 2024 conference earlier this year, where both Trump and Robert F. Kennedy Jr. made keynote speeches, along with several lawmakers, including Senator <a href="https://cryptoslate.com/people/cynthia-lummis/">Cynthia Lummis</a> (R-WY), who introduced the &#8220;</span><strong><a href="https://cryptoslate.com/lummis-unveils-the-bitcoin-act-to-establish-strategic-btc-reserve-for-the-us/">Bitcoin Act</a></strong><span style="font-weight: 400;">&#8221; legislation proposing the creation of such an institute at the event.</span></p>
+<h2><strong>Bitcoin reserve idea gaining traction</strong></h2>
+<p><span style="font-weight: 400;">The idea of creating Bitcoin reserves is gaining traction beyond institutions now, with lawmakers and politicians around the world warming to the concept. </span></p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/satoshi-action-fund/">Satoshi Act Fund</a> founder <a href="https://cryptoslate.com/people/dennis-porter/">Dennis Porter</a> recently revealed he is in discussions with Texas state officials to introduce</span> <a href="https://x.com/Dennis_Porter_/status/1859640897715175433">legislation</a> for <span style="font-weight: 400;">a strategic Bitcoin fund. </span><span style="font-weight: 400;">Additionally, on Nov. 14, Representative Mike Cabell</span> <strong><a href="https://cryptoslate.com/pennsylvannia-introduces-bill-to-use-7-billion-state-fund-for-bitcoin-strategic-reserve-purchases/">introduced a bill</a></strong><span style="font-weight: 400;"> to create a BTC reserve in Pennsylvania using the state&#8217;s $7 billion fund.</span></p>
+<p><span style="font-weight: 400;">Porter said Texas and Pennsylvania are the first of many and claimed that up to 10 more US states will likely follow suit before the year ends in an attempt to front-run the Trump administration&#8217;s plans for a federal Bitcoin reserve.</span></p>
+<p><span style="font-weight: 400;">The examples in the US are motivating politicians in other countries. A Brazilian lawmaker</span> <strong><a href="https://cryptoslate.com/brazilian-lawmaker-proposes-18-billion-bitcoin-reserve-initiative/">pushed</a></strong><span style="font-weight: 400;"> for a Bitcoin reserve in the country through legislation introduced on Nov. 26, which would allocate up to nearly $19 billion in BTC.</span></p>
+<p><span style="font-weight: 400;">Meanwhile,</span><span style="font-weight: 400;"> Poland&#8217;s libertarian presidential candidate, Sławomir Mentzen, wants to</span> <strong><a href="https://cryptoslate.com/poland-presidential-candidate-wants-to-allow-nation-to-hold-bitcoin-with-strategic-reserve/">allow the country</a></strong><span style="font-weight: 400;"> to hold BTC as a strategic reserve.</span></p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>StanChart updates Bitcoin price projection to $200k by 2025-end</title>
+		<link>https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/</link>
+					<comments>https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:00:43 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<category><![CDATA[TradFi]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456394</guid>
+
+					<description><![CDATA[<p>Standard Chartered believes Bitcoin (BTC) could reach $200,000 by the end of 2025 as institutional investments and anticipated regulatory shifts solidify its position as a mainstream asset. In its latest report, the bank attributed Bitcoin&#8217;s surge past $100,000 this year to unprecedented institutional inflows and projected a clear path for further growth. Growing interest StanChart&#8217;s [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/">StanChart updates Bitcoin price projection to $200k by 2025-end</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/standard-chartered/">Standard Chartered</a> believes Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) could reach $200,000 by the end of 2025 as institutional investments and anticipated regulatory shifts solidify its position as a mainstream asset.</p>
+<p>In its latest report, the bank attributed Bitcoin&#8217;s <a href="https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/">surge past $100,000</a> this year to unprecedented institutional inflows and projected a clear path for further growth.</p>
+<h2>Growing interest</h2>
+<p>StanChart&#8217;s head of digital assets research, Geoffrey Kendrick, highlighted that institutions acquired 683,000 BTC in 2024, with a significant amount — 245,000 BTC — purchased in the weeks following the US election, a period marked by <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">heightened optimism</a> about regulatory reform under the incoming <a href="https://cryptoslate.com/people/donald-trump/">Trump</a> administration.</p>
+<p><a href="https://cryptoslate.com/companies/microstrategy/">MicroStrategy</a> alone accounted for 213,000 BTC, significantly exceeding its annual target, while US spot exchange-traded funds (ETFs) added 470,000 BTC to their portfolios.</p>
+<p>According to Kendrick:</p>
+<blockquote><p>&#8220;MicroStrategy&#8217;s pace of accumulation has exceeded expectations, and its commitment to raising $42 billion over three years indicates further significant inflows in 2025.&#8221;</p></blockquote>
+<p>Kendrick said he anticipates <a href="https://cryptoslate.com/coinbase-policy-executive-predicts-fast-crypto-regulation-under-trump/">regulatory changes</a> in early 2025, including a repeal of SAB 121, the passage of stablecoin legislation, and leadership changes at the US Securities and Exchange Commission (SEC), as pivotal for unlocking additional institutional participation.</p>
+<p>These reforms are expected to enable retirement funds and pension accounts — representing a $40 trillion market — to allocate a fraction of their assets to Bitcoin. The report noted that even a 1% allocation could drive inflows worth $400 billion, with transformative effects on Bitcoin&#8217;s price.</p>
+<p>Additionally, the report highlighted the role of sovereign wealth funds, such as Norway&#8217;s NBIM, which indirectly holds 7,000 BTC through its investment in MicroStrategy. The report also floated the possibility of a US strategic Bitcoin reserve fund, a move that could catalyze broader adoption by other global sovereign wealth funds.</p>
+<h2>Lower market volatility</h2>
+<p>Standard Chartered noted that the launch of Bitcoin ETF options in November has further reduced market volatility, a factor likely to attract more traditional finance players. The growing appeal of Bitcoin as a portfolio asset is reflected in metrics such as MicroStrategy&#8217;s market cap-to-Bitcoin holdings ratio, which has tripled this year, signaling excess demand.</p>
+<p>Additionally, the potential for corporate treasuries and global investors to deepen their Bitcoin exposure has increased with the success experienced by companies like Japan&#8217;s <a href="https://cryptoslate.com/companies/metaplanet/">Metaplanet</a> and Germany&#8217;s Acurx Pharmaceuticals. Both firms have made recent Bitcoin investments, while <a href="https://cryptoslate.com/companies/microsoft/">Microsoft&#8217;s</a> board is set to <a href="https://cryptoslate.com/michael-saylor-tells-microsoft-board-bitcoin-could-boost-its-market-cap-by-5-trillion/">vote on a similar move</a> this month.</p>
+<p>While challenges remain, including the speed of regulatory implementation and broader adoption among conservative asset managers, Standard Chartered <a href="https://cryptoslate.com/standard-chartered-advises-buying-bitcoin-below-60000-despite-geopolitical-uncertainty/">reaffirmed its confidence</a> in Bitcoin&#8217;s upward trajectory.</p>
+<p>According to the lender:</p>
+<blockquote><p>&#8220;Bitcoin&#8217;s limited market capitalization, relative to potential institutional demand, positions it uniquely for outsized growth.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/">StanChart updates Bitcoin price projection to $200k by 2025-end</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/standard-chartered-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/standard-chartered-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Coinbase exec publishes FDIC letters urging banks to halt or avoid crypto services</title>
+		<link>https://cryptoslate.com/coinbase-executive-publishes-fdic-letters-urging-banks-to-halt-or-avoid-crypto-services/</link>
+					<comments>https://cryptoslate.com/coinbase-executive-publishes-fdic-letters-urging-banks-to-halt-or-avoid-crypto-services/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 19:02:03 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456379</guid>
+
+					<description><![CDATA[<p>Coinbase chief legal officer Paul Grewal has disclosed letters from the Federal Deposit Insurance Corporation (FDIC) to banks throughout 2022, urging them to halt or avoid crypto-related activities. The letters, which date back to March 11, 2022, have been dubbed &#8220;pause letters&#8221; due to their repeated recommendations to suspend or refrain from engaging in crypto [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/coinbase-executive-publishes-fdic-letters-urging-banks-to-halt-or-avoid-crypto-services/">Coinbase exec publishes FDIC letters urging banks to halt or avoid crypto services</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> chief legal officer <a href="https://cryptoslate.com/people/paul-grewal/">Paul Grewal</a> has disclosed letters from the Federal Deposit Insurance Corporation (FDIC) to banks throughout 2022, urging them to halt or avoid crypto-related activities.</span></p>
+<p>The letters, which date back to March 11, 2022, have been dubbed &#8220;pause letters&#8221; due to their repeated recommendations to suspend or refrain from engaging in crypto services.</p>
+<h2>FDIC concerns</h2>
+<p>The FDIC letters cited various concerns, including the agency&#8217;s lack of clarity on regulatory requirements for crypto-related activities. One excerpt noted:</p>
+<blockquote><p><strong>&#8220;At this time, the FDIC has not yet determined what, if any, regulatory fillings will be necessary for a bank to engage in this type of activity.&#8221;</strong></p></blockquote>
+<p>Many sections of the documents were heavily redacted, potentially to protect the proprietary nature of the services or products discussed. The FDIC also emphasized the need for additional information about the banks&#8217; crypto offerings to ensure they would operate &#8220;in a safe and sound manner.&#8221;</p>
+<p>The letters further scrutinized the legal analysis conducted by banks regarding the permissibility of such activities under Part 362 of the FDIC Rules and Regulations, which governs insured state banks. This suggests that some state-chartered banks explored offering crypto-related services in 2022.</p>
+<h2><strong>Operation Chokepoint 2.0</strong></h2>
+<p>The release of these documents stems from Coinbase&#8217;s Freedom of Information Act (FOIA) request <a href="https://cryptoslate.com/coinbase-files-foia-requests-targeting-fdic-over-crypto-banking-restrictions/">filed on Oct. 18</a>, which sought clarity on an alleged 15% deposit cap imposed on crypto-friendly banks.</p>
+<p>Grewal argued that the letters provide evidence of &#8220;Operation Chokepoint 2.0,&#8221; a purported effort by the Biden administration to stifle the crypto industry. He emphasized that the claims were not a conspiracy theory and criticized the FDIC for withholding significant information through redactions and releasing only a fraction of the relevant documents.</p>
+<p>He called for the incoming US administration to reverse what he described as &#8220;politically motivated regulatory decisions.&#8221;</p>
+<p>According to Grewal:</p>
+<blockquote><p><strong>&#8220;The incoming administration has the opportunity to reverse so many poor crypto policy decisions, chief among them politically motivated regulatory decisions like Operation Chokepoint 2.0.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">Meanwhile, others in the industry also criticized the letters and raised further concerns about the involvement of the Federal Reserve, which is copied on many of the letters sent to banks.</span></p>
+<p><span style="font-weight: 400;"> <a href="https://cryptoslate.com/people/caitlin-long/">Caitlin Long</a>, CEO and founder of Custodia Bank, said the Fed&#8217;s mention in the letters is evidence that the</span><span style="font-weight: 400;"> pause letters were coordinated decisions. She also characterized the so-called pause letters as indefinite directives meant to discourage lawful crypto activities.</span></p>
+<p>She said:</p>
+<blockquote><p><strong>&#8220;These weren&#8217;t &#8216;pause letters&#8217; bc the pause was indefinite. These were really &#8216;cease &amp; desist&#8217; letters cloaked in legalese&#8230;designed to crush law-abiding #crypto.&#8221;</strong></p></blockquote>
+<p>The pause letters, spanning nearly two years and nine months, suggest a coordinated effort among regulators to limit banks&#8217; participation in cryptocurrency-related activities. Critics argue that such measures undermine the industry&#8217;s ability to innovate and expand within the US financial system.</p>
+<p>The post <a href="https://cryptoslate.com/coinbase-executive-publishes-fdic-letters-urging-banks-to-halt-or-avoid-crypto-services/">Coinbase exec publishes FDIC letters urging banks to halt or avoid crypto services</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/coinbase-executive-publishes-fdic-letters-urging-banks-to-halt-or-avoid-crypto-services/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/coinbase-operation-chokepoint.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/coinbase-operation-chokepoint.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

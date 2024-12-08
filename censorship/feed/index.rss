@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Censorship News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/censorship/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/censorship/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Sun, 20 Oct 2024 18:51:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Censorship News | CryptoSlate</title>
+	<link>https://cryptoslate.com/censorship/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Julian Assange thinks blockchain has a higher purpose than Bitcoin</title>
+		<link>https://cryptoslate.com/julian-assange-thinks-blockchain-has-a-higher-purpose-than-bitcoin/</link>
+					<comments>https://cryptoslate.com/julian-assange-thinks-blockchain-has-a-higher-purpose-than-bitcoin/#respond</comments>
+		
+		<dc:creator><![CDATA[Kadan Stadelmann]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2024 18:50:52 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Guest Post]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[People]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[julian assange]]></category>
+		<category><![CDATA[wikileaks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=449081</guid>
+
+					<description><![CDATA[<p>The following is a guest post by Kadan Stadelmann, CTO of Komodo Blockchain. Although Julian Assange was released from prison in June, his first appearance did not happen until the beginning of the month. He gave the Council evidence of the psychological effects of his incarceration to the legal affairs and human rights committee of [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/julian-assange-thinks-blockchain-has-a-higher-purpose-than-bitcoin/">Julian Assange thinks blockchain has a higher purpose than Bitcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest post by Kadan Stadelmann, CTO of Komodo Blockchain.</em></p>
+<p class="p1">Although Julian Assange was released from prison in June, his first appearance did not happen until the beginning of the month. He gave the Council evidence of the psychological effects of his incarceration to the legal affairs and human rights committee of the Parliamentary Assembly of the Council of Europe in Strasbourg, France, which includes lawmakers from 46 European countries.</p>
+<p>&#8220;I want to be totally clear. I am not free today because the system worked,” Assange began his speech to the Council of Europe early this month. “I am free today because after years of incarceration I pleaded guilty to journalism. I pleaded guilty to seeking information from a source.&#8221;</p>
+<blockquote>
+<p class="p1">“I pled guilty to seeking information from a source,” <a href="https://apnews.com/article/julian-assange-statement-council-europe-5373cfb854474deba0e5799b23cb8d2e"><span class="s1">said</span></a> Assange. “I pled guilty to obtaining information from a source. And I pled guilty to informing the public what that information was.”</p>
+</blockquote>
+<p class="p1">From 2012-2017, Assange lived at the Eucadorian Embassy in London, where he was granted asylum. From 2019-2024 he was held in a maximum security British prison. “It strips away one’s sense of self, leaving only the raw essence of existence,” he shakily said. He apologized for his “faltering words” and<span class="Apple-converted-space">  </span>“unpolished presentation.”</p>
+<p class="p1">Assange admitted:</p>
+<blockquote>
+<p class="p1">“I’m not yet fully equipped to speak about what I have endured — the relentless struggle to stay alive, both physically and mentally.”</p>
+</blockquote>
+<p class="p1">The Council of Europe’s Parliamentary Assembly released a report about Assange’s incarceration, calling him a “political prisoner.” They expressed concern over his treatment, saying the charges brought against him by the U.S. were “disproportiante” and “severe.”</p>
+<h2 class="p4">Assange’s Ties To Bitcoin Are Clear</h2>
+<p class="p1">WikiLeaks began accepting <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> after global financial institutions placed WikiLeaks in what the founder called a “Financial Blockade.” It <a href="https://www.bbc.com/news/business-11945875"><span class="s1">began with PayPal</span></a>, which originally stated it had received a letter from the State Department before correcting the story and saying it had <a href="https://www.nytimes.com/2016/09/01/world/europe/wikileaks-julian-assange-russia.html"><span class="s1">made its decision</span></a> after seeing the purposely misleading letter the State Department sent to PayPal.</p>
+<p class="p1">And then, institution after institution followed by also blocking WikiLeaks from their platforms. Visa, MasterCard, Bank of America blocked donations. The institutions cited their “terms of service” for the decision to block donations.</p>
+<h2 class="p4">Assange As Public Enemy Number One</h2>
+<p class="p1">WikiLeaks had sinned against the Powers That Be by releasing more than 250,000 U.S. State Department cables that it received from former Army intelligence analyst Bradley Manning, who today goes by Chelsea. WikiLeaks had also shed light on the CIA infiltration of French political parties, spying on French and German leaders and software injections into smart TVs, cars, and iPhones.</p>
+<p class="p1">Some in the international community spoke out against the blockade. The UN High Commissioner condemned the action. So did the UN Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, as well as the Inter-American Commission on Human Rights Special Rapporteur for Freedom of Expression.</p>
+<p class="p1">Although the U.S. State Department called WikiLeaks’ action illegal, though publishing classified documents is not illegal in the United States. No charges were filed. Eventually, WikiLeaks enjoyed certain smaller victories. The Reykjavík district court, in Iceland, ruled laws by imposing a block against WikiLeaks credit card donations, and that the block should be removed within two weeks.</p>
+<blockquote>
+<p class="p1">&#8220;This is a significant victory against Washington&#8217;s attempt to silence WikiLeaks,&#8221; WikiLeaks founder Assange said in a statement about the win in Iceland. &#8220;We will not be silenced. Economic censorship is censorship. It is wrong. When it&#8217;s done outside of the rule of law it&#8217;s doubly wrong. One by one those involved in the attempted censorship of WikiLeaks will find themselves on the wrong side of history.&#8221;</p>
+</blockquote>
+<p class="p1">Assange views Bitcoin as an important innovation, but other blockchain use cases as just—if not more—important.</p>
+<p class="p1">Assange is a man who proved too dangerous to the military industrial complex to freely walk the streets because people trusted him with their secrets. It’s a miracle he is alive. Assange is also a man who played a large role in the emergence of Bitcoin.</p>
+<h2 class="p4">Assange’s View On Bitcoin, Blockchain</h2>
+<p class="p1">Assange was released from prison in June into a new world order–a world of lockdowns, inflation, and war on the European continent. Assange lamented in his press conference how much ground had been lost in the fight for freedom since his incarceration. It’s not been only bad news, though. There is an increased awareness among the public. And, at the same time, Bitcoin’s integration into society has only increased over time.</p>
+<p class="p1">Nation-states such as Bhutan and El Salvador hold Bitcoin. The United States might not be so far behind. There is talk of hyperbitcoinization and the Bitcoin Standard. But, this might not be what Assange finds most interesting about blockchain. In an AMA, he revealed he sees great potential for blockchain and journalism. That, in fact, blockchain could save us from the memory hole.</p>
+<p>Assange said in a Reddit AMA:</p>
+<blockquote>
+<p class="p1">“Bitcoin&#8217;s real innovation is a globally verifiable proof publishing at a certain time. The whole system is built on that concept and many other systems can also be built on it. The blockchain nails down history, breaking Orwell&#8217;s dictum of &#8216;He who controls the present controls the past and he who controls the past controls the future.'&#8221;</p>
+</blockquote>
+<p class="p1">Assange credits Bitcoin with “seeing us through the extralegal US banking blockade.”</p>
+<p>The post <a href="https://cryptoslate.com/julian-assange-thinks-blockchain-has-a-higher-purpose-than-bitcoin/">Julian Assange thinks blockchain has a higher purpose than Bitcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/julian-assange-thinks-blockchain-has-a-higher-purpose-than-bitcoin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/julian-assange-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/julian-assange-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>X goes dark in Brazil as tensions between Musk and Judge escalate</title>
+		<link>https://cryptoslate.com/x-goes-dark-in-brazil-as-tensions-between-musk-and-judge-escalate/</link>
+					<comments>https://cryptoslate.com/x-goes-dark-in-brazil-as-tensions-between-musk-and-judge-escalate/#respond</comments>
+		
+		<dc:creator><![CDATA[Monika Ghosh]]></dc:creator>
+		<pubDate>Sat, 31 Aug 2024 15:01:32 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=441482</guid>
+
+					<description><![CDATA[<p>Alexandre de Moraes, a Supreme Court judge, ordered the &#8220;immediate and complete suspension&#8221; of social media platform X in Brazil, the BBC reported on Aug 31. The judge directed the country’s telecom agency to block access to X, causing the platform to go dark earlier today, according to the New York Times. The ban was [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/x-goes-dark-in-brazil-as-tensions-between-musk-and-judge-escalate/">X goes dark in Brazil as tensions between Musk and Judge escalate</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Alexandre de Moraes, a Supreme Court judge, ordered the &#8220;immediate and complete suspension&#8221; of social media platform X in Brazil, the BBC <a href="https://www.bbc.com/news/articles/c5y3rnl5qv3o">reported</a> on Aug 31. The judge directed the country’s telecom agency to block access to X, causing the platform to go dark earlier today, <a href="https://www.nytimes.com/2024/08/30/world/americas/brazil-elon-musk-x-blocked.html">according</a> to the New York Times.</p>
+<p>The ban was imposed after CEO <a href="http://cryptoslate.com/people/elon-musk">Elon Musk</a> failed to meet the judge&#8217;s deadline to appoint a new legal representative in the country. The ban will stay in place until the company complies with the court orders and pays existing fines totaling $3 million.</p>
+<p>According to an X user, the judge will also levy <a href="https://x.com/EndWokeness/status/1829618446759575708">fines of $8,874 per day</a> for using virtual private networks (VPNs) to access X after the ban. Additionally, app stores of Google and Apple have five days to block access to the app and comply with the ban.</p>
+<p>In April, the court had ordered the platform to suspend certain X accounts that violated Brazilian laws by spreading disinformation. Musk had ignored the court’s orders, upholding free speech as a basic right.</p>
+<p>Last week, Musk shuttered its Brazilian office after Justice Moraes warned of impending arrests for failing to comply with his April order.</p>
+<p>On Friday, Musk <a href="https://x.com/elonmusk/status/1829624142452195334">wrote</a> on X:</p>
+<blockquote><p>“Free speech is the bedrock of democracy and an unelected pseudo-judge in Brazil is destroying it for political purposes.”</p></blockquote>
+<h2>Months of tension</h2>
+<p>Musk and Judge Moraes have been at loggerheads for months. Musk claims that the judge is trying to silence conservative opinions. This is because Judge Moraes ordered the suspension of X accounts that mainly belonged to supporters of former right-wing president Jair Bolsonaro.</p>
+<p>The official account of X posted yesterday that:</p>
+<blockquote><p>“Soon, we expect Judge Alexandre de Moraes will order X to be shut down in Brazil – simply because we would not comply with his illegal orders to censor his political opponents.”</p></blockquote>
+<p>It added that the opponents include an elected senator and a 16-year-old girl. Furthermore, X stressed that Judge Moraes is forcing the platform to violate Brazil’s laws, which it will not.</p>
+<p>Judge Moraes, however, claims that Musk is obstructing his attempt to clean up the country’s internet. Calling Musk an “outlaw,” Judge Moraes’ order stated that Musk intends to “allow the massive spread of disinformation, hate speech and attacks on the democratic rule of law, violating the free choice of the electorate, by keeping voters away from real and accurate information.”</p>
+<h2>Musk’s other businesses face repercussions</h2>
+<p>To put pressure on Musk and in an attempt to collect the fines levied on X, Judge Moraes has also <a href="https://x.com/Starlink/status/1829253524842303678">frozen the funds</a> of SpaceX’s Starlink satellite-internet service. The order also prohibits Starlink from conducting financial transactions in the country.</p>
+<p>Starlink said it plans to fight the order. In a post on X, it wrote:</p>
+<blockquote><p>“This order is based on an unfounded determination that Starlink should be responsible for the fines levied—unconstitutionally—against X.”</p></blockquote>
+<p>Starlink added that the order, which was issued in secret, did not allow for any due process that is guaranteed by Brazil’s constitution.</p>
+<p>Calling Judge Moraes a “dictator” another user, WSBChairman, noted:</p>
+<blockquote><p>“They will fine you more than a year&#8217;s salary for trying to read the news. We are living in 1984.”</p></blockquote>
+<p>Tech lawyer Preston Byrne <a href="https://x.com/prestonjbyrne/status/1829628762368967122">observed</a> that if X loses the fight in Brazil, the European Union, U.K., Australia, and Canada will be next to ban X. However, if X wins, “censorship regimes around the world will be shown to be toothless vs Americans, and rapidly fall.”</p>
+<p>The post <a href="https://cryptoslate.com/x-goes-dark-in-brazil-as-tensions-between-musk-and-judge-escalate/">X goes dark in Brazil as tensions between Musk and Judge escalate</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/x-goes-dark-in-brazil-as-tensions-between-musk-and-judge-escalate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/cryptoslate_Freedom_of_speech_goes_dark_in_Brazil_1703ccdb-7288-4d27-8e50-a0631f48d026.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/cryptoslate_Freedom_of_speech_goes_dark_in_Brazil_1703ccdb-7288-4d27-8e50-a0631f48d026.jpg" length="1456" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Venezuelans turn to VPNs as government restricts Binance access</title>
+		<link>https://cryptoslate.com/venezuelans-turn-to-vpns-as-government-restricts-binance-access/</link>
+					<comments>https://cryptoslate.com/venezuelans-turn-to-vpns-as-government-restricts-binance-access/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Mon, 12 Aug 2024 09:22:10 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[binance]]></category>
+		<category><![CDATA[Venezuela]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=437926</guid>
+
+					<description><![CDATA[<p>Binance has confirmed that the Venezuelan government has restricted access to its website amid turmoil following controversial presidential election results. In an Aug. 10 post on X, Binance stated: &#8220;Like several websites of companies from different segments in Venezuela, including social networks, Binance pages have been facing access restrictions.&#8221; The exchange reassured users that their [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/venezuelans-turn-to-vpns-as-government-restricts-binance-access/">Venezuelans turn to VPNs as government restricts Binance access</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/binance/">Binance</a> has confirmed that the Venezuelan government has restricted access to its website amid turmoil following controversial presidential election results.</p>
+<p>In an Aug. 10 post on X, Binance <a href="https://x.com/BinanceLATAM/status/1822300144718487897">stated</a>:</p>
+<blockquote><p>&#8220;Like several websites of companies from different segments in Venezuela, including social networks, Binance pages have been facing access restrictions.&#8221;</p></blockquote>
+<p>The exchange reassured users that their funds remained secure and that the situation was being closely monitored.</p>
+<p>Binance, the largest crypto exchange by trading volume globally, plays a crucial role in Venezuela. Reports revealed that Binance serves as the primary platform for many Venezuelans engaging in peer-to-peer transactions of stablecoins like <a href="https://cryptoslate.com/coins/tether/">USDT</a> and <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> due to the severe devaluation of its local currency, the bolivar.</p>
+<p>Local group VE sin Filtro <a href="https://x.com/vesinfiltro/status/1822118131701060047">advised</a> Venezuelans to use a virtual private network (VPN) to bypass the crypto platform&#8217;s blockade.</p>
+<p>Meanwhile, several Venezuelans have questioned if using such tools would not negatively impact their account on the crypto exchange. Jose Antonio Lanz, a journalist with Decrypt, <a href="https://x.com/jaldpsd/status/1822367549662925267">wrote</a>:</p>
+<blockquote><p>&#8220;Do you not mind Venezuelans using VPNs and other means that Binance considers suspicious for users in the rest of the world or do you apply on an equal footing the same policies you have used with respect to other countries that establish restrictions?&#8221;</p></blockquote>
+<p>Binance has yet to respond to <em>CryptoSlate&#8217;s</em> request for additional commentary as of press time</p>
+<h2>X impacted</h2>
+<p>President Nicolás Maduro also reportedly imposed a 10-day ban on the social media platform <a href="https://cryptoslate.com/companies/x/">X</a>.</p>
+<p>Maduro accused the social media platform owner <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a> of &#8220;inciting hate and fascism&#8221; and signed a resolution from telecommunications regulator Conatel to remove the platform from circulation.</p>
+<p>This move followed the election authorities&#8217; declaration that Maduro won the July 28 election. However, the opposition fought back against this announcement by publishing a <a class="color-link" title="https://resultadosconvzla.com/" href="https://resultadosconvzla.com/" target="_blank" rel="nofollow noopener noreferrer" data-ga-track="ExternalLink:https://resultadosconvzla.com/" aria-label="website">website</a> showing that their candidate, Edmundo González, had won.</p>
+<p>Notably, the US rejected the election results that declared Maduro the winner, <a href="https://www.state.gov/assessing-the-results-of-venezuelas-presidential-election/">saying</a>:</p>
+<blockquote><p>&#8220;It is clear to the United States and, most importantly, to the Venezuelan people that Edmundo González Urrutia won the most votes in Venezuela’s July 28 presidential election.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/venezuelans-turn-to-vpns-as-government-restricts-binance-access/">Venezuelans turn to VPNs as government restricts Binance access</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/venezuelans-turn-to-vpns-as-government-restricts-binance-access/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/binance-venezuela.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/binance-venezuela.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>OKX CEO warns users about Tornado Cash compliance risks</title>
+		<link>https://cryptoslate.com/okx-ceo-warns-users-about-tornado-cash-compliance-risks/</link>
+					<comments>https://cryptoslate.com/okx-ceo-warns-users-about-tornado-cash-compliance-risks/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 09 Aug 2024 13:04:34 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[OKX]]></category>
+		<category><![CDATA[tornado cash]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=437678</guid>
+
+					<description><![CDATA[<p>OKX CEO Star Xu has warned users about the risks of interacting with the sanctioned crypto mixer Tornado Cash. In an Aug. 9 statement via the social media platform X (formerly Twitter), Xu stated that deposits from sanctioned entities, including Garantex and Tornado Cash, or withdrawals to these entities could trigger compliance risks and lead [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/okx-ceo-warns-users-about-tornado-cash-compliance-risks/">OKX CEO warns users about Tornado Cash compliance risks</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/okx/">OKX</a> CEO Star Xu has warned users about the risks of interacting with the sanctioned crypto mixer <a href="https://cryptoslate.com/coins/tornado-cash/">Tornado Cash</a>.</p>
+<p>In an Aug. 9 statement via the social media platform X (formerly Twitter), Xu stated that deposits from sanctioned entities, including <a href="https://cryptoslate.com/us-uk-initiate-joint-probe-into-20-billion-moved-via-crypto-to-evade-russian-sanctions/">Garantex</a> and Tornado Cash, or withdrawals to these entities could trigger compliance risks and lead to account suspension.</p>
+<h2>Compliance measures</h2>
+<p>Xu emphasized that OKX adheres to all relevant <a href="https://cryptoslate.com/united-states-ofac-places-new-sanctions-on-crypto-firms-with-ties-to-russia/">sanctions policies,</a> including those from the US. As a result, the exchange does not onboard customers from the Specially Designated Nationals (SDN) List and cannot provide services to sanctioned individuals or entities.</p>
+<p>He also clarified that this policy was not new and had been in effect for some time. Xu stated:</p>
+<blockquote><p>&#8220;If our sanctions controls are triggered due to deposits from or withdrawals to a sanctioned exchange or DeFi protocol like Garantex or Tornado Cash, our compliance team may freeze the related funds and off-board the account.&#8221;</p></blockquote>
+<p>The warning follows a public appeal by an X user known as Satoshi Friends, who <a href="https://x.com/slezisatoshi/status/1821601594732875899">urged</a> the exchange users from Commonwealth of Independent States (CIS) countries to withdraw their funds from the platform.</p>
+<p>According to him, the exchange has enacted strict policies that led to sudden account blocks, fund freezes, and asset losses. He claimed that these actions severely impacted several influencers, who had their accounts blocked and funds limited, with resolutions only achieved after direct engagement with the OKX team.</p>
+<h2>Tornado Cash&#8217;s usage</h2>
+<p>OKX&#8217;s warning follows a Federal Reserve Bank of New York <a href="https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1112.pdf?sc_lang=en">report</a> assessing the impact of US sanctions on Tornado Cash.</p>
+<p>According to the report, the sanction had a telling impact on <a href="https://cryptoslate.com/hackers-like-lazarus-continue-to-use-tornado-cash-despite-us-sanctions/">how the crypto mixer was used</a>. Larger pools on the platform have not fully recovered to pre-sanction levels. However, smaller pools have shown some recovery, suggesting continued interest from retail users.</p>
+<p>Tornado Cash was founded in 2019 by Russian nationals Roman Semenov and Roman Storm. In 2022, the US Department of Treasury <a href="https://cryptoslate.com/tornado-cash-website-discord-offline-after-community-finds-malicious-code-in-protocols-backend/">sanctioned the platform</a> because it helped launder over $7 billion in illicit funds from malicious actors like the North Korea-backed Lazarus Group.</p>
+<p>The post <a href="https://cryptoslate.com/okx-ceo-warns-users-about-tornado-cash-compliance-risks/">OKX CEO warns users about Tornado Cash compliance risks</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/okx-ceo-warns-users-about-tornado-cash-compliance-risks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/okx-tornado-cash.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/okx-tornado-cash.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Buterin argues for blockchain as defense against ‘efficiency’ of Authoritarian regimes</title>
+		<link>https://cryptoslate.com/buterin-argues-for-blockchain-as-defense-against-efficiency-of-authoritarian-regimes/</link>
+					<comments>https://cryptoslate.com/buterin-argues-for-blockchain-as-defense-against-efficiency-of-authoritarian-regimes/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 10:06:42 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=428743</guid>
+
+					<description><![CDATA[<p>The most recent episode of the Bankless podcast discussed the potential advantages of authoritarian regimes in the 21st century. The argument stems from the idea that the Chinese and Russian governments allocate significant resources to promote their narratives while the US government takes a more hands-off approach. In the episode, hosts Ryan Sean Adams and [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/buterin-argues-for-blockchain-as-defense-against-efficiency-of-authoritarian-regimes/">Buterin argues for blockchain as defense against ‘efficiency’ of Authoritarian regimes</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The most recent episode of the Bankless <a href="https://www.youtube.com/watch?v=dTlXK0mbif8">podcast</a> discussed the potential advantages of authoritarian regimes in the 21st century. The argument stems from the idea that the Chinese and Russian governments allocate significant resources to promote their narratives while the US government takes a more hands-off approach.</p>
+<p>In the episode, hosts Ryan Sean Adams and David Hoffman delve into whether authoritarianism could outcompete liberal democracies, featuring insights from economist Noah Smith and Ethereum co-founder Vitalik Buterin.</p>
+<h2>Efficiency of Authoritarian regimes as a threat to liberalism</h2>
+<p>Smith argues that liberal democracy was hailed as the optimal societal model at the end of the 20th century, epitomized by Francis Fukuyama&#8217;s &#8220;The End of History&#8221; thesis. However, recent developments have cast doubt on this triumphalism. The rise of China, perceived weaknesses in the US, and the transformative impact of the internet are central to this reassessment.</p>
+<p>The internet&#8217;s role is pivotal. Smith posits that liberal democracies historically excel at aggregating information through markets, elections, and public discourse. However, the internet&#8217;s ability to centralize vast amounts of data potentially reduces this advantage. Authoritarian states can now harness this data to gauge public sentiment, allocate resources more efficiently, and respond swiftly to unrest, as evidenced by China&#8217;s rapid policy shifts following the 2022 &#8220;white paper protests.&#8221;</p>
+<p>Moreover, the internet fosters information anarchy, making it easier for disinformation to proliferate. This scenario complicates governance in liberal democracies, where politicians spend substantial time countering false narratives and fundraising, detracting from effective governance.</p>
+<p>Buterin expands on this, likening the information landscape to Thomas Hobbes&#8217; concept of a &#8220;war of all against all,&#8221; where monopolistic control over narratives might emerge as the only stable equilibrium. This metaphor highlights the potential for authoritarian regimes to exploit the internet&#8217;s capacity for data aggregation, turning a tool designed for liberal empowerment into one that strengthens centralized control.</p>
+<h2>Counterarguments to the efficiency of Authoritarian regimes</h2>
+<p>Smith and Buterin then explore counterarguments. Smith draws a parallel to the printing press, which lowered information costs and led to increased liberalism and societal fragmentation rather than authoritarian dominance. He questions why the internet wouldn&#8217;t follow a similar trajectory.</p>
+<p>However, Smith explains that the situation today involves nonlinearities. Initially, reducing information costs via technologies like the printing press and telegraph bolstered liberal democracies by improving information aggregation. As these costs approached zero, benefits plateaued while the costs of disinformation and information warfare rose exponentially.</p>
+<p>Buterin adds that centralized systems often excel in extraction rather than production, potentially outcompeting more liberal systems in zero-sum conflicts. He emphasizes that defining success solely by economic output might overlook broader impacts on human flourishing.</p>
+<p>Buterin then considers the digital world&#8217;s fundamental differences from the physical one, particularly in terms of defense mechanisms. Digital defenses, such as encryption and decentralized platforms, offer robust protections without physical analogs, suggesting an inherent resistance to totalizing control in the digital sphere.</p>
+<p>Moreover, Buterin notes that the fragmentation of the internet into smaller, more specialized communities could mitigate the negative impacts of information warfare. These fragmented spaces often maintain higher discourse quality compared to large, chaotic platforms like Twitter.</p>
+<p>Buterin stated,</p>
+<blockquote><p>&#8220;Twitter is the worst of it that you see, and it&#8217;s the worst of it precisely because you can see it right if you think about private group chats, for example.</p>
+<p>Private group chats consistently maintain higher levels of quality and high levels of productive discourse on smaller social media platforms, whether it&#8217;s Farcaster or whatever else they maintain higher levels of discourse.&#8221;</p></blockquote>
+<p>He then pointed to an article in 2022 by Smith discussing how <a href="https://www.noahpinion.blog/p/the-internet-wants-to-be-fragmented">the internet wants to be fragmented</a>.</p>
+<p>Smith acknowledges this point, agreeing that reducing reliance on broad, contentious platforms could lessen the social costs associated with information tournaments, allowing for more constructive and focused discussions within smaller, more coherent groups.</p>
+<p>Despite these reassurances, Smith raises concerns about the global reach of authoritarian influence, particularly through sharp power tactics. He highlights how China uses economic leverage to influence foreign companies and governments, blurring national borders in the digital space. This ongoing cross-border information warfare presents a unique challenge distinct from traditional physical conflicts.</p>
+<h2>How blockchain could save democracy</h2>
+<p>During the discussion, Noah Smith raised the question of whether blockchain technology could enable secure communication among citizens in authoritarian states like China and Russia. He wonders if there are ways for people to talk freely and anonymously about political issues, bypassing government surveillance and censorship.</p>
+<p>Vitalik Buterin responds by highlighting the work of a company called Rarimo, based in Kyiv. It developed a tool called &#8220;<a href="https://freedomtool-org.ipns.dweb.link/#/doc">Freedom Tool</a>,&#8221; which uses zero-knowledge proof technology to allow Russian citizens to prove their citizenship and participate in online voting without revealing their identities.</p>
+<p>This system ensures that the results are tamper-proof and visible, creating a form of anonymous, censorship-resistant voting. Buterin sees this as an example of how blockchain and zero-knowledge proofs can provide both privacy and trustworthiness, potentially creating a more secure and resilient infosphere against both centralized and decentralized cyber attacks.</p>
+<p>Buterin acknowledges that while blockchain technology might not be necessary for Americans to communicate, it could be crucial for people in authoritarian states to have secure and private conversations about their political situations. This technological capability could help foster internal dissent and democratization efforts within these regimes by providing a safe space for dialogue and organization.</p>
+<p>Smith appreciates this perspective and sees potential in developing tools that make the internet landscape more conducive to pluralism, where multiple groups can interact in productive ways. The idea is not to play cat-and-mouse games with oppressive regimes but to create robust systems that support healthy information ecosystems, allowing diverse voices to be heard without fear of retribution.</p>
+<p>In conclusion, blockchain technology, with its ability to provide secure, anonymous communication and verifiable voting mechanisms, offers promising avenues for supporting democratic movements and safeguarding freedoms in authoritarian contexts.</p>
+<p>By leveraging these technologies, it may be possible to counteract some of the disadvantages liberal democracies face in the digital age, ensuring democracy can continue to thrive even in challenging environments.</p>
+<p>Ultimately, the discussion emphasizes the complexity of predicting long-term outcomes in the face of rapid technological advancements. While the potential for authoritarian regimes to exploit these technologies is significant, the inherent adaptability and resilience of liberal democracies should not be underestimated. The future remains uncertain, shaped by the interplay between technological capabilities, political structures, and societal values.</p>
+<p>The post <a href="https://cryptoslate.com/buterin-argues-for-blockchain-as-defense-against-efficiency-of-authoritarian-regimes/">Buterin argues for blockchain as defense against ‘efficiency’ of Authoritarian regimes</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/buterin-argues-for-blockchain-as-defense-against-efficiency-of-authoritarian-regimes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/vitalik-buterin-blockchain.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/vitalik-buterin-blockchain.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Bitcoin whale pays off almost all Assange’s $500k jet fees in single transaction</title>
+		<link>https://cryptoslate.com/bitcoin-whale-pays-off-almost-all-assanges-500k-jet-fees-in-single-transaction/</link>
+					<comments>https://cryptoslate.com/bitcoin-whale-pays-off-almost-all-assanges-500k-jet-fees-in-single-transaction/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 08:18:45 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Media]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=428708</guid>
+
+					<description><![CDATA[<p>Julian Assange, the founder of WikiLeaks, has received significant financial support from donors to cover the costs of his journey to freedom, as discovered by Alistair Milne, CIO of Altana Digital Currency Fund. As Assange prepares to return to Australia following his plea deal with US authorities, his wife Stella launched an urgent appeal for [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-whale-pays-off-almost-all-assanges-500k-jet-fees-in-single-transaction/">Bitcoin whale pays off almost all Assange’s $500k jet fees in single transaction</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Julian Assange, the founder of WikiLeaks, has received significant financial support from <a href="https://freeassange.org/donate/">donors</a> to cover the costs of his journey to freedom, as <a href="https://x.com/alistairmilne/status/1805864578611318873">discovered</a> by Alistair Milne, CIO of Altana Digital Currency Fund. As Assange <a href="https://cryptoslate.com/julian-assange-free-from-prison-leaves-uk-for-saipan-after-striking-us-deal/">prepares</a> to return to Australia following his plea deal with US authorities, his wife Stella launched an urgent appeal for donations to cover a &#8220;massive USD 520,000 debt&#8221; owed to the Australian government for charter flights.</p>
+<p>In a remarkable display of support, an anonymous donor contributed just over 8 BTC (approximately $500,000) to Assange&#8217;s cause within the past day. This single &#8220;Bitcoin whale&#8221; donation accounts for most of the required funds. The receiving address, &#8216;bc1qsq,&#8217; matches the one listed on Assange&#8217;s donation page. Data from Arkham Intelligence traces the funds back to a <a href="https://platform.arkhamintelligence.com/explorer/tx/1b9216778fe3b7dfdf7a2dc7fc7fed99484416f5b4eed4f244f080329ae14bf3">CashApp deposit</a> from February 2023.</p>
+<p>Additionally, over £300,000 (roughly $380,000) has been raised through fiat currency donations.</p>
+<figure style="width: 1131px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" src="https://pbs.twimg.com/media/GQ-3jyOX0AAtrB2?format=jpg&amp;name=medium" alt="Bitcoin transaction to Assange (Alistair Milne)" width="1131" height="841" /><figcaption class="wp-caption-text">Bitcoin transaction to Assange (Alistair Milne)</figcaption></figure>
+<p>According to Stella Assange, the chartered flights were <a href="https://x.com/Stella_Assange/status/1805573781303308326">necessary</a> because Assange &#8220;was not permitted to fly commercial airlines or routes to Saipan and onward to Australia.&#8221; The journey includes a stop in Saipan, where Assange is set to appear before a US federal judge as part of his plea agreement.</p>
+<p>The outpouring of financial support means that Assange is likely to arrive in Australia debt-free, thanks mainly to the generosity of supporters, particularly the anonymous Bitcoin donor. This development highlights the role of <a href="/coins/bitcoin">Bitcoin</a> in facilitating rapid, large-scale financial support for high-profile causes.</p>
+<p>As Assange&#8217;s legal saga comes to a close, the substantial donations spotlight the continued public interest in his case and the willingness of supporters to contribute to his return home. The WikiLeaks founder is expected to fly to Canberra, Australia, following his court appearance in Saipan, marking the end of a prolonged legal battle that has spanned over a decade.</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-whale-pays-off-almost-all-assanges-500k-jet-fees-in-single-transaction/">Bitcoin whale pays off almost all Assange’s $500k jet fees in single transaction</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/bitcoin-whale-pays-off-almost-all-assanges-500k-jet-fees-in-single-transaction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/julian-assange-flight.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/julian-assange-flight.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Bitcoin pioneer Julian Assange free from prison – leaves UK after striking US deal</title>
+		<link>https://cryptoslate.com/julian-assange-free-from-prison-leaves-uk-for-saipan-after-striking-us-deal/</link>
+					<comments>https://cryptoslate.com/julian-assange-free-from-prison-leaves-uk-for-saipan-after-striking-us-deal/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 08:31:53 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=428276</guid>
+
+					<description><![CDATA[<p>Julian Assange, the founder of WikiLeaks, has been released from Belmarsh prison in the UK after reaching a plea deal with US authorities, marking a significant development in his long-running legal saga. WikiLeaks said Assange left the maximum security prison on June 24, 2024, after spending 1,901 days there. The WikiLeaks X account posted, &#8220;Julian [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/julian-assange-free-from-prison-leaves-uk-for-saipan-after-striking-us-deal/">Bitcoin pioneer Julian Assange free from prison – leaves UK after striking US deal</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Julian Assange, the founder of WikiLeaks, has been <a href="https://x.com/wikileaks/status/1805390138945528183?s=46&amp;t=wxOs6dz_yXlLV9YPYuRzvA">released</a> from Belmarsh prison in the UK after reaching a plea deal with US authorities, marking a significant development in his long-running legal saga. WikiLeaks said Assange left the maximum security prison on June 24, 2024, after spending 1,901 days there.</p>
+<p>The WikiLeaks X account posted,</p>
+<blockquote><p>&#8220;Julian Assange is free. He left Belmarsh maximum security prison on the morning of 24 June, after having spent 1901 days there. He was granted bail by the High Court in London and was released at Stansted airport during the afternoon, where he boarded a plane and departed the UK.&#8221;</p></blockquote>
+<p>Assange was granted bail by the High Court in London and released at Stansted Airport, where he boarded a plane and left the UK. He is expected to plead guilty to a single criminal count of conspiring to obtain and disclose classified US national defense documents. The sentencing, where he is due to be credited for 62 months already served, will take place on the island of Saipan in the Northern Mariana Islands.</p>
+<p>Assange&#8217;s wife, Stella, <a href="https://www.bbc.co.uk/news/live/world-69145409">told</a> the BBC,</p>
+<blockquote><p>&#8220;The important thing here is that the deal involved time served &#8211; that if he signed it, he would be able to walk free. He will be a free man once it has been signed off by a judge and that will happen some time tomorrow.&#8221;</p></blockquote>
+<p>This development marks a potential end to Assange&#8217;s prolonged legal battle, which began with WikiLeaks&#8217; publication of classified US documents in 2010. The plea deal, if approved by a judge, would conclude the US government&#8217;s pursuit of Assange and allow him to return to Australia after years of confinement.</p>
+<p>Stella Assange described her emotions following Julian&#8217;s release,</p>
+<blockquote><p>&#8220;I mean, I&#8217;m just elated,&#8221; she said. &#8220;Frankly, it&#8217;s just incredible. It feels like it&#8217;s not real [&#8230;] We weren&#8217;t really sure until the last 24 hours that it was actually happening.&#8221;</p></blockquote>
+<h2>Assange&#8217;s role in Bitcoin</h2>
+<p>WikiLeaks began accepting Bitcoin donations in 2011, making it one of the early high-profile crypto adopters. Satoshi himself <a href="https://www.forbes.com/sites/rogerhuang/2019/04/26/how-bitcoin-and-wikileaks-saved-each-other/">said</a>, &#8220;It would have been nice to get this attention in any other context.&#8221; WikiLeaks has kicked the hornet&#8217;s nest, and the swarm is headed towards us. WikiLeaks&#8217; adoption of Bitcoin provided crucial funding for the organization when it faced financial blockades while simultaneously boosting Bitcoin&#8217;s legitimacy and utility.</p>
+<p>In a 2014 interview, Assange <a href="https://bitcoinmagazine.com/culture/bitcoin-price-7000-julian-assange-most-interesting-internet">called</a> Bitcoin &#8220;the most interesting thing on the internet&#8221; and praised its potential beyond payments, particularly its ability to provide globally verifiable proof publishing at a certain time. Since then, Bitcoin&#8217;s value has increased dramatically, demonstrating the prescience of Assange&#8217;s assessment.</p>
+<p>During Assange&#8217;s legal battles, supporters <a href="https://x.com/AssangeDAO/status/1805408926277812494">created</a> a Decentralized Autonomous Organization (DAO) to fund his defense, raising over 16,500 ether—equivalent to over $55.2 million at current prices. This innovative use of crypto technology emphasizes the intertwined history of WikiLeaks, freedom of information, and the rise of cryptocurrencies as tools for financial sovereignty and resistance against censorship.</p>
+<p>As Assange prepares for his court appearance in Saipan, the international community awaits further details on the finalization of the plea deal and his return to Australia. This development not only marks a significant moment in Assange&#8217;s personal journey but also highlights the ongoing debates surrounding press freedom, government transparency, and the role of cryptocurrencies in supporting controversial causes.</p>
+<p>The post <a href="https://cryptoslate.com/julian-assange-free-from-prison-leaves-uk-for-saipan-after-striking-us-deal/">Bitcoin pioneer Julian Assange free from prison – leaves UK after striking US deal</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/julian-assange-free-from-prison-leaves-uk-for-saipan-after-striking-us-deal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/julian-assange.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/julian-assange.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Bitcoin developer fails to rally support for ‘bug fix’ to stop Ordinals, inscriptions</title>
+		<link>https://cryptoslate.com/bitcoin-developer-fails-to-rally-support-for-bug-fix-to-stop-ordinals-inscriptions/</link>
+					<comments>https://cryptoslate.com/bitcoin-developer-fails-to-rally-support-for-bug-fix-to-stop-ordinals-inscriptions/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Sat, 06 Jan 2024 18:44:01 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Mining]]></category>
+		<category><![CDATA[Ordinals]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=387111</guid>
+
+					<description><![CDATA[<p>In a recent development that has stirred the Bitcoin community, developer Luke Dashjr&#8217;s proposal to address the congestion caused by Ordinals and BRC-20 tokens on the Bitcoin network has been met with support and strong opposition. Dashjr failed to rally enough support for a proposed &#8220;bug fix&#8221; to the Bitcoin code that would essentially put [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-developer-fails-to-rally-support-for-bug-fix-to-stop-ordinals-inscriptions/">Bitcoin developer fails to rally support for ‘bug fix’ to stop Ordinals, inscriptions</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In a recent development that has stirred the Bitcoin community, developer Luke Dashjr&#8217;s proposal to address the congestion caused by <a href="http://cryptoslate.com/ordinals">Ordinals</a> and BRC-20 tokens on the Bitcoin network has been met with support and strong opposition.</p>
+<p>Dashjr <a href="https://twitter.com/udiWertheimer/status/1743623508754670028">failed to rally</a> enough support for a proposed &#8220;bug fix&#8221; to the Bitcoin code that would essentially put an end to Ordinals and Inscriptions on the blockchain. Bitcoin developers are split on the matter and without majority consensus, the decentralized nature of the blockchain will not allow any changes to the code.</p>
+<p>Core developer Ava Chow eventually ended the meeting, remarking that the PR was &#8220;controversial&#8221; and the debate had reached a &#8220;stalemate.&#8221;</p>
+<p>She said:</p>
+<blockquote><p>&#8220;In its current state, [the PR] has no hope of reaching a conclusion that is acceptable to everyone.&#8221;</p></blockquote>
+<h2>The &#8220;bug fix&#8221;</h2>
+<p>Dashjr, a prominent figure in Bitcoin development, had proposed a solution to &#8220;spam filtration&#8221; in part of the Taproot transactions, aiming to block Ordinals and BRC-20 tokens, which he described as exploiting a vulnerability in Bitcoin Core.</p>
+<p>Dashjr&#8217;s stance, while rooted in concerns over network integrity, has sparked debate over the decentralized nature of Bitcoin&#8217;s governance. His proposal to implement the fix in Bitcoin Knots v25.1, a derivative of Bitcoin Core that he maintains, has not seen adoption in the upcoming v26 release of Bitcoin Core, with hopes for its inclusion in v27 next year.</p>
+<p>Dashjr&#8217;s bold claim that &#8220;Ordinals never existed to begin with. It&#8217;s all fraud&#8221; has further fueled the controversy.</p>
+<h2>The debate</h2>
+<p>Debate continues to rage among the Bitcoin community on whether Ordinals are a positive or negative force for the Bitcoin ecosystem.</p>
+<p>Proponents — including <a href="https://cryptoslate.com/saylor-advocates-ordinals-protocol-eyes-global-bitcoin-adoption/">Michael Saylor</a> — argue that Inscriptions and Ordinals are an innovation that has renewed interest in Bitcoin. Supporters claim that the market wants Ordinals and Inscriptions since the rising fees show a clear demand for them.</p>
+<p>Proponents argue that Ordinals are the perfect way to beta-test the Bitcoin blockchain for mass adoption. They also highlight that these tokens have created a new revenue stream for miners that will continue to be lucrative long after the last Bitcoin is mined.</p>
+<p>Meanwhile, <a href="https://cryptoslate.com/op-ed-bitcoin-community-must-not-allow-let-ordinals-debate-cause-division/">detractors believe that Ordinals are an attack on Bitcoin</a> and could dilute its credibility as &#8220;digital gold.&#8221; They believe these tokens have caused unnecessary spam and congestion on the blockchain and should not be associated with Bitcoin.</p>
+<p>Developer Jimmy Song recently called Ordinals the new <a href="https://cryptoslate.com/bitcoin-developer-jimmy-song-likens-ordinals-to-pump-and-dump-altcoin-scams/">altcoin pump and dump scam</a>. He said investors have wisened up to the difference between Bitcoin and all other cryptocurrencies, making it harder for scammers to create honey pots on other chains. Song claimed that scammers now use Bitcoin&#8217;s reputation and image to lure investors into new scam coins like Ordinals.</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-developer-fails-to-rally-support-for-bug-fix-to-stop-ordinals-inscriptions/">Bitcoin developer fails to rally support for ‘bug fix’ to stop Ordinals, inscriptions</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/bitcoin-developer-fails-to-rally-support-for-bug-fix-to-stop-ordinals-inscriptions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-bug.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-bug.jpg" length="1792" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ocean Mining defends accusations of censoring privacy-focused Bitcoin transactions by Samourai Wallet</title>
+		<link>https://cryptoslate.com/samourai-wallet-accuses-ocean-mining-of-censoring-privacy-focused-bitcoin-transactions/</link>
+					<comments>https://cryptoslate.com/samourai-wallet-accuses-ocean-mining-of-censoring-privacy-focused-bitcoin-transactions/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 07 Dec 2023 12:10:42 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Jack Dorsey]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=380020</guid>
+
+					<description><![CDATA[<p>Samourai Wallet, a Bitcoin mobile app wallet, accused Ocean Mining, a decentralized BTC mining pool, of censoring &#8220;privacy enhancing transactions&#8221; on the blockchain network in an extensive Dec. 7 thread on social media platform X (formerly Twitter). However, Ocean Mining&#8217;s top executive retorted that a bug in Samurai&#8217;s system caused the problem. The issue The [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/samourai-wallet-accuses-ocean-mining-of-censoring-privacy-focused-bitcoin-transactions/">Ocean Mining defends accusations of censoring privacy-focused Bitcoin transactions by Samourai Wallet</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Samourai Wallet, a <span data-preserver-spaces="true"><a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> mobile app wallet</span>, accused <a href="https://cryptoslate.com/decentralized-bitcoin-mining-pool-ocean-raises-over-6m-in-seed-funding/">Ocean Mining</a>, a decentralized BTC mining pool, of censoring &#8220;privacy enhancing transactions&#8221; on the blockchain network in an extensive Dec. 7 <a href="https://twitter.com/SamouraiWallet/status/1732584009442443336">thread</a> on social media platform X (formerly Twitter).</p>
+<p>However, Ocean Mining&#8217;s top executive retorted that a bug in Samurai&#8217;s system caused the problem.</p>
+<h2>The issue</h2>
+<p>The BTC wallet provider claimed that the mining pool enacted a policy of censoring Whirlpool Coinjoin transactions and BIP47 notification transactions from Dec. 6. The firm pointed fingers at Ocean Mining&#8217;s leadership, including CTO Luke Dashjr and lead investor <a href="https://cryptoslate.com/people/jack-dorsey/">Jack Dorsey</a>, alleging &#8216;hostility&#8217; towards its transactions.</p>
+<p>According to Samourai, Dashjr&#8217;s claim that Whirlpool transactions are non-standard is &#8220;totally wrong and a lie&#8221; because it is imposing a 46-byte limit on the OP_RETURN function instead of the previous 80 bytes set in Bitcoin Core version 0.12. Samourai Wallet contends that this alteration effectively causes Ocean to exclude privacy-enhancing transactions.</p>
+<p>The platform wrote:</p>
+<blockquote><p>&#8220;Ocean is choosing to pursue a very slippery slope in their decision to exclude privacy enhancing transactions&#8230;Unfortunately the action of Ocean deciding to censor privacy enhancing transactions is yet another example of the dilution of cypherpunk roots of the bitcoin project.&#8221;</p></blockquote>
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-qwdbm-79elbk h-full">
+<div class="react-scroll-to-bottom--css-qwdbm-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-8">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion">
+<div class="relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="e89ab736-6585-4b12-b304-b71110aab265">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Consequently, the BTC wallet provider advised miners to reconsider their support for the decentralized pool and redirect their hash power to alternatives.</p>
+<blockquote><p>&#8220;If you are currently pointing hashpower at Ocean we would ask you to reconsider and point your hashpower to another pool. It is important for the market to make it absolutely clear to the pool that you do not agree with their privacy enhancing transaction censorship policy,&#8221; Samourai Wallet wrote.</p></blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="react-scroll-to-bottom--css-qwdbm-1n7m0yu">
+<h2 class="flex flex-col pb-9 text-sm"><span style="font-size: 22px; font-weight: bold;">Ocean mining responds</span></h2>
+</div>
+</div>
+</div>
+<p>In response, Dashjr <a href="https://x.com/LukeDashjr/status/1732597621015949494?s=20">countered</a> that the issue was due to a bug in Samourai&#8217;s system.</p>
+<p>Furthermore, the Ocean Mining CTO questioned why Samourai exceeded the 42-byte data carrier size. &#8220;What is this data even for? I&#8217;ve looked at trying to work around it, but can&#8217;t find any technical details,&#8221; Dashjr added.</p>
+<p>However, he concluded that Samourai should fix the problem on their end since it&#8217;s reducing privacy.</p>
+<p>Meanwhile, this is not the first time that Dashjr has been accused of trying to censor transactions on the BTC network. On Dec. 6, crypto community members <a href="https://cryptoslate.com/bitcoin-developers-bug-claim-triggers-ordi-token-breif-dip-below-50/">likened</a> his attempt to end Ordinals Inscription to censoring transactions on the blockchain network.</p>
+<p>The post <a href="https://cryptoslate.com/samourai-wallet-accuses-ocean-mining-of-censoring-privacy-focused-bitcoin-transactions/">Ocean Mining defends accusations of censoring privacy-focused Bitcoin transactions by Samourai Wallet</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/samourai-wallet-accuses-ocean-mining-of-censoring-privacy-focused-bitcoin-transactions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/12/bitcoin-blocks.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/12/bitcoin-blocks.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Op-Ed: X Community Notes are not perfect, but socializing fact-checking should be encouraged</title>
+		<link>https://cryptoslate.com/op-ed-x-community-notes-are-not-perfect-but-socializing-fact-checking-should-be-encouraged/</link>
+					<comments>https://cryptoslate.com/op-ed-x-community-notes-are-not-perfect-but-socializing-fact-checking-should-be-encouraged/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 09:04:24 +0000</pubDate>
+				<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=366599</guid>
+
+					<description><![CDATA[<p>The social media platform X, previously known as Twitter, has made strides in battling misinformation with its Community Notes feature. As the Senior Editor of CryptoSlate, my hands-on experience with this tool revealed its advantages and drawbacks in a world desperate for accurate information. Community Notes allow users to add context to potentially deceptive posts. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/op-ed-x-community-notes-are-not-perfect-but-socializing-fact-checking-should-be-encouraged/">Op-Ed: X Community Notes are not perfect, but socializing fact-checking should be encouraged</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The social media platform X, previously known as Twitter, has made strides in battling misinformation with its Community Notes feature. As the Senior Editor of CryptoSlate, my hands-on experience with this tool revealed its advantages and drawbacks in a world desperate for accurate information.</p>
+<p>Community Notes allow users to add context to potentially deceptive posts. Once a note receives enough helpful votes from a diverse group of contributors, it&#8217;s publicly displayed, aiming to improve the information quality on the platform. This model, embodying &#8216;freedom of speech, not reach,&#8217; has met with both applause and critique.</p>
+<p>Ethereum co-founder Vitalik Buterin, among others, <a href="https://cryptoslate.com/vitalik-buterin-praises-decentralized-consensus-of-x-community-notes/">praised</a> the feature for aligning with core blockchain values. However, <a href="https://tech.hindustantimes.com/tech/news/x-community-notes-weapon-against-fake-news-or-free-speech-71693765866484.html#:~:text=Is%20the%20algorithm%20neutral%3F%20While,Julien%20Pain%2C%20the%20host">concerns</a> about its susceptibility to misuse have been raised, as evidenced by attacks on significant corporations&#8217; advertisements. Despite X&#8217;s assertions of speed improvements, fact-checking delays further raise eyebrows.</p>
+<h2>Improving Community Notes.</h2>
+<p>Community Notes community forms a critical checkpoint. This system, while imperfect, fosters a level of transparency and community regulation.</p>
+<p>However, some areas need improvement. Building a robust Community Notes team is paramount. Clear participation criteria must be set to prevent the platform from becoming a mere battleground of opinions.</p>
+<p>I was given access to write Community Notes today under an anonymous pseudonym. This anonymity allows me to participate in fact-checking while remaining safe from retribution or attacks online should there be disagreement on the Community Note.</p>
+<figure id="attachment_366624" aria-describedby="caption-attachment-366624" style="width: 566px" class="wp-caption aligncenter"><img decoding="async" class="size-large wp-image-366624" src="https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324-566x1024.png" alt="Community Notes checking" width="566" height="1024" srcset="https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324-566x1024.png 566w, https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324-166x300.png 166w, https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324-768x1390.png 768w, https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324-849x1536.png 849w, https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324-1131x2048.png 1131w, https://cryptoslate.com/wp-content/uploads/2023/10/IMG_0782-e1697792110324.png 1179w" sizes="(max-width: 566px) 100vw, 566px" /><figcaption id="caption-attachment-366624" class="wp-caption-text">Screenshot of the criteria for Community Notes approval</figcaption></figure>
+<p>Yet, is this anonymity dangerous? The feature allows for fact-checking any X content, including competitors&#8217; articles. Should I believe other media companies are sharing false information, I can now add a note that the Community Notes community will vote on.</p>
+<p>However, Community Notes members can also attempt to discredit any X user, including competitors, at will. So the question remains: Is the rest of the fact-checking community armed with the tools to counter malicious attempts to discredit competitors? I would never look to abuse this system; I believe in free speech, but not everyone will take this position.</p>
+<p>Further, while X&#8217;s fact-checking tools are seemingly under decentralized control, there appears to be little vetting in deciding who is qualified to fact-check others. Were a small group able to gain access to Community Notes and work together to spread misinformation and validate false claims with further manipulated Community Notes, how would X be able to handle it? Would a centralized team under X leadership remove the Community Note? What&#8217;s to stop them from eliminating other notes if they can do that? Further, how would we even know notes were removed?</p>
+<p>Despite my reservations, this feature offers a unique opportunity. It gives a voice to users in regulating information quality. While I don&#8217;t always align with Elon Musk&#8217;s views, this feature mirrors an intriguing ethos.</p>
+<p>Community-driven fact-checking represents a move towards self-regulation that should be supported. It&#8217;s a step toward a future where social media can be participatory, interactive, and accountable.</p>
+<p>However, the current iteration is imperfect, and I&#8217;ve outlined several key issues that must be addressed. Like so many tools at our disposal, it is down to how we use them that defines whether they bring value or are manipulated to deepen the problem further.</p>
+<p>I believe Community Notes should look to the following areas for improvements rather than abandoning community-driven fact-checking:</p>
+<ul class="list-disc pl-8 space-y-2">
+<li class="whitespace-normal">Establish knowledge or experience-based participation criteria and vetting to prevent misuse</li>
+<li class="whitespace-normal">Improve review time for submitting notes to enable faster fact-checking</li>
+<li class="whitespace-normal">Increase transparency around the removal of notes to maintain credibility</li>
+<li class="whitespace-normal">Develop safeguards against coordinated misinformation campaigns</li>
+<li class="whitespace-normal">Incorporate algorithmic fact-checking to support manual reviewers</li>
+<li class="whitespace-normal">Encourage participation from credible experts/organizations</li>
+<li class="whitespace-normal">Set up a team to review and assess the pros and cons of reviewer anonymity thoroughly</li>
+<li class="whitespace-normal">Collect user feedback and iterate on the feature over time. Continually evolving Community Notes based on how it&#8217;s working in practice is essential for optimization.</li>
+<li class="whitespace-normal">Encourage participation from diverse perspectives, not just experts/organizations. Tapping the wisdom of crowds from many walks of life can complement input from credentialed experts.</li>
+</ul>
+<h2>The wisdom of crowds.</h2>
+<p>The basic idea here is that large, diverse groups can collectively come to more accurate answers and decisions than individual experts. The diversity of perspectives balances out personal biases. X is <a href="https://communitynotes.twitter.com/guide/en/contributing/diversity-of-perspectives">working</a> on this with its current version of Community Notes.</p>
+<p>Early work by Francis Galton in 1907 showed a crowd at a fair accurately guessed the weight of an ox better than animal experts. This demonstrated the power of aggregated opinions. James Surowiecki popularized the term in his 2005 book The Wisdom of Crowds. He showed how collective intelligence emerges under the right conditions.</p>
+<p>Recent studies have continued to demonstrate the &#8216;wisdom of crowds&#8217; phenomenon. A 2017 study had groups successfully answer general knowledge questions better than individuals, with larger groups doing best.</p>
+<p>Researchers at MIT found groups of people accurately predicted startup success better than individual experts. Crowdsourcing has been shown to aid complex problem-solving in domains like mathematics, engineering, and computer science. Thus, perhaps we simply need more Community Notes editors and a larger crowd to impart further wisdom.</p>
+<p>However, some research also shows crowds can converge on misinformation and become dangerous mobs under certain conditions.</p>
+<p>Diversity of opinion and independence of thought are vital requirements.</p>
+<h2>My final thoughts&#8230; currently.</h2>
+<p>While still a work in progress, Community Notes shows promise as a crowdsourced approach to fact-checking and regulating misinformation. As with any system relying on public contribution, bias and manipulation are risks. However, with thoughtful design iterations and participation incentives, the wisdom and collective intelligence of the crowd could positively impact online information quality.</p>
+<p>Community-driven moderation aligns with blockchain&#8217;s decentralized ethos. If executed responsibly, it could point the way forward for social platforms seeking to balance free speech with accountability. The road ahead will require continued vigilance, transparency, and an openness to change. But with care and creativity, we may yet forge online communities capable of navigating complex truths.</p>
+<p><em>UPDATE: Added link to X information on diversity of perspectives. </em></p>
+<p>The post <a href="https://cryptoslate.com/op-ed-x-community-notes-are-not-perfect-but-socializing-fact-checking-should-be-encouraged/">Op-Ed: X Community Notes are not perfect, but socializing fact-checking should be encouraged</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/op-ed-x-community-notes-are-not-perfect-but-socializing-fact-checking-should-be-encouraged/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/10/twitter-x.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/10/twitter-x.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

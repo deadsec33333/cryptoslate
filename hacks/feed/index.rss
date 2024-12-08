@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Crypto Hacks News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/hacks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/hacks/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Fri, 29 Nov 2024 20:46:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Crypto Hacks News | CryptoSlate</title>
+	<link>https://cryptoslate.com/hacks/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>North Korean hackers impersonate tech professionals to steal billions in crypto</title>
+		<link>https://cryptoslate.com/north-korean-hackers-impersonate-tech-professionals-to-steal-billions-in-crypto/</link>
+					<comments>https://cryptoslate.com/north-korean-hackers-impersonate-tech-professionals-to-steal-billions-in-crypto/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 20:46:28 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455353</guid>
+
+					<description><![CDATA[<p>North Korean hackers have stolen billions in cryptocurrency and sensitive corporate data by impersonating venture capitalists, recruiters, and remote IT workers. Researchers made the revelations during Cyberwarcon, an annual cybersecurity conference, on Nov. 29. According to Microsoft security researcher James Elliott, North Korean operatives have infiltrated hundreds of global organizations by creating false identities. Using [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/north-korean-hackers-impersonate-tech-professionals-to-steal-billions-in-crypto/">North Korean hackers impersonate tech professionals to steal billions in crypto</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>North Korean hackers have stolen billions in cryptocurrency and sensitive corporate data by impersonating venture capitalists, recruiters, and remote IT workers.</p>
+<p>Researchers made the revelations during Cyberwarcon, an annual cybersecurity conference, on Nov. 29.</p>
+<p>According to Microsoft security researcher James Elliott, North Korean operatives have <a href="https://cryptoslate.com/north-korea-links-suspected-in-5-million-breach-of-tapioca-dao/">infiltrated hundreds</a> of global organizations by creating false identities.</p>
+<p>Using tactics ranging from sophisticated AI-generated profiles to malware-laden recruitment campaigns, these hackers have <a href="https://cryptoslate.com/south-korea-links-major-crypto-heist-to-north-korea-recovers-bitcoin/">funneled stolen assets</a> to the regime&#8217;s nuclear weapons program, circumventing international sanctions.</p>
+<p>According to Elliott:</p>
+<blockquote><p>&#8220;North Korean IT workers represent a triple threat.&#8221;</p></blockquote>
+<p>He emphasized their ability to earn a legitimate income, steal corporate secrets, and extort companies by threatening to expose stolen data in the modern world of remote work.</p>
+<h2>Evolving cyber tactics</h2>
+<p>The hackers employ a range of schemes to target companies. One group, dubbed &#8220;Ruby Sleet&#8221; by Microsoft, focuses on aerospace and defense firms stealing information to advance North Korea&#8217;s weapons technology.</p>
+<p>Another, &#8220;Sapphire Sleet,&#8221; poses as recruiters and venture capitalists, tricking victims into downloading malware disguised as tools or assessments.</p>
+<p>In one campaign, hackers stole $10 million in cryptocurrency over six months by targeting individuals and companies with fake virtual meeting setups. Hackers staged technical issues during the meetings to coerce victims into installing malware.</p>
+<p>The most persistent threat stems from North Korean operatives posing as remote workers. These bad actors establish convincing online personas using LinkedIn profiles, GitHub repositories, and AI-generated deepfakes to take advantage of the global shift to remote work.</p>
+<p>Once hired, these operatives direct company-issued laptops to US-based facilitators, who set up farms of devices preloaded with remote access software. This allows North Korean agents to operate from locations such as Russia and China.</p>
+<p>Elliott revealed that Microsoft uncovered detailed operational plans, including fake resumes and identity dossiers, from a misconfigured repository belonging to a North Korean operative.</p>
+<p>Elliott said:</p>
+<blockquote><p>&#8220;It was the entire playbook.&#8221;</p></blockquote>
+<h2>Calls for heightened vigilance</h2>
+<p>While sanctions and public warnings have been issued, North Korean hacking groups continue to evade consequences.</p>
+<p>Earlier this year, US prosecutors charged individuals connected to laptop farming, and the FBI <a href="https://cryptoslate.com/fbi-warns-of-north-korean-threat-to-crypto-cautions-against-potential-etf-related-attacks/">cautioned companies</a> about using AI-generated deepfakes in employment scams.</p>
+<p>Researchers emphasized the need for stricter employee verification processes. Elliott pointed to common red flags, including linguistic errors and inconsistencies in geographic data, that could help companies identify suspicious applicants.</p>
+<blockquote><p>&#8220;This is not a fleeting issue. North Korea&#8217;s cyber campaigns are a long-term threat that demands constant vigilance.&#8221;</p></blockquote>
+<p>With cyber deception evolving rapidly, the global business community is under mounting pressure to adapt and strengthen its defenses against these sophisticated threats.</p>
+<p>The post <a href="https://cryptoslate.com/north-korean-hackers-impersonate-tech-professionals-to-steal-billions-in-crypto/">North Korean hackers impersonate tech professionals to steal billions in crypto</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/north-korean-hackers-impersonate-tech-professionals-to-steal-billions-in-crypto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/02/north-korea-hacker.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/02/north-korea-hacker.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>US DOJ seeking statements about Bitfinex hack despite lack of formal victims</title>
+		<link>https://cryptoslate.com/us-doj-seeking-statements-about-bitfinex-hack-despite-lack-of-formal-victims/</link>
+					<comments>https://cryptoslate.com/us-doj-seeking-statements-about-bitfinex-hack-despite-lack-of-formal-victims/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2024 19:00:47 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Bitfinex]]></category>
+		<category><![CDATA[DoJ]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=452182</guid>
+
+					<description><![CDATA[<p>The US Department of Justice (DOJ) has launched a website to collect information from individuals affected by the 2016 Bitfinex hack, according to a Nov. 7 statement. The DOJ announced it was inviting statements from those impacted by the hack, including affected Bitfinex account holders. This initiative aims to gather details on how the hack [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/us-doj-seeking-statements-about-bitfinex-hack-despite-lack-of-formal-victims/">US DOJ seeking statements about Bitfinex hack despite lack of formal victims</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The US Department of Justice (DOJ) has launched a website to collect information from individuals affected by the 2016 <a href="https://cryptoslate.com/companies/bitfinex/">Bitfinex</a> hack, according to a Nov. 7 <a href="https://www.justice.gov/usao-dc/pr/website-related-multi-billion-dollar-bitfinex-hack-established">statement</a>.</p>
+<p>The DOJ announced it was inviting statements from those impacted by the hack, including affected Bitfinex account holders. This initiative aims to gather details on how the hack affected these individuals.</p>
+<p>Interestingly, the DOJ clarified that, under the Crime Victims&#8217; Rights Act (CVRA), it does not recognize any &#8220;victims&#8221; related to the offenses in this case. However, the department stated that it was cautiously proceeding with the initiative.</p>
+<p>The DOJ said it is seeking statements from anyone potentially harmed by the defendant&#8217;s actions, including details relevant to the upcoming sentencing of those involved.</p>
+<p>In an Oct. 8 court filing, the DOJ identified <a href="https://cryptoslate.com/bitfinex-deemed-sole-victim-eligible-for-recovery-of-7-4-billion-bitcoin-hack/">Bitfinex as the only party eligible for restitution</a>. It also noted that it is unaware of any other individuals who meet the CVRA&#8217;s definition of a victim in this case.</p>
+<h2>Bitfinex hack</h2>
+<p>The 2016 hack occurred when Ilya Lichtenstein reportedly accessed Bitfinex&#8217;s systems and stole approximately 120,000 <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>, valued at $72 million at the time. With the increase in Bitcoin&#8217;s value, this amount now totals around $9.2 billion.</p>
+<p>After the theft, Lichtenstein and his wife, Heather Morgan, who goes by the alias &#8220;Razzlekhan,&#8221; used several complex methods to launder the funds. Their tactics involved using multiple transaction layers, crypto mixers, non-compliant exchanges, and darknet markets. The couple also moved proceeds of the hack through bank accounts in and outside the US.</p>
+<p>Last month, prosecutors recommended an <a href="https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rNhe.no30LwA/v0">18-month prison sentence</a> for Morgan for her role in money laundering and a five-year sentence for Lichtenstein. Morgan is seeking a sentence of time served to avoid further imprisonment.</p>
+<p>Lichtenstein is scheduled for sentencing on Nov. 14, followed by Morgan&#8217;s sentencing the next day.</p>
+<p>The post <a href="https://cryptoslate.com/us-doj-seeking-statements-about-bitfinex-hack-despite-lack-of-formal-victims/">US DOJ seeking statements about Bitfinex hack despite lack of formal victims</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/us-doj-seeking-statements-about-bitfinex-hack-despite-lack-of-formal-victims/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/bitfinex-hack-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/bitfinex-hack-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>WazirX announces plans to launch DEX amid fallout from record crypto theft</title>
+		<link>https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/</link>
+					<comments>https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 23:00:01 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=451833</guid>
+
+					<description><![CDATA[<p>WazirX announced plans to launch a decentralized exchange (DEX) as part of a broader effort to enhance user security. The move follows a major breach in July, when hackers siphoned $235 million from the platform, sparking concerns over the security of centralized exchanges. WazirX co-founder Nischal Shetty said the new DEX would operate alongside the [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/">WazirX announces plans to launch DEX amid fallout from record crypto theft</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>WazirX announced plans to launch a decentralized exchange (DEX) as part of a broader effort to enhance user security.</p>
+<p>The move follows a <a href="https://cryptoslate.com/hacker-nearly-completes-laundering-230-million-stolen-from-wazirx/">major breach</a> in July, when hackers siphoned $235 million from the platform, sparking concerns over the security of centralized exchanges.</p>
+<p>WazirX co-founder <a href="https://cryptoslate.com/people/nischal-shetty/">Nischal Shetty</a> said the new DEX would operate alongside the existing centralized platform, offering users full control over their assets.</p>
+<p>Shetty said during the firm&#8217;s <a href="https://www.youtube.com/live/NfU7Yruatdo">fourth townhall</a>:</p>
+<blockquote><p>&#8220;With a decentralized exchange, assets remain fully in users&#8217; control, free from counter-party risks.&#8221;</p></blockquote>
+<p>He added that the DEX would feature its own token, designed to cover transaction fees and provide a mechanism for community governance. It is scheduled to roll out in early 2025 with a phased approach to onboarding users.</p>
+<h2>Lazarus hack</h2>
+<p>The July 2024 hack, attributed to the <a href="https://cryptoslate.com/indian-exchange-wazirx-hit-by-235-million-hack-north-korea-link-suspected/">Lazarus Group</a>, exploited a vulnerability in WazirX&#8217;s multi-signature wallet. The attackers funneled stolen funds through Tornado Cash, a privacy tool that conceals transaction histories, creating challenges for investigators.</p>
+<p>The breach, which impacted hundreds of thousands of users, was one of the largest in India&#8217;s crypto history. In response, WazirX implemented an <a href="https://cryptoslate.com/wazirx-begins-second-phase-of-fiat-withdrawals-early-hackers-begins-moving-funds/">emergency recovery plan</a>, freezing 45% of users&#8217; account balances by converting them into USDT and allowing only the remaining 55% to be used for trading.</p>
+<p>However, the move faced swift backlash from the crypto community and WazirX&#8217;s own users, who accused the exchange of forcing losses onto its customers. The response highlighted a growing dissatisfaction with centralized exchanges, as users criticized the exchange&#8217;s handling of the situation as &#8220;socializing losses.&#8221;</p>
+<p>To mitigate further fallout, WazirX reversed its initial plan in August, <a href="https://cryptoslate.com/wazirx-to-restore-balances-of-accounts-undo-all-trades-affected-by-hack/">restoring all account balances</a> to their pre-hack levels and nullifying trades made after the incident. The exchange said the reversal was an attempt to create a fair outcome for all users affected by the incident.</p>
+<h2>Recovery efforts</h2>
+<p>Efforts to recover the stolen funds have been fraught with challenges, as WazirX and its former custody partner, Liminal, engaged in a public dispute over accountability.</p>
+<p>Each party <a href="https://cryptoslate.com/liminal-cleared-by-independent-security-audit-after-wazirx-breach-no-vulnerabilities-found/">blamed the other</a> for the breach, with WazirX asserting that Liminal failed to uphold security standards and Liminal countering that the exchange&#8217;s management practices contributed to the security failure.</p>
+<p>The unresolved dispute has left customers in limbo as both companies navigate the aftermath. The plan to launch a DEX represents WazirX&#8217;s attempt to regain trust by embracing decentralization as a long-term solution to security risks.</p>
+<p>Industry experts believe the shift could signal a broader trend among exchanges to prioritize decentralized models, especially as users grow increasingly cautious about the security of centralized platforms.</p>
+<p>The post <a href="https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/">WazirX announces plans to launch DEX amid fallout from record crypto theft</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/wazirx.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/wazirx.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>UAE&#8217;s M2 crypto exchange hacked for $13.7M, assures full fund recovery</title>
+		<link>https://cryptoslate.com/uaes-m2-crypto-exchange-hacked-for-13-7m-assures-full-fund-recovery/</link>
+					<comments>https://cryptoslate.com/uaes-m2-crypto-exchange-hacked-for-13-7m-assures-full-fund-recovery/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2024 14:35:36 +0000</pubDate>
+				<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[m2]]></category>
+		<category><![CDATA[uae]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=451129</guid>
+
+					<description><![CDATA[<p>M2, a UAE-based crypto exchange, experienced a significant security breach that resulted in the loss of $13.7 million in digital assets. In a Nov. 1 statement, the exchange disclosed that the incident occurred on Oct. 31 at approximately 3:16 A.M., noting that while its team responded swiftly to the attack, the breach still led to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/uaes-m2-crypto-exchange-hacked-for-13-7m-assures-full-fund-recovery/">UAE&#8217;s M2 crypto exchange hacked for $13.7M, assures full fund recovery</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>M2, a UAE-based crypto exchange, experienced a significant security breach that resulted in the loss of $13.7 million in digital assets.</p>
+<p>In a Nov. 1 <a href="https://explore.m2.com/newsroom/security-update">statement</a>, the exchange disclosed that the incident occurred on Oct. 31 at approximately 3:16 A.M., noting that while its team responded swiftly to the attack, the breach still led to a substantial asset loss.</p>
+<p>Although the exchange provided limited specifics on the breach, blockchain security firm Cyvers stated that the theft occurred across three addresses on the <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>, <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a>, and <a href="https://cryptoslate.com/coins/solana/">Solana</a> networks.</p>
+<p>Cyvers explained that a suspicious address had received approximately $3.7 million in <a href="https://cryptoslate.com/coins/tether/">USDT</a>, 97 million SHIB, and 1,378 ETH. This address converted all these assets into ETH, with estimated losses totaling around $13 million. Currently, $10 million remains on the Ethereum network.</p>
+<p>However, M2 assured customers that the situation had been resolved and that all affected funds had been fully restored. With this resolution, the firm stated that its services are operating as usual and have been bolstered by enhanced security controls.</p>
+<p>Further, M2 emphasized its commitment to customer protection, assuming full responsibility for potential losses and working closely with authorities on the investigation. It stated:</p>
+<blockquote><p>&#8220;We are actively cooperating with relevant legal and regulatory authorities to ensure this matter is dealt with thoroughly and appropriately.&#8221;</p></blockquote>
+<h2>CEXs exploit on the rise</h2>
+<p>Cyvers commented to <em>CryptoSlate</em> that this attack is part of a worrying trend of <a href="https://cryptoslate.com/radiant-capital-exploit-accounts-for-half-of-octobers-six-month-low-116m-crypto-crime/">increasing security breaches</a> in crypto.</p>
+<p>According to the firm, crypto projects have lost more than $2 billion to hacks in the first three quarters of 2024 alone, surpassing all of 2023 and marking a 72% year-on-year increase.</p>
+<p>Cyvers pointed out that <a href="https://cryptoslate.com/north-korea-linked-hack-costs-crypto-exchange-bingx-52-million-in-crypto-assets/">centralized finance (CeFi) platforms</a> have seen a nearly 1,000% spike in security incidents year over year, while DeFi platforms reported a 25% decrease in losses. However, they remain at risk due to the complexities of smart contracts and protocols.</p>
+<p>Due to this, the firm advised crypto projects to implement strong security measures, including advanced access controls, AI-driven real-time monitoring, regular audits, threat detection systems, and a clear incident response plan.</p>
+<p>The post <a href="https://cryptoslate.com/uaes-m2-crypto-exchange-hacked-for-13-7m-assures-full-fund-recovery/">UAE&#8217;s M2 crypto exchange hacked for $13.7M, assures full fund recovery</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/uaes-m2-crypto-exchange-hacked-for-13-7m-assures-full-fund-recovery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/hack-exploit.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/hack-exploit.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Radiant Capital exploit accounts for half of October&#8217;s six-month low $116M crypto crime</title>
+		<link>https://cryptoslate.com/radiant-capital-exploit-accounts-for-half-of-octobers-six-month-low-116m-crypto-crime/</link>
+					<comments>https://cryptoslate.com/radiant-capital-exploit-accounts-for-half-of-octobers-six-month-low-116m-crypto-crime/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2024 09:16:53 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[CertiK]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Radiant Capital]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=451076</guid>
+
+					<description><![CDATA[<p>October marked a significant decline in crypto-related losses due to exploits, with total losses amounting to approximately $116 million—the lowest monthly losses in the last six months. Most of October&#8217;s losses stemmed from exploits, followed by flash loan attacks and exit scams. Exploits accounted for the bulk, totaling $113.3 million, while flash loan and exit [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/radiant-capital-exploit-accounts-for-half-of-octobers-six-month-low-116m-crypto-crime/">Radiant Capital exploit accounts for half of October&#8217;s six-month low $116M crypto crime</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>October marked a significant decline in crypto-related losses due to exploits, with total losses amounting to approximately $116 million—the lowest monthly losses in the last six months.</p>
+<p>Most of October&#8217;s losses stemmed from exploits, followed by flash loan attacks and exit scams. Exploits accounted for the bulk, totaling $113.3 million, while flash loan and exit scams contributed $1.5 million and $1.2 million, respectively.</p>
+<p>According to blockchain security firm CertiK, around $245,000 of these funds was successfully returned to victims, bringing the net impact down to approximately $115.8 million.</p>
+<h2>Radiant Capital dominates losses</h2>
+<p>One of the month&#8217;s most significant incidents occurred on Oct. 16, when Radiant Capital, a Multichain money market, <a href="https://cryptoslate.com/defi-protocol-radiant-capital-loses-48-million-in-second-exploit-this-year/">faced a $50 million exploit</a> due to a hardware wallet compromise. This event caused a 7% drop in its RDNT token value.</p>
+<p>According to CertiK, the exploit&#8217;s impact reached $54 million, accounting for nearly half of the total losses in October. Radiant Capital reported <a href="https://cryptoslate.com/radiant-capital-teams-with-us-law-enforcement-after-50m-defi-hack/">ongoing collaboration</a> with US law enforcement and Web3 security teams to recover the stolen funds.</p>
+<p>Following this, a <a href="https://cryptoslate.com/phishing-scams-plague-crypto-with-46m-loss-in-september-126m-in-q3/">phishing attack</a> targeted a crypto whale, losing approximately <a href="https://cryptoslate.com/crypto-whale-loses-36m-in-major-phishing-scam-causing-deth-depeg/">$36 million in 15,079 fwDETH tokens</a>. This incident led to a depeg of the DETH token, designed to mirror Ethereum&#8217;s value.</p>
+<p>Other notable October exploits included a <a href="https://cryptoslate.com/eigen-layer-assures-users-infrastructure-is-secure-after-investor-loses-6m-in-email-hack/">$5.3 million attack on EigenLayer</a> and a $4.7 million exploit on <a href="https://cryptoslate.com/north-korea-links-suspected-in-5-million-breach-of-tapioca-dao/">Tapioca DAO</a>.</p>
+<p>In addition, flash loan attacks cost the crypto sector roughly $1.5 million. A single attack on an unnamed project accounted for $996,000 of this loss.</p>
+<p>Exit scams also remained an issue, with Void and Undead responsible for $487,000 and $429,000 in losses, respectively, making them the largest exit scams of the month.</p>
+<p>This downtrend in exploit-related losses suggests increasing resilience within the crypto sector, yet the threat of hacks and scams persists, reminding investors to stay vigilant.</p>
+<p>The post <a href="https://cryptoslate.com/radiant-capital-exploit-accounts-for-half-of-octobers-six-month-low-116m-crypto-crime/">Radiant Capital exploit accounts for half of October&#8217;s six-month low $116M crypto crime</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/radiant-capital-exploit-accounts-for-half-of-octobers-six-month-low-116m-crypto-crime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/hacker-scammer.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/hacker-scammer.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Hacker returns stolen funds to US government in less than 24 hours</title>
+		<link>https://cryptoslate.com/hacker-returns-stolen-funds-to-us-government-in-less-than-24-hours/</link>
+					<comments>https://cryptoslate.com/hacker-returns-stolen-funds-to-us-government-in-less-than-24-hours/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2024 20:30:35 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=450217</guid>
+
+					<description><![CDATA[<p>The US government successfully recovered nearly $19.3 million in crypto less than 24 hours after it was mysteriously siphoned from government-associated wallets, according to analysts, including ZachXBT and Arkham Intelligence. The swift recovery, which returned approximately 88% of the originally compromised assets, has left onchain analysts and cybersecurity experts questioning the integrity of government wallet [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/hacker-returns-stolen-funds-to-us-government-in-less-than-24-hours/">Hacker returns stolen funds to US government in less than 24 hours</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The US government successfully recovered nearly <a href="https://cryptoslate.com/us-government-linked-address-likely-exploited-for-over-20-million-in-crypto/">$19.3 million</a> in crypto less than 24 hours after it was mysteriously siphoned from government-associated wallets, according to analysts, including <a href="https://cryptoslate.com/people/zachxbt/">ZachXBT</a> and <a href="https://cryptoslate.com/companies/arkham-intelligence/">Arkham Intelligence</a>.</p>
+<p>The swift recovery, which returned approximately 88% of the originally compromised assets, has left onchain analysts and cybersecurity experts questioning the integrity of government wallet security protocols.</p>
+<p>The breach involved $20 million in assets, primarily stablecoins and ether, that had been transferred through suspicious addresses allegedly linked to a known money-laundering service.</p>
+<p>The incident occurred just hours after Arkham issued an update about unexpected movement from dormant addresses tied to the notorious <a href="https://cryptoslate.com/companies/bitfinex/">Bitfinex</a> hack. However, by the morning of Oct. 25, Arkham reported that the majority of the assets had been returned to government control.</p>
+<p>Despite this rapid recovery, the incident has cast doubt on the security of state-controlled digital assets, with analysts like Ergo BTC pointing out potential security gaps and inconsistencies in wallet management. The motives and circumstances behind the transfer remain unexplained, adding an air of mystery to the incident.</p>
+<p>The breach and near-immediate partial recovery underscore the challenges in managing digital assets linked to criminal cases, especially as state agencies increasingly rely on custodial crypto storage.</p>
+<p>The event follows other recent security incidents involving US government entities, such as the hacking of the Securities and Exchange Commission&#8217;s social media accounts. Although the hacker was recently apprehended, the incident nonetheless contributed to growing concerns over cybersecurity protocols within federal agencies.</p>
+<p>Observers and onchain analysts remain vigilant as they await further clarity on the breach. The incident highlights the vulnerabilities in government crypto asset management, sparking conversations on the need for more stringent and transparent security practices.</p>
+<p>The post <a href="https://cryptoslate.com/hacker-returns-stolen-funds-to-us-government-in-less-than-24-hours/">Hacker returns stolen funds to US government in less than 24 hours</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/hacker-returns-stolen-funds-to-us-government-in-less-than-24-hours/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/defi-hack.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/defi-hack.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>US government-linked address likely exploited for over $20 million in crypto</title>
+		<link>https://cryptoslate.com/us-government-linked-address-likely-exploited-for-over-20-million-in-crypto/</link>
+					<comments>https://cryptoslate.com/us-government-linked-address-likely-exploited-for-over-20-million-in-crypto/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2024 23:00:40 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=449980</guid>
+
+					<description><![CDATA[<p>A hacker may have stolen over $20 million worth of crypto, including stablecoins and Ethereum (ETH), from a US government-controlled wallet connected to the infamous 2016 Bitfinex hack. The suspicious transfers occurred on Oct. 24, raising alarms among blockchain analysts, including ZachXBT, who called the transfers &#8220;nefarious&#8221; and hinted at possible theft. Arkham Intelligence first [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/us-government-linked-address-likely-exploited-for-over-20-million-in-crypto/">US government-linked address likely exploited for over $20 million in crypto</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A hacker may have stolen over $20 million worth of crypto, including stablecoins and Ethereum <span style="font-weight: 400;">(<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>)</span>, from a US government-controlled wallet connected to the infamous 2016 <a href="https://cryptoslate.com/companies/bitfinex/">Bitfinex</a> hack.</p>
+<p>The suspicious transfers occurred on Oct. 24, raising alarms among blockchain analysts, including <a href="https://cryptoslate.com/people/zachxbt/">ZachXBT</a>, who called the transfers &#8220;nefarious&#8221; and hinted at possible theft.</p>
+<p>Arkham Intelligence first flagged the transfers from the wallet, which had been <a href="https://etherscan.io/address/0x3486ee700ccaf3e2f9c5ec9730a2e916a4740a9f">dormant for eight months</a> before it suddenly moved $1.25 million in Tether <span style="font-weight: 400;">(<a href="https://cryptoslate.com/coins/tether/">USDT</a>) </span>and $5.5 million in USD Coin <span style="font-weight: 400;">(<a href="https://cryptoslate.com/coins/usd-coin/">USDC</a>)</span> from the DeFi platform <span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/avara/">Aave</a></span>.</p>
+<p>Additionally, around $13.7 million in aUSDC — an interest-bearing token representing USDC deposited in Aave — along with $446,000 worth of Ethereum, was sent to a recently created wallet.</p>
+<p>The funds had been seized by US authorities as part of the investigation into the 2016 Bitfinex hack, in which over $3.6 billion in digital assets were stolen. Following the seizure, the government-held wallet had received significant amounts of crypto.</p>
+<p>Further analysis revealed that approximately $320,000 worth of Ethereum was sent to various exchanges, while another $80,000 was distributed across multiple smaller wallets. The wallet that received these funds had been created only days before the transfer, intensifying concerns about the suspicious nature of the transactions.</p>
+<p>As of press time, the Department of Justice has not commented on the situation or provided information regarding the transfers. Analysts and blockchain experts are continuing to monitor the movement of the funds as the investigation unfolds.</p>
+<p>The post <a href="https://cryptoslate.com/us-government-linked-address-likely-exploited-for-over-20-million-in-crypto/">US government-linked address likely exploited for over $20 million in crypto</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/us-government-linked-address-likely-exploited-for-over-20-million-in-crypto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/defi-hack.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/defi-hack.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Chinese OTC trader linked to laundering millions for North Korean hackers</title>
+		<link>https://cryptoslate.com/chinese-otc-trader-linked-to-laundering-millions-for-north-korean-hackers/</link>
+					<comments>https://cryptoslate.com/chinese-otc-trader-linked-to-laundering-millions-for-north-korean-hackers/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2024 18:32:49 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Lazarus Group]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[Zachxbt]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=449757</guid>
+
+					<description><![CDATA[<p>Blockchain investigator ZachXBT has uncovered the identity of a Chinese over-the-counter (OTC) trader accused of aiding the North Korea-affiliated Lazarus Group in laundering stolen crypto. The trader, identified as Yicong Wang, has reportedly helped the group convert tens of millions of dollars in crypto from various hacks into cash through bank transfers since 2022, according [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/chinese-otc-trader-linked-to-laundering-millions-for-north-korean-hackers/">Chinese OTC trader linked to laundering millions for North Korean hackers</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Blockchain investigator ZachXBT has uncovered the identity of a Chinese over-the-counter (OTC) trader accused of aiding the North Korea-affiliated Lazarus Group in laundering stolen crypto.</p>
+<p>The trader, identified as Yicong Wang, has reportedly helped the group convert tens of millions of dollars in crypto from various hacks into cash through bank transfers since 2022, according to an Oct. 23 <a href="https://x.com/zachxbt/status/1849071191962599776">post</a> on X by the crypto sleuth.</p>
+<p>ZachXBT said he began investigating Wang after receiving a report from one of his followers who claimed their crypto account was frozen following a peer-to-peer (P2P) transaction with the Chinese trader. The transaction was later flagged for allegedly assisting North Korean hackers in laundering money.</p>
+<h2>Wang&#8217;s connection to the Lazarus Group</h2>
+<p>ZachXBT&#8217;s investigation revealed that Wang is linked to several Lazarus Group-related hacks, including those targeting <a href="https://cryptoslate.com/bitcoin-defi-app-alex-lab-links-4-million-exploit-to-lazarus-group/">Alex Labs</a>, Irys, and other entities.</p>
+<p>One of Wang&#8217;s associated addresses, &#8220;0x501,&#8221; reportedly consolidated over $17 million in digital assets tied to more than 25 hacks attributed to Lazarus. In November 2024, <a href="https://cryptoslate.com/companies/tether/">Tether</a> froze $374,000 <a href="https://cryptoslate.com/coins/tether/">USDT</a> held in the same wallet.</p>
+<p>In December 2023, the Lazarus Group transferred $45,000 in stolen digital assets to multiple addresses connected to Wang. Similarly, in August 2024, funds stolen from Alex Labs were sent to Tron addresses associated with him.</p>
+<p>Additionally, Wang received commingled funds from the Alex Labs and Irys hacks. He also received 746,000 USDT from an <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> address blacklisted by Tether.</p>
+<p>ZachXBT stated:</p>
+<blockquote><p>&#8220;On Aug. 13, 746,000 USDT was transferred to an address tied to Yicong (THjaAygUNkzoXufwEoKCzbUZHpsehL9rAZ). Shortly before, the funds had been bridged from Ethereum, linking the blacklisted address 0x84d9ad5e6fdf7ca4de37684a1f7df371837e9a9c.&#8221;</p></blockquote>
+<p>Although Wang has been banned from crypto platforms like Paxful and Noones, where he operated under aliases such as Seawang, Greatdtrader, and BestRhea977, he continues to conduct business off-platform. He is believed to be still laundering funds for the Lazarus Group.</p>
+<p>The analysis illustrates the ongoing vulnerabilities in the crypto industry and the <a href="https://cryptoslate.com/zachxbt-exposes-north-korean-agents-infiltrating-crypto-projects-to-conduct-thefts/">sophistication of the North Korea-backed Lazarus Group.</a></p>
+<p>Over the past year, the hackers have been linked to over $500 million in cryptocurrency thefts from various cyberattacks. These include a <a href="https://cryptoslate.com/japanese-dmm-exchange-suspends-withdrawals-after-305-million-bitcoin-theft/">$305 million breach</a> of the Japan-based crypto exchange DMM and a $235 million hack of the <a href="https://cryptoslate.com/indian-exchange-wazirx-hit-by-235-million-hack-north-korea-link-suspected/">India-based WazirX exchange</a>. The Lazarus Group has also been connected to a <a href="https://cryptoslate.com/indodax-hit-by-20-5m-exploit-north-korea-link-suspected/">$20 million loss</a> from Indonesia&#8217;s Indodax exchange and a <a href="https://cryptoslate.com/north-korea-linked-hack-costs-crypto-exchange-bingx-52-million-in-crypto-assets/">$52 million hack of the crypto platform BingX.</a></p>
+<p>The post <a href="https://cryptoslate.com/chinese-otc-trader-linked-to-laundering-millions-for-north-korean-hackers/">Chinese OTC trader linked to laundering millions for North Korean hackers</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/chinese-otc-trader-linked-to-laundering-millions-for-north-korean-hackers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/lazarus-hacker-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/lazarus-hacker-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Transak hit with data breach affecting 1.14% of its user base</title>
+		<link>https://cryptoslate.com/transak-hit-with-data-breach-affecting-1-14-of-its-user-base/</link>
+					<comments>https://cryptoslate.com/transak-hit-with-data-breach-affecting-1-14-of-its-user-base/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 20:30:37 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=449357</guid>
+
+					<description><![CDATA[<p>Transak, a company providing fiat-to-crypto services, has reported a significant data breach affecting more than 92,000 users. In an Oct. 21 update, the firm revealed that the breach stemmed from a phishing attack targeting an employee&#8217;s laptop, leading to unauthorized access to sensitive user information. According to Transak, the attackers exploited the employee&#8217;s credentials to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/transak-hit-with-data-breach-affecting-1-14-of-its-user-base/">Transak hit with data breach affecting 1.14% of its user base</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Transak, a company providing fiat-to-crypto services, has reported a significant data breach affecting more than 92,000 users.</p>
+<p>In an Oct. 21 <a href="https://x.com/Transak/status/1848275931544297709">update</a>, the firm revealed that the breach stemmed from a phishing attack targeting an employee&#8217;s laptop, leading to unauthorized access to sensitive user information.</p>
+<p>According to Transak, the attackers exploited the employee&#8217;s credentials to infiltrate a third-party vendor responsible for Know Your Customer (KYC) verification services.</p>
+<p>As a result, personal details — including names, dates of birth, passport and driver&#8217;s license information, and selfies — were compromised for 92,554 users, representing 1.14% of the company&#8217;s total user base.</p>
+<p>Despite the exposure of personal data, Transak emphasized that no financial details were compromised. According to the firm:</p>
+<blockquote><p>&#8220;No financially sensitive information, such as email addresses, phone numbers, passwords, credit card details, or Social Security Numbers, was affected.&#8221;</p></blockquote>
+<p>Transak provides non-custodial fiat-to-crypto gateways, allowing users to buy and sell digital assets through integrations with popular crypto wallets and decentralized applications. Among its partners are major crypto platforms such as <a href="https://cryptoslate.com/companies/binance/">Binance</a>, <a href="https://cryptoslate.com/products/metamask/">MetaMask</a>, and <a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a>.</p>
+<p>The company has begun contacting affected users, assuring others that they will only be contacted if their information is compromised. Transak has also informed relevant authorities in the UK, EU, and the US about the breach.</p>
+<p>The Transak breach highlights ongoing security challenges in the crypto industry, particularly with phishing attacks that target employees to gain unauthorized access to user information.</p>
+<p>The post <a href="https://cryptoslate.com/transak-hit-with-data-breach-affecting-1-14-of-its-user-base/">Transak hit with data breach affecting 1.14% of its user base</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/transak-hit-with-data-breach-affecting-1-14-of-its-user-base/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/security-breach-kyc.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/security-breach-kyc.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Beyond Hacks: Understanding and managing economic risks in DeFi</title>
+		<link>https://cryptoslate.com/beyond-hacks-understanding-and-managing-economic-risks-in-defi/</link>
+					<comments>https://cryptoslate.com/beyond-hacks-understanding-and-managing-economic-risks-in-defi/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Maliepaard]]></dc:creator>
+		<pubDate>Sat, 19 Oct 2024 22:00:40 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Guest Post]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[DeFi hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=447698</guid>
+
+					<description><![CDATA[<p>The following is a guest article from Vincent Maliepaard, Marketing Director at IntoTheBlock. When discussing risk in DeFi, the conversation often veers towards hacks and security breaches. This focus is understandable, given the headlines and the sometimes dramatic fallout from such events. Hack analysis, post-mortem reports, and recommendations for better security practices dominate the conversation. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/beyond-hacks-understanding-and-managing-economic-risks-in-defi/">Beyond Hacks: Understanding and managing economic risks in DeFi</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest article from Vincent Maliepaard, Marketing Director at IntoTheBlock.</em></p>
+<p>When discussing risk in DeFi, the conversation often veers towards hacks and security breaches. This focus is understandable, given the headlines and the sometimes dramatic fallout from such events. Hack analysis, post-mortem reports, and recommendations for better security practices dominate the conversation. However, while these discussions are crucial, they often overshadow a more insidious type of risk: economic risk.</p>
+<p><span style="font-weight: 400;">Economic risks have led to nearly </span><strong><a href="https://app.intotheblock.com/perspectives/defi_exploits">$60 billion in losses across DeFi protocols</a></strong><span style="font-weight: 400;">. While this number may seem high, it only reflects losses at the protocol level. The actual total is likely much larger when factoring in individual user losses due to various economic risk factors. These personal losses often arise from volatile market conditions, complex inter-protocol dependencies, and unexpected liquidations.</span></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-447699 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/10/value-lost-risk.jpg" alt="" width="936" height="508" srcset="https://cryptoslate.com/wp-content/uploads/2024/10/value-lost-risk.jpg 936w, https://cryptoslate.com/wp-content/uploads/2024/10/value-lost-risk-300x163.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/10/value-lost-risk-768x417.jpg 768w" sizes="(max-width: 936px) 100vw, 936px" /></p>
+<p class="p1"><b>Understanding Economic Risk in DeFi</b></p>
+<p class="p2">Economic risk in <a href="https://cryptoslate.com/defi/">DeFi</a> refers to the potential financial loss due to adverse movements in market conditions, liquidity crises, flawed protocol design, or external economic events. These risks are multi-faceted and can stem from various sources:</p>
+<ol class="ol1">
+<li class="li3"><b>Market Risk</b>: Volatility in the value of assets can lead to significant losses. For example, sudden price drops in collateralized assets can cause liquidation events, leading to a cascade of forced selling and further price drops.</li>
+<li class="li3"><b>Liquidity Risk</b>: The inability to quickly buy or sell assets without causing a significant impact on the price. In DeFi, this can manifest during a market sell-off when liquidity pools dry up, exacerbating losses.</li>
+<li class="li3"><b>Protocol Risk</b>: This risk arises from flaws or inefficiencies in the design of DeFi protocols. Impermanent loss, oracle manipulation, and governance attacks are examples of how protocol-specific risks can materialize.</li>
+<li class="li2"><b>External Risk</b>: Factors outside the protocol such as actions by large market players or changes in macro rates and conditions, can introduce significant risks that are often beyond the control of users or a protocol.</li>
+</ol>
+<p class="p4">The Layers Within Economic Risk</p>
+<p class="p2">In DeFi, economic risks are pervasive, but they can be understood on two distinct levels: protocol-level risks and user-level risks. Distinguishing between the two helps users better define the risks that affect their strategies and monitor key signals to take preventative action.</p>
+<h2 class="p2"><span class="s1"><b>Protocol Level Risks</b></span></h2>
+<p class="p2">Protocols implement safeguards through variable parameters designed to limit exposure to economic losses. A common example is the lending and borrowing parameters set by lending protocols, which are tested and calibrated to prevent bad debt from accumulating. These measures are generally utilitarian, aiming to protect the protocol from economic risks on a broad scale, benefiting the largest number of users.</p>
+<p class="p2">While managing <a href="https://www.coindesk.com/opinion/2024/04/29/the-changing-face-of-risk-in-defi"><span class="s2">economic risks is becoming increasingly important</span></a> for preventing large-scale losses at the protocol level, the focus is narrow—on the protocol itself. They don’t address the risks that individual users may introduce by making economically risky decisions within their own strategies.</p>
+<h2 class="p2"><span class="s1"><b>User Level Risks</b></span></h2>
+<p class="p2">User-level risks are often reduced to the amount of leverage an individual takes in long or short positions, but this only scratches the surface. Users face a range of additional risks, such as liquidations, impermanent loss, slippage, and the potential for locked lending liquidity. These individual risks don’t usually fall under the scope of protocol risk management, but can have a significant financial impact on individual users.</p>
+<p class="p2">The good news is that these user-level economic risks are highly actionable. By understanding their own risk profile, users can actively manage and mitigate the risks specific to their strategy. This personalized approach to risk management remains one of the most underutilized tools available to DeFi participants today.</p>
+<p class="p4">The interconnected nature of risks across DeFi protocols</p>
+<p class="p2">Economic risk management is essential when addressing risks that span multiple DeFi protocols. While protocol audits and risk parameters strengthen individual protocols, DeFi users often engage with multiple protocols in their strategies. This makes user-level risk management crucial.</p>
+<p class="p2">Each additional protocol or asset introduces new risk factors, not only from that new protocol but also from how these protocols interact. Even if each protocol is secure on its own, risks can emerge from how your strategy combines these different protocols.</p>
+<p class="p6">For example, imagine a scenario where a user utilizes a Liquid Restaking Token (LRT) as collateral to borrow an asset, which is then deployed in a liquidity pool (LP) on an external automated market maker (AMM). The primary concern might be the leveraged borrowing position, but there are additional risks. The stability of the LRT’s peg could impact liquidation in the lending protocol, while the composition of the LP could affect slippage and exit fees, potentially causing capital loss when repaying the loan. These interconnected risks don&#8217;t fall under any single protocol&#8217;s control and are therefore best managed by the user.</p>
+<h2 class="p1"><b>Steps to Understand and Manage Economic Risk</b></h2>
+<p class="p2">Managing economic risk in DeFi requires a well-thought-out approach, as the complexity of multi-protocol strategies can introduce unforeseen vulnerabilities.</p>
+<ol class="ol1">
+<li class="li3"><b>Deep Dive into Protocol Mechanics</b>: Understanding the underlying mechanics of a protocol is the first step in identifying potential economic risks. Investors and developers should scrutinize the economic models, assumptions, and dependencies within the protocol.</li>
+<li class="li2"><b>Monitor Market Indicators</b>: Keeping an eye on market signals, such as asset volatility, liquidity, and overall sentiment, is essential. Analyzing on-chain data specific to the protocols you’re using is a practical way to stay informed. For instance, if you&#8217;re engaging with a lending strategy on Benqi, monitoring the health factor of loans on the platform is crucial. This provides insights into how stable your lending position is and helps you anticipate potential issues before they escalate.
+<p><figure id="attachment_447700" aria-describedby="caption-attachment-447700" style="width: 936px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-447700" src="https://cryptoslate.com/wp-content/uploads/2024/10/health-factor-distribution.jpg" alt="" width="936" height="620" srcset="https://cryptoslate.com/wp-content/uploads/2024/10/health-factor-distribution.jpg 936w, https://cryptoslate.com/wp-content/uploads/2024/10/health-factor-distribution-300x199.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/10/health-factor-distribution-768x509.jpg 768w" sizes="(max-width: 936px) 100vw, 936px" /><figcaption id="caption-attachment-447700" class="wp-caption-text">Source: <a href="https://defirisk.intotheblock.com/">https://defirisk.intotheblock.com/</a></figcaption></figure></li>
+<li class="li1"><b>Create a holistic risk profile</b>: Understanding how interconnected risks may impact your overall strategy is key to effective risk management. While individual strategies vary, risk analytics can assist in identifying areas of concern. For example, if you’re using a Liquid Restaking Token (LRT) as collateral to borrow assets, monitoring the stability of the LRT’s peg is essential to avoid unexpected liquidations. Sudden spikes or volatility in the peg could signal a need to take precautionary measures, such as reducing exposure or increasing collateral.
+<p><figure id="attachment_447701" aria-describedby="caption-attachment-447701" style="width: 864px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-447701" src="https://cryptoslate.com/wp-content/uploads/2024/10/peg-monitor.jpg" alt="" width="864" height="580" srcset="https://cryptoslate.com/wp-content/uploads/2024/10/peg-monitor.jpg 864w, https://cryptoslate.com/wp-content/uploads/2024/10/peg-monitor-300x201.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/10/peg-monitor-768x516.jpg 768w" sizes="(max-width: 864px) 100vw, 864px" /><figcaption id="caption-attachment-447701" class="wp-caption-text">Source: <a href="https://defirisk.intotheblock.com/">https://defirisk.intotheblock.com/</a></figcaption></figure></li>
+</ol>
+<p class="p1">In summary, managing economic risk in DeFi is about being proactive. By understanding protocol mechanics, keeping a close watch on market indicators, and building a holistic view of potential risks, users can better navigate the challenges of multi-protocol strategies and protect their positions.</p>
+<div class="mceTemp"></div>
+<p>The post <a href="https://cryptoslate.com/beyond-hacks-understanding-and-managing-economic-risks-in-defi/">Beyond Hacks: Understanding and managing economic risks in DeFi</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/beyond-hacks-understanding-and-managing-economic-risks-in-defi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/defi-hacks.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/defi-hacks.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

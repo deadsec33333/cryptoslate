@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Crypto Interviews | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/interviews/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/interviews/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Thu, 28 Nov 2024 00:08:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Crypto Interviews | CryptoSlate</title>
+	<link>https://cryptoslate.com/interviews/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JMJ Mach: Revolutionizing luxury watches with blockchain and NFTs</title>
+		<link>https://cryptoslate.com/jmj-mach-revolutionizing-luxury-watches-with-blockchain-and-nfts/</link>
+					<comments>https://cryptoslate.com/jmj-mach-revolutionizing-luxury-watches-with-blockchain-and-nfts/#respond</comments>
+		
+		<dc:creator><![CDATA[News Desk]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 06:00:30 +0000</pubDate>
+				<category><![CDATA[Interview]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455006</guid>
+
+					<description><![CDATA[<p>In an era where luxury brands are gradually embracing blockchain technology, JMJ Mach is taking a bold step forward by combining traditional watchmaking with NFTs and blockchain in a way that goes beyond simple authentication. The company is pioneering a new category of &#8220;phygital&#8221; timepieces that exist both as physical luxury watches and unique digital [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/jmj-mach-revolutionizing-luxury-watches-with-blockchain-and-nfts/">JMJ Mach: Revolutionizing luxury watches with blockchain and NFTs</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="p1">In an era where luxury brands are gradually embracing blockchain technology, JMJ Mach is taking a bold step forward by combining traditional watchmaking with NFTs and blockchain in a way that goes beyond simple authentication.</p>
+<p class="p2">The company is pioneering a new category of &#8220;phygital&#8221; timepieces that exist both as physical luxury watches and unique digital assets.</p>
+<h2 class="p3"><b>Redefining Luxury Through Digital Innovation</b></h2>
+<p class="p1">At the heart of JMJ Mach&#8217;s innovation is their unique approach to watchmaking. Each timepiece features a one-of-a-kind character printed on the dial that is minted as an NFT, creating a truly unique piece both physically and digitally. As the company explains:</p>
+<blockquote>
+<p class="p4"><i>&#8220;We&#8217;re redefining luxury by blending timeless craftsmanship with latest technology, pushing the boundaries of what a personal, exclusive timepiece can be in the modern era.&#8221;</i></p>
+</blockquote>
+<p class="p2">This approach stands in stark contrast to traditional luxury watch brands&#8217; use of blockchain technology. &#8220;Traditional luxury brands use blockchain to verify the authenticity of the watch but nothing else; the blockchain doesn&#8217;t ensure that the wearer has a unique watch different from other people,&#8221; JMJ Mach states, highlighting their differentiation in the market.</p>
+<h2 class="p3"><b>Advanced Security Through Tamper-Proof Technology</b></h2>
+<p class="p1">Security and authenticity are paramount in luxury watches, and JMJ Mach has developed a sophisticated solution to address these concerns. Each watch incorporates a state-of-the-art NFC chip with encrypted keys at the hardware level.</p>
+<p class="p2">&#8220;When the watch is scanned, it emits a unique cryptographic signature, ensuring that the keys are never exposed or duplicated,&#8221; the company explains. This technology is directly linked to the blockchain, with &#8220;each microchip also tied to a corresponding NFT on the blockchain, guaranteeing ownership.&#8221;</p>
+<h2 class="p3"><b>Technical Challenges and Innovations</b></h2>
+<p class="p1">The journey to create these revolutionary timepieces wasn&#8217;t without its obstacles. The company faced significant technical challenges in merging traditional watchmaking with modern technology.</p>
+<p class="p4"><i>&#8220;One of our biggest challenges was setting up the pad printing process to transfer a 1-of-1 NFT design onto the watch dial with perfect accuracy,&#8221; they reveal. This required months of experimentation and collaboration with top-tier dial makers in Seoul, South Korea.</i></p>
+<p class="p2">Another significant hurdle was the integration of NFC technology with mechanical watchmaking. The company successfully developed &#8220;a scanning solution that does not impact the timekeeping or stability of the watch,&#8221; maintaining the integrity of the traditional mechanical movement while incorporating modern authentication features.</p>
+<h2 class="p3"><b>Community Governance Through WatchDAO</b></h2>
+<p class="p1">JMJ Mach is also pioneering a new approach to luxury brand governance through their planned WatchDAO initiative. &#8220;We want to give ownership to our community, especially those that own JMJ watches,&#8221; the company states.</p>
+<p class="p2">The genesis sale of Cographix will establish the first collective owners of JMJ, who may receive &#8220;early access to a DAO, airdrops of the first tokens, and directly influence the brand&#8217;s evolution.&#8221;</p>
+<h2 class="p3"><b>Future of Phygital Luxury</b></h2>
+<p class="p1">Looking ahead, JMJ Mach envisions a transformative future for the luxury watch industry. &#8220;We expect this shift to force the traditional players to evolve &#8211; or risk losing relevance,&#8221; they assert.</p>
+<p class="p1">The company is developing interactive features that go beyond traditional timepiece functionality.</p>
+<p class="p5"><i>&#8220;Imagine a future where your watch doesn&#8217;t just tell time—it interacts with both the physical and digital worlds,&#8221; they explain, describing potential features like mini-games, rewards, and exclusive content accessible through phone scanning.</i></p>
+<h2 class="p3"><b>Market Strategy and Limited Release</b></h2>
+<p class="p1">With their first collection limited to just 100 pieces, JMJ Mach is taking a carefully curated approach to building their community.</p>
+<p class="p1">Their go-to-market strategy balances Web3 marketing with traditional luxury appeal, targeting &#8220;high-end collectors who already own major NFT pieces.&#8221; This selective approach aims to create an exclusive community that bridges the gap between traditional watch collecting and digital asset ownership.</p>
+<p class="p1">The company is confident about collector reception, stating,</p>
+<blockquote>
+<p class="p4"><i>&#8220;Traditional physical collectors will appreciate owning the first of a new technology and enjoy having a fully analog watch paired with a digital NFT certificate. NFT collectors, on the other hand, will likely appreciate being part of a timeless technology that merges digital innovation with tangible luxury.&#8221;</i></p>
+</blockquote>
+<p class="p1">As the luxury goods industry continues to evolve, JMJ Mach&#8217;s innovative approach could indeed represent the future of luxury timepieces. By combining traditional craftsmanship with blockchain technology, NFTs, and community governance, they&#8217;re not just creating watches—they&#8217;re pioneering a new paradigm for luxury goods in the digital age.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-455007 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-1.jpg" alt="" width="1200" height="1800" srcset="https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-1.jpg 1200w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-1-200x300.jpg 200w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-1-683x1024.jpg 683w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-1-768x1152.jpg 768w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-1-1024x1536.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p><img decoding="async" class="alignnone wp-image-455008 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-2.jpg" alt="" width="1200" height="1800" srcset="https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-2.jpg 1200w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-2-200x300.jpg 200w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-2-683x1024.jpg 683w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-2-768x1152.jpg 768w, https://cryptoslate.com/wp-content/uploads/2024/11/jmj-mach-2-1024x1536.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>The post <a href="https://cryptoslate.com/jmj-mach-revolutionizing-luxury-watches-with-blockchain-and-nfts/">JMJ Mach: Revolutionizing luxury watches with blockchain and NFTs</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/jmj-mach-revolutionizing-luxury-watches-with-blockchain-and-nfts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/blockchain-nft-watch.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/blockchain-nft-watch.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Building Web3 culture in Ukraine: Rostyslav Bortman&#8217;s mission</title>
+		<link>https://cryptoslate.com/building-web3-culture-in-ukraine-rostyslav-bortmans-mission/</link>
+					<comments>https://cryptoslate.com/building-web3-culture-in-ukraine-rostyslav-bortmans-mission/#respond</comments>
+		
+		<dc:creator><![CDATA[Paul Osadchuk]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2024 21:00:21 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Guest Post]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=446823</guid>
+
+					<description><![CDATA[<p>Rostyslav Bortman is Head of Blockchain Development at IdeaSoft and founder of ETHKyiv Community. He is one of the main faces of the global and Ukrainian Web3 development and a driving force behind crypto community development. He has developed many outstanding Web3 products, while this year&#8217;s Ethereum hackathon in Kyiv organised by him and his [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/building-web3-culture-in-ukraine-rostyslav-bortmans-mission/">Building Web3 culture in Ukraine: Rostyslav Bortman&#8217;s mission</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/people/rostyslav-bortman/">Rostyslav Bortman</a> is Head of Blockchain Development at IdeaSoft and founder of ETHKyiv Community. He is one of the main faces of the global and Ukrainian Web3 development and a driving force behind crypto community development.</p>
+<p>He has developed many outstanding Web3 products, while this year&#8217;s Ethereum hackathon in Kyiv organised by him and his team was attended by Vitalik Buterin – his keen friend and a dedicated colleague.</p>
+<p>We talked about the future of the Ethereum market and ecosystem, and the Web3 sector in Ukraine and its specifics.</p>
+<p>The post <a href="https://cryptoslate.com/building-web3-culture-in-ukraine-rostyslav-bortmans-mission/">Building Web3 culture in Ukraine: Rostyslav Bortman&#8217;s mission</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/building-web3-culture-in-ukraine-rostyslav-bortmans-mission/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/ethereum-ukraine.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/ethereum-ukraine.jpg" length="1456" type="image/jpg"/>
+	</item>
+		<item>
+		<title>How Potato Cat transforms NFT trading with innovative swap engine: Interview</title>
+		<link>https://cryptoslate.com/how-potato-cat-transforms-nft-trading-with-innovative-swap-engine-interview/</link>
+					<comments>https://cryptoslate.com/how-potato-cat-transforms-nft-trading-with-innovative-swap-engine-interview/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoSlate Interviews]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2024 14:54:53 +0000</pubDate>
+				<category><![CDATA[Interview]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=441472</guid>
+
+					<description><![CDATA[<p>In the ever-evolving world of NFTs, the Solana blockchain has become a hotspot for innovation, attracting developers and traders alike with its fast and low-cost transactions. One of the standout projects making waves in this space is Potato Cat, a novel platform designed to revolutionize how users trade and manage their NFT portfolios. In this [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/how-potato-cat-transforms-nft-trading-with-innovative-swap-engine-interview/">How Potato Cat transforms NFT trading with innovative swap engine: Interview</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In the ever-evolving world of NFTs, the Solana blockchain has become a hotspot for innovation, attracting developers and traders alike with its fast and low-cost transactions. One of the standout projects making waves in this space is Potato Cat, a novel platform designed to revolutionize how users trade and manage their NFT portfolios.</p>
+<p>In this exclusive Q&amp;A, we sit down with <a href="https://cryptoslate.com/people/john-ennis/">John Ennis</a>, the creator of Potato Cat, to explore the inspiration behind the platform, the cutting-edge technology driving its proposal engine, and its ambitious plans to transform the NFT trading landscape.</p>
+<p>From addressing the challenges of bid/ask spreads to introducing unique features like trait-based distinctions and reward incentives, Ennis shares how Potato Cat aims to create a seamless and efficient marketplace for NFT swaps. Whether you&#8217;re a seasoned trader or a curious newcomer, Potato Cat promises to offer innovative solutions that could reshape your NFT experience on Solana.</p>
+<p>The post <a href="https://cryptoslate.com/how-potato-cat-transforms-nft-trading-with-innovative-swap-engine-interview/">How Potato Cat transforms NFT trading with innovative swap engine: Interview</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/how-potato-cat-transforms-nft-trading-with-innovative-swap-engine-interview/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/potato-cat.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/potato-cat.jpg" length="1100" type="image/jpg"/>
+	</item>
+		<item>
+		<title>XBorg&#8217;s new XBG token launch aims to empower investors with 100% unlocks and on-chain transparency</title>
+		<link>https://cryptoslate.com/xborgs-new-xbg-token-launch-aims-to-empower-investors-with-100-unlocks-and-on-chain-transparency/</link>
+					<comments>https://cryptoslate.com/xborgs-new-xbg-token-launch-aims-to-empower-investors-with-100-unlocks-and-on-chain-transparency/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Tue, 27 Aug 2024 09:04:13 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Tokens]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=440540</guid>
+
+					<description><![CDATA[<p>XBorg launched as a spin-off from SwissBorg in 2022, is focused on revolutionizing the gaming industry through a player identity protocol that enhances online experiences by enabling data ownership. In this interview, Head of Growth &#38; Marketing at XBorg, Connor Kirsten, delves into the challenges surrounding token launches in 2024, attributing poor performance to market saturation [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/xborgs-new-xbg-token-launch-aims-to-empower-investors-with-100-unlocks-and-on-chain-transparency/">XBorg&#8217;s new XBG token launch aims to empower investors with 100% unlocks and on-chain transparency</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/press-releases/powering-the-next-generation-of-gaming-xborg-sells-out-2-million-seed-round-community-allocation/">XBorg</a> launched as a spin-off from SwissBorg in 2022, is focused on revolutionizing the <a href="https://cryptoslate.com/xborg-launches-web3-esports-league-xtreme-championship-series/">gaming</a> industry through a player identity protocol that enhances online experiences by enabling data ownership.</p>
+<p>In this interview, Head of Growth &amp; Marketing at XBorg, Connor Kirsten, delves into the challenges surrounding token launches in 2024, attributing poor performance to market saturation and the detrimental impact of overhyped projects. He highlights how high valuations with low circulating supplies deter new buyers, leading to prolonged sell pressure and gradual price declines.</p>
+<p>Kirsten critiques the role of <a href="https://cryptoslate.com/dex-market-share-reaches-ath-as-cexs-face-shrinking-volume/">centralized exchanges</a> and market makers, arguing that stringent listing requirements and disproportionate control over token supply exacerbate sell pressure and undermine community confidence. He proposes a more sustainable approach to token launches, advocating for lower valuations and reduced vesting periods to attract committed investors and foster long-term growth.</p>
+<p>The unique strategy with the XBG token, launched in August 2024, rejects traditional centralized exchange routes in favor of a fully on-chain launch with 100% investor unlocks—a move designed to empower the community and reduce future sell pressure. XBorg believes that if successful, this approach could set a new trend in token launches, providing projects with additional options to align with their communities and strengthen fundamentals.</p>
+<p>Following the launch, XBG fell from $0.15 to $0.05 before recovering to around $0.08. Luis Regis, CEO of Xborg, <a href="https://x.com/louisregis/status/1825888345014092236">commented</a> how only 13% of sold tokens following the TGE,</p>
+<blockquote><p>&#8220;We are crunching the data on XBG&#8217;s TGE. One word: Amazed. Only 13% of community seed investors sold. There is one thing for sure, our community is damn strong.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/xborgs-new-xbg-token-launch-aims-to-empower-investors-with-100-unlocks-and-on-chain-transparency/">XBorg&#8217;s new XBG token launch aims to empower investors with 100% unlocks and on-chain transparency</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/xborgs-new-xbg-token-launch-aims-to-empower-investors-with-100-unlocks-and-on-chain-transparency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/xbg-token.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/xbg-token.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>‘Memes are the gateway to crypto and blockchain’: SHIB developer Kusama</title>
+		<link>https://cryptoslate.com/memes-are-the-gateway-to-crypto-and-blockchain-shib-developer-kusama/</link>
+					<comments>https://cryptoslate.com/memes-are-the-gateway-to-crypto-and-blockchain-shib-developer-kusama/#respond</comments>
+		
+		<dc:creator><![CDATA[Monika Ghosh]]></dc:creator>
+		<pubDate>Sat, 13 Jul 2024 18:32:48 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Memecoins]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=433122</guid>
+
+					<description><![CDATA[<p>The pseudonymous lead developers of memecoin Shiba Inu (SHIB), Shytoshi Kusama and Kaal Dhairya, gave their first-ever interview to the Arabian Business. In the interview published on Friday, Kusama and Dhairya disclosed previously unknown facts about their past lives. For instance, Kusama, who speaks six languages, used to be an Uber driver in Los Angeles, [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/memes-are-the-gateway-to-crypto-and-blockchain-shib-developer-kusama/">‘Memes are the gateway to crypto and blockchain’: SHIB developer Kusama</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The pseudonymous lead developers of <a href="http://cryptoslate.com/cryptos/meme">memecoin</a> Shiba Inu (<a href="https://cryptoslate.com/coins/shiba-inu/">SHIB</a>), Shytoshi Kusama and Kaal Dhairya, gave their first-ever <a href="https://www.arabianbusiness.com/industries/technology/exclusive-shiba-inu-leaders-shytoshi-kusama-kaal-dhairya-sit-down-for-first-ever-interview">interview</a> to the Arabian Business. In the interview published on Friday, Kusama and Dhairya disclosed previously unknown facts about their past lives.</p>
+<p>For instance, Kusama, who speaks six languages, used to be an Uber driver in Los Angeles, apart from having “done a lot of things,” including “working in music, photography, and as a barista.” On the other hand, Dhairya, who is regarded as a tech genius, used to be a part-time food delivery courier in New York.</p>
+<h2>The beginning of Kusama and Dhairya’s working relationship</h2>
+<p>Kusama’s entry into the world of technology began after an encounter with a rich individual while he was an Uber driver. He explained:</p>
+<blockquote><p>“&#8230;one day this super rich guy got in the back. I said: ‘What do you do?’ He said: ‘If you want what I have, get into tech. So I did.”</p></blockquote>
+<p>He began by trading crypto as a hobby through two cycles over seven years. He invested $4,000 and gained a “decent win with a token.” Afterward, he joined the Shiba Inu chatroom, which had only 6,000 members at the time, and invested $3,000 in the meme token.</p>
+<p>During the same time, he came across the first blog by SHIB’s pseudonymous creator Ryoshi, which talked about decentralization. After meeting Ryoshi in a chatroom, Kusama proceeded to pitch Ryoshi an idea that was immediately approved.</p>
+<p>However, Kusama realized he needed support, which he found in Dhairya, having also met him through the chatroom. He asked Dhairya to quit his job and offered him a year’s salary. Kusama said:</p>
+<blockquote><p>“He [Dhairya] trusted me that this could be big, and in crypto, you need at least one person you can trust, otherwise everyone around you is like sand or wind. They switch all the time to someone they think will make them more money.”</p></blockquote>
+<p>And Kusama trusted Dhairya to get the job done.</p>
+<p>Recounting his side of the story, Dhairya said:</p>
+<blockquote><p>“I had a very good understanding of the [SHIB] vision because I was looking into different companies and how companies like Airbnb were growing. When he showed me the vision, I thought yes, I get it&#8230;I didn’t hesitate to join him.”</p></blockquote>
+<h2>Goal: World’s first trillion-dollar decentralized entity</h2>
+<p>Ryoshi created SHIB in August 2020 with a specific plan to create five tokens and multiple pieces of technology. This includes SHIB, BONE, LEASH, TREAT (yet to be launched), and a stablecoin called SHI along with multiple technologies such as Shiba Swap. Calling Ryoshi the “Dogecoin killer,” Kusama explained that:</p>
+<blockquote><p>“His [Ryoshi’s] goal was if someone could actually build all these things, then we could overtake Doge.”</p></blockquote>
+<p>Going forward, the developer duo has an ambitious plan for the meme coin. Kusama said that the goal is to be the “world’s first trillion-dollar decentralized entity,” adding:</p>
+<blockquote><p>“Right now less than 5 percent of the world is on crypto – not only do we see it exploding, but we see memes being the gateway to crypto and blockchain, and Shiba Inu being the brand that will lead the world from Web2 to Web3.”</p></blockquote>
+<h2>A franchise with ethos</h2>
+<p>According to Kusama, Ryoshi created SHIB as an experiment. Ryoshi did not want people to pay for influencers or market listings. Rather, he wanted SHIB holders and developers to do the marketing themselves, “do something cool,” Kusama said.</p>
+<p>Ryoshi believed that this kind of cooperation could easily enable them to “build the world’s biggest decentralized community,” Kusama added. And the community is still driven by the same spirit.</p>
+<p>Dhairya said that SHIB is like a “franchise with ethos.” He explained:</p>
+<blockquote><p>“People build their own things with it, and our job is to give them the ability to amplify their message. And to make sure we take some of that market share and bring it back to the foundation, to the community.”</p></blockquote>
+<p>He went on to add that to be part of the SHIB movement, people have to pass through a checklist to ensure they are part of the same ethos. He further expounded that:</p>
+<blockquote><p>“If tomorrow you want to do Shiba Coffee and you satisfy our checklist, and you are part of the framework we are creating, and you can take market share from Starbucks and push it back to the community, then the whole community is behind you.”</p></blockquote>
+<h2>SHIB to see a change of leadership by year-end</h2>
+<p>Despite <a href="http://cryptoslate.com/coins/shiba-inu">SHIB</a> currently being the 13th largest crypto, Kusama and Dhairya have no plans of renouncing their anonymity. Moreover, Kusama and Dhairya are planning to hand over the reins of the project to the community by the end of this year. Kusama said:</p>
+<blockquote><p>“&#8230;right now we are leads, by the end of [the] year there will be committees of people who will lead certain things.”</p></blockquote>
+<p>Therefore, the anonymous developers do not see a point in disclosing their identities. Besides, they prefer their anonymity, which they find invaluable. Kusama said:</p>
+<blockquote><p>“The fact that we can sit here in this coffee shop, no security outside, nobody recognizes me, that’s actually worth more than any amount of money.”</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/memes-are-the-gateway-to-crypto-and-blockchain-shib-developer-kusama/">‘Memes are the gateway to crypto and blockchain’: SHIB developer Kusama</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/memes-are-the-gateway-to-crypto-and-blockchain-shib-developer-kusama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/shiba-inu-man.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/shiba-inu-man.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Increasing tradFi partnerships open door to retail access for tokenized securities</title>
+		<link>https://cryptoslate.com/increasing-tradfi-partnerships-open-door-to-retail-access-for-tokenized-securities/</link>
+					<comments>https://cryptoslate.com/increasing-tradfi-partnerships-open-door-to-retail-access-for-tokenized-securities/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2024 12:15:17 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Banking]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Tokens]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=432837</guid>
+
+					<description><![CDATA[<p>Deutsche Bank-backed Taurus recently received approval from FINMA to offer tokenized securities to retail investors through the TDX marketplace. Lamine Brahimi, Co-Founder and Managing Partner at Swiss-based Taurus discussed the regulatory challenges faced and the navigation process with CryptoSlate. Since April 2018, Taurus has concentrated on developing institutional-grade technology and processes. Demonstrating compliance, anti-money laundering [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/increasing-tradfi-partnerships-open-door-to-retail-access-for-tokenized-securities/">Increasing tradFi partnerships open door to retail access for tokenized securities</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Deutsche Bank-backed Taurus recently received approval from FINMA to offer <a href="https://cryptoslate.com/standard-charter-reports-30-trillion-tokenised-real-world-asset-market-by-2034/">tokenized securities</a> to retail investors through the TDX marketplace. Lamine Brahimi, Co-Founder and Managing Partner at Swiss-based Taurus discussed the regulatory challenges faced and the navigation process with <em>CryptoSlate</em>.</p>
+<p>Since April 2018, Taurus has concentrated on developing institutional-grade technology and processes. Demonstrating compliance, anti-money laundering measures and investor protection were critical for approval, ensuring secure and compliant access, investment, and trading of digital securities on TDX.</p>
+<p>Brahimi envisions tokenization, making the purchase of company shares as simple as buying a book online. He believes that <a href="https://cryptoslate.com/bitfinex-securities-issues-new-tokenized-bonds-to-support-microfinance-projects/">digitizing private markets</a> can significantly impact the financial industry. However, barriers such as the adoption of global tokenization standards, regulated secondary markets, and large-scale tokenized cash solutions persist. Taurus addresses these through strategic initiatives, including chairing the Technology Committee of the Capital Markets &amp; Technology Association (CMTA) in Switzerland, launching TDX, and scaling clients&#8217; digital asset businesses globally.</p>
+<p>Strategic partnerships with <a href="https://cryptoslate.com/hsbc-to-launch-custody-service-for-tokenized-securities/">prominent banks</a> like Credit Suisse, Deutsche Bank, and AMINA Bank have been integral to Taurus&#8217;s success. These collaborations focus on providing future-proof technology and a platform that manages various digital assets. Brahimi highlights the importance of technology control and client demand for innovative digital asset products. Despite AI hype, <a href="https://cryptoslate.com/galaxys-novogratz-says-crypto-will-get-favorable-regulation-regardless-of-who-wins-elections/">regulatory environments</a> and client interest in tokenized assets remain strong, with 80% of clients using Taurus&#8217;s tokenization platform alongside custody solutions.</p>
+<p>Looking ahead, Brahimi foresees tokenization becoming more prevalent as <a href="https://cryptoslate.com/eba-publishes-new-guidelines-for-token-issuers-as-part-of-upcoming-mica-regulation/">regulatory frameworks</a> solidify and institutional adoption increases.</p>
+<p>The post <a href="https://cryptoslate.com/increasing-tradfi-partnerships-open-door-to-retail-access-for-tokenized-securities/">Increasing tradFi partnerships open door to retail access for tokenized securities</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/increasing-tradfi-partnerships-open-door-to-retail-access-for-tokenized-securities/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/tokenization.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/tokenization.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>How AgriDex leverages NFTs to secure agricultural trade: Interview</title>
+		<link>https://cryptoslate.com/how-agridex-leverages-nfts-to-secure-agricultural-trade-interview/</link>
+					<comments>https://cryptoslate.com/how-agridex-leverages-nfts-to-secure-agricultural-trade-interview/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoSlate Interviews]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2024 12:46:03 +0000</pubDate>
+				<category><![CDATA[Interview]]></category>
+		<category><![CDATA[RWA]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=424485</guid>
+
+					<description><![CDATA[<p>In a move that could reshape the global agricultural landscape, AgriDex is setting out to bring the $2.7 trillion agricultural industry onto the blockchain. In this exclusive CryptoSlate interview, Henry Duckworth, CEO and co-founder of AgriDex, unveils his vision for revolutionizing the way agricultural commodities are traded and tracked worldwide. Fresh off a $5 million [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/how-agridex-leverages-nfts-to-secure-agricultural-trade-interview/">How AgriDex leverages NFTs to secure agricultural trade: Interview</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="whitespace-pre-wrap break-words">In a move that could reshape the global agricultural landscape, <a href="https://cryptoslate.com/companies/agridex/">AgriDex</a> is setting out to bring the $2.7 trillion agricultural industry onto the blockchain. In this exclusive CryptoSlate interview, <a href="https://cryptoslate.com/people/henry-duckworth/">Henry Duckworth</a>, CEO and co-founder of <a href="https://cryptoslate.com/companies/agridex/">AgriDex</a>, unveils his vision for revolutionizing the way agricultural commodities are traded and tracked worldwide.</p>
+<p class="whitespace-pre-wrap break-words">Fresh off a $5 million pre-seed funding round, AgriDex is leveraging Solana&#8217;s high-speed, low-cost blockchain to tokenize crops and streamline agricultural transactions. With promises of 10-40% cost savings per trade and near-instant settlements, AgriDex aims to tackle long-standing issues in the industry, from opaque supply chains to high remittance fees.</p>
+<p class="whitespace-pre-wrap break-words">Duckworth&#8217;s innovative approach goes beyond mere digitization. By minting NFTs for each transaction, AgriDex creates an immutable record of crucial data points, from product origin to shipping details. This enhances transparency and aligns with stringent EU disclosure requirements, potentially opening new markets for farmers worldwide.</p>
+<p class="whitespace-pre-wrap break-words">In this interview, Duckworth shares insights into AgriDex&#8217;s strategic choices, its unique position in the market, and the transformative potential of bringing real-world agricultural assets on-chain.</p>
+<p>The post <a href="https://cryptoslate.com/how-agridex-leverages-nfts-to-secure-agricultural-trade-interview/">How AgriDex leverages NFTs to secure agricultural trade: Interview</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/how-agridex-leverages-nfts-to-secure-agricultural-trade-interview/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/agridex.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/agridex.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Tuur Demeester believes bear market in bonds could reshape traditional portfolio management</title>
+		<link>https://cryptoslate.com/tuur-demeester-believes-bear-market-in-bonds-could-reshape-traditional-portfolio-management/</link>
+					<comments>https://cryptoslate.com/tuur-demeester-believes-bear-market-in-bonds-could-reshape-traditional-portfolio-management/#respond</comments>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Tue, 18 Jun 2024 20:45:12 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Interview]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=426378</guid>
+
+					<description><![CDATA[<p>In a recent interview with CryptoSlate at BTC Prague 2024, Tuur Demeester, a renowned Bitcoin research analyst at Adamant Research, shared his journey into the world of Bitcoin and provided insightful perspectives on the current state and future of digital asset adoption. From Shoes to Satoshi Demeester&#8217;s path to Bitcoin began in an unconventional way. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/tuur-demeester-believes-bear-market-in-bonds-could-reshape-traditional-portfolio-management/">Tuur Demeester believes bear market in bonds could reshape traditional portfolio management</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In a recent interview with <em>CryptoSlate</em> at BTC Prague 2024, <a href="https://x.com/TuurDemeester">Tuur Demeester</a>, a renowned Bitcoin research analyst at Adamant Research, shared his journey into the world of Bitcoin and provided insightful perspectives on the current state and future of digital asset adoption.</p>
+<h3>From Shoes to Satoshi</h3>
+<p>Demeester&#8217;s path to Bitcoin began in an unconventional way. Before becoming an analyst, he worked various odd jobs, including selling shoes and building websites. His interest in Austrian economics and the trade cycle eventually led him to global macroanalysis.</p>
+<p>In 2011, a publisher recognized his talent and offered him a position as a financial newsletter author. It was through this role that Demeester discovered Bitcoin and began integrating it into his analyses.</p>
+<p>By 2013, he committed to Bitcoin full-time and has remained an independent analyst since.</p>
+<h3>Distinguishing Bitcoin from Altcoins</h3>
+<p>Early on, Demeester was able to distinguish Bitcoin from other digital assets. He emphasized the importance of understanding systems design and architecture, which many altcoins lacked.</p>
+<p>Projects like Dogecoin, which were launched as a joke and poorly maintained, exemplified the shortcomings of many altcoins. In contrast, Bitcoin&#8217;s rigorous maintenance and robust protocol gave it a lasting edge.</p>
+<blockquote><p>&#8220;It really helped to talk to a lot of engineers who had a profound passion for systems design and architecture. They could see the lack of rigor in a lot of the altcoin projects, like Dogecoin, which was launched as a joke and then nobody maintained it.&#8221;</p></blockquote>
+<h3>The Year of Mass Adoption</h3>
+<p>Looking ahead to 2024, Demeester predicts a significant year for Bitcoin adoption, primarily driven by the approval of the <a href="https://cryptoslate.com/insights/bitcoin-price-reflects-basis-trade-dynamics-not-suppression/">Bitcoin ETFs</a>. He believes this will provide the global banked population with easy access to Bitcoin, potentially allowing institutions to include Bitcoin in their balance sheets.</p>
+<p>While acknowledging the need for financial advisors to educate themselves, Demeester sees this as an incredible milestone for Bitcoin.</p>
+<blockquote><p>&#8220;The approval of these Bitcoin ETFs gives the entire banked world instantaneous access to the Bitcoin space. This means any institution can now put Bitcoin in their balance sheets, marking an incredible milestone for mass adoption.&#8221;</p></blockquote>
+<h3>Comparing International Markets</h3>
+<p>When discussing the performance of Bitcoin ETFs in other countries like Canada, Europe, and Australia, Demeester highlighted the unique position of the US as a financial powerhouse.</p>
+<p>The combination of organized financial products, a robust enforcement system, and deep liquidity creates a virtuous cycle that attracts global focus on U.S.-based financial products. This is a stark contrast to other regions where similar products have struggled to gain traction.</p>
+<h3>Challenges in the UK and Europe</h3>
+<p><em>CryptoSlate </em>analyst James van Straten expressed disappointment with the UK&#8217;s Financial Conduct Authority (FCA) for not allowing retail access to Bitcoin ETFs. He suggested that the UK&#8217;s reluctance stems from a preference for keeping money within the economy through traditional financial products.</p>
+<p>This restriction forces UK investors to seek alternative methods, such as speculating in Bitcoin miners or companies like MicroStrategy.</p>
+<h3>Political Implications</h3>
+<p>On the political front, Demeester observed the evolving stance of major US political figures toward Bitcoin. He noted that <a href="https://cryptoslate.com/former-president-donald-trump-related-memecoin-lead-market-following-new-crypto-promises/">Donald Trump’s</a> unexpected endorsement of Bitcoin could significantly influence the upcoming presidential election, turning it into a &#8220;Bitcoin election.&#8221;</p>
+<p>In contrast, the Democrats appear to be playing catch-up, with Gary Gensler, a key figure, remaining reluctant to endorse Bitcoin.</p>
+<h3>Ethereum vs. Bitcoin</h3>
+<p>When comparing Ethereum to Bitcoin, Demeester pointed out Ethereum&#8217;s underperformance across cycles and its inconsistent monetary policy.</p>
+<p>He argued that Ethereum&#8217;s frequent hard forks and policy changes undermine its reliability as a store of value. In contrast, Bitcoin&#8217;s consistent and predictable monetary policy enhances its appeal.</p>
+<h3>Market Dynamics and Economic Trends</h3>
+<p>Demeester also touched on broader economic trends, including the current bear market in bonds, which is reshaping traditional portfolio management theories.</p>
+<p>He speculated that potential global liquidity crunches could temporarily impact Bitcoin, although he remained optimistic about its long-term prospects.</p>
+<h3>The Future of Bitcoin Adoption</h3>
+<p>Finally, Demeester predicted a significant wave of public company adoption of Bitcoin. He believes that as companies seek to revalue and manage their price-to-earnings ratios, adopting Bitcoin strategies will become increasingly common. He argued that this trend will further drive the mass adoption of Bitcoin.</p>
+<p>In conclusion, Tuur Demeester&#8217;s insights paint a compelling picture of Bitcoin&#8217;s journey from a niche investment to a mainstream financial asset. With the approval of Bitcoin ETFs and growing institutional interest, 2024 promises to be a pivotal year for Bitcoin adoption.</p>
+<p>The post <a href="https://cryptoslate.com/tuur-demeester-believes-bear-market-in-bonds-could-reshape-traditional-portfolio-management/">Tuur Demeester believes bear market in bonds could reshape traditional portfolio management</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/tuur-demeester-believes-bear-market-in-bonds-could-reshape-traditional-portfolio-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/bitcoin-mass-adoption.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/bitcoin-mass-adoption.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>USDV wants to be native on more chains than any other stablecoin</title>
+		<link>https://cryptoslate.com/usdv-wants-to-be-native-on-more-chains-than-any-other-stablecoin/</link>
+					<comments>https://cryptoslate.com/usdv-wants-to-be-native-on-more-chains-than-any-other-stablecoin/#respond</comments>
+		
+		<dc:creator><![CDATA[Christina Comben]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2024 12:00:12 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Guest Post]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=423167</guid>
+
+					<description><![CDATA[<p>The following is a guest post from Christina Comben. With a current market cap of just over $20 million, you’d be forgiven for not having heard of Verified USD (USDV). The newcomer in the stablecoin market soft-launched on Ethereum in November 2023 and is steadily rolling out its native omnichain capabilities to further ecosystems. USDV [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/usdv-wants-to-be-native-on-more-chains-than-any-other-stablecoin/">USDV wants to be native on more chains than any other stablecoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest post from Christina Comben.</em></p>
+<p><span style="font-weight: 400;">With a current market cap of just over </span><strong><a href="https://www.coingecko.com/en/coins/verified-usd">$20 million</a></strong><span style="font-weight: 400;">, you’d be forgiven for not having heard of </span><strong><a href="http://usdv.money/">Verified USD</a></strong><span style="font-weight: 400;"> (USDV). The newcomer in the stablecoin market soft-launched on <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> in November 2023 and is steadily rolling out its native omnichain capabilities to further ecosystems. </span></p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/coins/verified-usd/">USDV</a> is now live on eight EVM-enabled chains including <a href="https://cryptoslate.com/coins/arbitrum/">Arbitrum</a>, <a href="https://cryptoslate.com/coins/bnb/">BNB chain</a>, <a href="https://cryptoslate.com/companies/optimism/">Optimism</a>, and <a href="https://cryptoslate.com/coins/avalanche/">Avalanche</a>. Cryptoslate sat down with Mathew Commons, President of the Verified USD Foundation and former <a href="https://cryptoslate.com/coins/algorand/">Algorand</a> CFO, to find out why the industry needs another stablecoin and what’s different about USDV.</span></p>
+<h2><b>Aligning with the ‘decentralized ethos’ of web3</b></h2>
+<p><span style="font-weight: 400;">The concept of the Verified USD Foundation originated from two organizations: Canadian-based interoperability protocol </span><strong><a href="https://layerzero.network/">LayerZero</a></strong><span style="font-weight: 400;"> and </span><strong><a href="https://www.matrixport.com/">Matrixport</a></strong><span style="font-weight: 400;">, a crypto financial services company based in Singapore. Commons explains,</span></p>
+<blockquote><p><strong> “They were looking at what&#8217;s needed in the future for stablecoins and wanted to take a novel technical approach to align stablecoins with the decentralized ethos of our ecosystem while still having a fully reserved-backed stablecoin.”</strong></p></blockquote>
+<p><span style="font-weight: 400;">USDV’s governance structure differs from the legacy stablecoins, which, although Commons acknowledges have “played a very important role in getting us where we are today,” are mainly private entities with centralization risk. USDV, on the other hand, is set up as a foundation. </span></p>
+<blockquote><p><strong>“We aspire to be significantly more decentralized and have community involvement,” he says.</strong></p></blockquote>
+<p><span style="font-weight: 400;">USDV uses an attribution mechanism called</span> <strong><a href="https://medium.com/layerzero-official/introduction-to-colortrace-0538272e393d">ColorTrace</a></strong><span style="font-weight: 400;">, </span><span style="font-weight: 400;">which allows it to track which partners bring new capital into the USDV system so the yield can be shared. </span></p>
+<blockquote><p><strong>“The yield isn&#8217;t shared with the end user,” he says, “as that would make it a security and be problematic as a permissionless token, but unlike the legacy stablecoins that keep the yield for themselves, we provide a strong incentive for our partners to bring new users and capital into the system.”</strong></p></blockquote>
+<p><span style="font-weight: 400;">The</span> <span style="font-weight: 400;">Verified USD Foundation doesn’t mint new USDV itself but provides the legal, technical, and governance framework for its partners (DeFi protocols, centralized exchanges, OTC providers) to mint it. Once a partner creates USDV, they acquire the permissionless collateral token STBT (short-term treasury bill token) which is locked into the smart contract to create new USDV, and minted in the partner’s color, allowing them to earn yield. </span></p>
+<blockquote><p>“If they created it, they will continue to earn yield no matter what chain it moves to,” he affirms.</p></blockquote>
+<h2><b>Fully transparent with collateral on-chain</b></h2>
+<p><span style="font-weight: 400;">USDV is a reserve-backed stablecoin. “We&#8217;re fully backed by short-term treasury bills with a duration of three months or less and we&#8217;re aiming for best-in-class transparency. All our collateral is on-chain.” USDV’s separate collateral token, STBT, is issued by an affiliate of Matrixport on-chain. One dollar of STBT is locked into a smart contract on the Ethereum mainnet to mint one dollar of USDV. </span></p>
+<blockquote><p><strong>“There’s transparency throughout all the chains so users can always see that one dollar of USDV is fully backed by the collateral.”</strong></p></blockquote>
+<p><span style="font-weight: 400;">Unlike other stablecoins that issue weekly or monthly audit reports, USDV works with Chainlink to provide ‘Proof of Reserves’ that show its auditing in real-time. </span></p>
+<blockquote><p><strong>“So every day they&#8217;re verifying the transparency of the collateral.”</strong></p></blockquote>
+<h2><b>Built with LayerZero’s omnichain fungible token standard</b></h2>
+<p><span style="font-weight: 400;">USDV has native omnichain capabilities, which means that while all USDV is created on Ethereum, it can be burned and reminted on any chain it’s on, many of which are connected to more than 70 different blockchains: “significantly more than any of the legacy stablecoins,” Commons points out. </span></p>
+<p><span style="font-weight: 400;">USDV has its sights on being the stablecoin available on the largest number of chains, starting with EVM-enabled chains. </span></p>
+<blockquote><p><strong>“But we expect to see additional chains, some of the leading non-EVM chains, even Bitcoin Layer 2s. We want to be native on more chains than any other stablecoin.” He continues, “If you look at some of the big non-EVM chains, that’s where the action is right now. We think this will be a big trend over the next year and we absolutely want to be there.”</strong></p></blockquote>
+<h2><b>Is the battle of the stablecoins imminent?</b></h2>
+<p><span style="font-weight: 400;">Commons doesn’t see USDV as fighting for a slice of a pie in an already crowded space. Rather, he believes the pie will increase in size so everyone can eat. </span></p>
+<blockquote><p><strong>“Looking at the future, some analysts predict even 30x growth in the stablecoin market in the next five to seven years. I don&#8217;t think it’s about going head-to-head on the existing chains and growing at the expense of others. The market will continue to grow rapidly and we have a competitive advantage in several areas.”</strong></p></blockquote>
+<p><span style="font-weight: 400;">Is there anything concerning Commons as the Verified USD Foundation grows? </span></p>
+<blockquote><p>“I think a challenge for everybody is that regulations are in a state of flux… Maybe we&#8217;ll see a stablecoin bill. It would be a positive for the sector to have some regulatory clarity.” His team is “staying on top of the regulatory landscape,” and witnessing the most rapid growth outside the U.S., particularly in emerging markets. “It could be high-inflation economies like Argentina or Turkey, or emerging economies that want faster and lower costs on foreign exchange… it’s great to see crypto solving real-world use cases rather than just number go up,” he says.</p></blockquote>
+<p><span style="font-weight: 400;">Beyond native chain functionality, USDV’s main strategy for growth is finding good local partners.</span></p>
+<blockquote><p><strong>“More so than other stablecoins because our business model is predicated on partnerships. So we&#8217;re looking for the best OTC desks, and the best community influencers we can work with, and through our unique way of sharing the underlying collateral yield, really partner with them. It’s not just a one-off partnership, we’re in it for the long term.”</strong></p></blockquote>
+<p><span style="font-weight: 400;">What’s next on the horizon for USDV? Commons says USDV is entering its next phase and has plenty of plans, including growing the team, finding more partnerships, and coming out with some “really exciting end-user initiatives toward the end of the year.” Watch this space.</span></p>
+<p>The post <a href="https://cryptoslate.com/usdv-wants-to-be-native-on-more-chains-than-any-other-stablecoin/">USDV wants to be native on more chains than any other stablecoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/usdv-wants-to-be-native-on-more-chains-than-any-other-stablecoin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/usdv-stablecoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/usdv-stablecoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Osmosis co-founder Sunny Aggarwal on costumes, Cosmos, and the ‘Bitcoin renaissance’</title>
+		<link>https://cryptoslate.com/osmosis-co-founder-sunny-aggarwal-on-costumes-cosmos-and-the-bitcoin-renaissance/</link>
+					<comments>https://cryptoslate.com/osmosis-co-founder-sunny-aggarwal-on-costumes-cosmos-and-the-bitcoin-renaissance/#respond</comments>
+		
+		<dc:creator><![CDATA[Christina Comben]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 21:43:44 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Interview]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=416998</guid>
+
+					<description><![CDATA[<p>Even if you&#8217;re not an avid ‘Cosmonaut,’ you’re probably familiar with Sunny Aggarwal, the co-founder of Osmosis Labs. With an infectious smile and upbeat personality, Sunny&#8217;s name is surprisingly apt. He’s the type of person whose deep intellect, quick wit, and unbridled passion light up the spaces around him. We were scheduled to meet at [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/osmosis-co-founder-sunny-aggarwal-on-costumes-cosmos-and-the-bitcoin-renaissance/">Osmosis co-founder Sunny Aggarwal on costumes, Cosmos, and the ‘Bitcoin renaissance’</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Even if you&#8217;re not an avid ‘Cosmonaut,’ you’re probably familiar with <a href="https://cryptoslate.com/people/sunny-aggarwal/">Sunny Aggarwal</a>, the co-founder of <a href="https://app.osmosis.zone/">Osmosis Labs</a>. With an infectious smile and upbeat personality, Sunny&#8217;s name is surprisingly apt. He’s the type of person whose deep intellect, quick wit, and unbridled passion light up the spaces around him.</p>
+<p>We were scheduled to meet at Cosmos Dubai during Token2049 but life had other plans. The Cosmos side event wasn&#8217;t to be. Dubai was struck by the worst floods in 75 years, reducing the skyscraping desert metropolis to a lake and plunging entire neighborhoods underwater. “There&#8217;s always Cosmoverse in October,” Sunny smiles. “We can catch up in person then.”</p>
+<h2>The rise and rise of Osmosis</h2>
+<p>I was looking forward to seeing what outfit Sunny would wear; he has quite the collection, donning a spectrum of eye-popping costumes, from a <a href="https://cryptoslate.com/osmosis-co-founder-reveals-cross-staking-through-mesh-security-in-chainmail-armor-at-cosmoverse/">40lb suit of chainmail armor</a> to a Byzantine General costume with a striking red-crested helmet. “Ah, I keep the cooler outfits for the bigger events like Cosmoverse or Osmocon,” he explains, “if I wore a new one for every event, my costume budget would get way too high,” he laughs. On the other side of the screen, from Sunny’s New York apartment, he looks decidedly more lowkey today.</p>
+<p>As the Cosmos ecosystem’s largest <a href="https://cryptoslate.com/cryptos/dex/">decentralized exchange (DEX)</a>, Osmosis announced surpassing <a href="https://twitter.com/osmosiszone/status/1782831854229549134">$32 billion</a> in all-time trading volume that day. I ask how it feels to mastermind the most popular project in Cosmos and to reach such an impressive milestone.</p>
+<blockquote><p>“I think it said Osmosis DEX wanted to get to $40 billion, [in the tweet]” he replies, “but I’m waiting for $100 billion.”</p></blockquote>
+<p>Sunny is unashamedly ambitious. Did he always know Osmosis would be such a success? He ponders:</p>
+<blockquote><p>“The immediate traction it got when we launched was very surprising. Cosmos had a lot of high-value assets that weren’t listed on centralized exchanges, but we didn’t realize how big of a deal that would be.”</p></blockquote>
+<h2>Growth hacking and the bumps along the road</h2>
+<p>It wasn&#8217;t all smooth sailing to get here. Sunny has been in the web3 industry since 2017. Like all battle-hardened OGs, he’s lived through his fair share of ups and downs — crypto crashes, bear markets, and all-out implosions like Terra (LUNA) and FTX. I ask the most stressful situation he’s experienced so far, and he pauses:</p>
+<blockquote><p>“I think I would have to say the Osmosis launch week. It was my first time launching a project and a company and a blockchain at once. There are a lot of last-mile things you don’t think about.”</p></blockquote>
+<p>Osmosis had publicly announced its launch date and, unlike the plethora of software projects that kick their launch dates down the road like the proverbial can, Sunny was adamant about not moving his. But as more and more last-mile items kept piling up, the launch date hung over the team’s head like a dark and brooding cloud.</p>
+<blockquote><p>“Osmosis went from idea to launch very quickly,” he says. “We went from development to launch in only three or four months and we procrastinated on a lot of important stuff until the last two weeks.”</p></blockquote>
+<p>Would he have done anything differently with the benefit of hindsight?</p>
+<blockquote><p>“I would have planned things further in advance. When you launch a project, there’s more than just the code. There’s a lot of operational stuff to consider and it takes longer than you think… I would have done all that a lot earlier.”</p></blockquote>
+<p>Osmosis launched with a team of six and, despite the scrappy start, now has 45 full-time employees:</p>
+<blockquote><p>“I like the size we’re at now,” he says. “We’re small enough that you still know everyone and can do full team offsite, but we’re big enough to pursue multiple unique product lines in parallel.”</p></blockquote>
+<p>How does he handle the stress of being at the forefront of an ever-evolving industry? By throwing himself out of planes. Sunny&#8217;s a fan of aviation and is learning how to fly a plane, and taking a skydiving course.</p>
+<blockquote><p>“I find it’s best to put yourself in a position where you can’t touch your phone, like flying a plane, or scuba diving,” (or hurtling toward the earth at 120 miles an hour). “Crypto markets aren’t volatile enough, I have to add more adrenaline,” he laughs.</p></blockquote>
+<h2>Travel, idols, and a ‘liveness-favoring’ mind</h2>
+<p>Spending so much time in the air, Sunny also likes to travel, and if there’s one place closest to his heart, it’s Switzerland. He&#8217;s always been fascinated with the mountainous Alpine country and its rich history, culture, politics, and economy.</p>
+<p>He even taught a class about Switzerland while studying at Berkeley. He wouldn&#8217;t want to live there, though, as it’s “just a little bit too boring.” Sunny prefers the frenetic pace of a city like New York or “being at the front seat of technological innovation” in San Francisco&#8217;s Silicon Valley. He also loves Berlin, where his co-founder lives, and has many friends. “It&#8217;s like a second home.”</p>
+<p>Beyond continually improving Osmosis, helping other Cosmos ecosystem projects, and racking up his pilot miles, Sunny&#8217;s a keen reader. One of his biggest idols is Peter Thiel, whose writing and “way of thinking” greatly influenced Sunny’s worldview. Beyond Thiel’s <i>Zero to One</i>, he recommends the book <i>Swarmwise</i> by Rick Falkvinge, the founder of the <i>Pirate Party</i> political movement in Europe. The book speaks of how Falkvinge started a political party and turned it into a decentralized force through a concept called “swarms.”</p>
+<p>He elaborates:</p>
+<blockquote><p>“In consensus protocols, you have this concept of safety-favoring and liveness-favoring protocols. In safety-favoring, you can never fork, you come to consensus on everything and then you make progress. Liveness-favoring protocols are constantly forking but they’re making fast progress, you don&#8217;t have to get the approval of the entire group to make a move… In the early stages of an organization where you’re focusing on growth, you need that liveness favoring so you don&#8217;t get bogged down in bureaucracy.”</p></blockquote>
+<h2>A ‘Bitcoin maxi’ of a different ilk</h2>
+<p>As a self-declared &#8220;Bitcoin maxi,” Sunny does not doubt the original crypto being the best money for the world; but the glacial pace of development doesn&#8217;t gel with his need for constant innovation. That’s why he worked on Cosmos infrastructure in the first place, “building the appchain layer for Bitcoin.” What&#8217;s he most excited about right now?</p>
+<blockquote><p>“Definitely the Bitcoin renaissance. Ordinals changed everything, there’s been a cultural shift with all the Bitcoin L2s happening. I’m confident that we’ll have a good soft fork in the next year or two.”</p></blockquote>
+<p>Wouldn&#8217;t that be a detriment to the sound-money qualities and adoption of Bitcoin as an asset? “It’s the limitations of Bitcoin that have caused the need for so many other money-like assets, but now Bitcoin can scale to more people and do more functionalities, like bring in DeFi, privacy, social… there’s a lot of stuff we can do on top of Bitcoin now.”</p>
+<p>What would Sunny be doing if he didn&#8217;t spend his time disrupting traditional finance? “Hardware.” Before working in crypto, Sunny studied robotics at school, and he’d like to return to his roots someday.</p>
+<blockquote><p>“There are different ideas I’ve had. I spent a lot of time thinking about smart guns, having firearms that are safer, with security systems, like fingerprint scanners so people can’t steal them.” He pauses, “I’m really interested in anything that has an important political impact. That’s why I got into crypto in the first place.”</p></blockquote>
+<p><i>If you want to catch up with Sunny, follow his personal </i><a href="https://twitter.com/sunnya97"><i>Twitter</i></a><i> or </i><a href="https://twitter.com/osmosiszone"><i>Osmosis</i></a><i> account, or hop on over to his </i><a href="https://www.sunnya97.com/"><i>website</i></a><i> for ideas and inspiration. You can also explore the forefront of DeFi trying out the </i><a href="https://app.osmosis.zone/"><i>Osmosis</i></a><i> DEX.</i></p>
+<p>The post <a href="https://cryptoslate.com/osmosis-co-founder-sunny-aggarwal-on-costumes-cosmos-and-the-bitcoin-renaissance/">Osmosis co-founder Sunny Aggarwal on costumes, Cosmos, and the ‘Bitcoin renaissance’</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/osmosis-co-founder-sunny-aggarwal-on-costumes-cosmos-and-the-bitcoin-renaissance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2022/09/sunny-osmosis.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2022/09/sunny-osmosis.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

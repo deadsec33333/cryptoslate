@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Politics News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/politics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/politics/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Sun, 08 Dec 2024 13:18:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Politics News | CryptoSlate</title>
+	<link>https://cryptoslate.com/politics/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trump, Bitcoin, and the race for tokenized capital markets</title>
+		<link>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/</link>
+					<comments>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[Jesse Knutson]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 13:18:11 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456125</guid>
+
+					<description><![CDATA[<p>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities. Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind Bitcoin’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities.</em></p>
+<p><span style="font-weight: 400;">Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 making </span><span style="font-weight: 400;">the US the ‘crypto capital of the world’ </span><span style="font-weight: 400;">and a financial services industry getting its first real taste of ‘number go up’. </span></p>
+<p><span style="font-weight: 400;">While the full details are yet to emerge, the number of Bitcoiners in Trump’s inner circle – including D.O.G.E. head <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a> – suggest Trump could come good on his crypto election promises. Fostering a more accommodative approach to banking, self-custody, and digital assets could have massive global knock-on effects. The success of the Bitcoin ETFs did much to destigmatize Bitcoin amongst institutional investors; US government support would likely do the same thing amongst governments.  </span></p>
+<p><span style="font-weight: 400;">A pro-Bitcoin administration will almost certainly drive prices higher and result in more countries following suit. In my Bitcoin pitch, I always avoided the end game to people in suits—institutional investors, regulators, and policymakers—but suddenly, hyperbitcoinzation and hash wars look entirely possible. </span></p>
+<p><span style="font-weight: 400;">What does this mean for Bitcoin first movers like El Salvador? Or the Bitcoin curious like Argentina? It’s hard to say. On the one hand, as the largest contributor and shareholder in the IMF, a more accommodative US stance on Bitcoin would likely end the IMF’s opposition to things like El Salvador’s 2021 Bitcoin law. On the other hand, it could steal a lot of thunder from smaller economies, leveraging Bitcoin to attract human and financial capital. </span></p>
+<p><span style="font-weight: 400;">Capital markets, though, are a different game. I’ve often said that the opportunity to monetize Bitcoin-based capital markets is naturally skewed to small to mid-sized economies. Bitfinex Securities is registered and licensed not in New York, London, or even Singapore but in El Salvador and Kazkahstan’s Astana International Financial Center. Two jurisdictions that not only have buy-in from the highest echelons of their respective governments, but maybe even more importantly, are places where financial services account for a very small proportion of GDP. There are fewer moats and less pushback from entrenched players in legacy markets.  It’s a good bet.  Lots of upside and minimal downside. </span></p>
+<p><span style="font-weight: 400;">The tokenization we have seen in financial hubs and by major financial institutions to date looks to me like token tokenization. Earlier this month, </span><span style="font-weight: 400;">UBS Asset Management launched a</span> <strong><a href="https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html">USD Money Market Investment Fund</a></strong> <span style="font-weight: 400;">built on Ethereum. The fund </span><i><span style="font-weight: 400;">“seeks to open the door to the world of decentralized finance, reduce barriers and provide access to products and services to a broader range of market participants, bringing them closer together”</span></i><span style="font-weight: 400;">, but is also only available through authorized distribution partners. This seems like corporate buzzwordery. More smoke and mirrors.  Authorized distribution partners sound like the antithesis of decentralized finance. </span></p>
+<p><span style="font-weight: 400;">A number of the big banks have built proprietary tokenization technology. HSBC, for example, has </span><a href="https://www.gbm.hsbc.com/en-gb/solutions/hsbc-orion"><span style="font-weight: 400;"><strong>Orion</strong></span></a><span style="font-weight: 400;">. UBS has Tokenize. Goldman’s has the Goldman Sachs Digital Asset Platform. </span><span style="font-weight: 400;">Most (maybe all) of these solutions limit participation to institutional and/or accredited investors, settle either in fiat or a CBDC, offer no integration with Bitcoin or Tether, and rely on the usual host of conventional capital market participants like transfer agents, custodians, and depositories with no effort at disintermediation. The future of finance looks a lot like the past. </span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">This, I think, is the opportunity for El Salvador and other countries like it: streamline capital markets, disintermediate technologically unnecessary roles, support self-custody and peer-to-peer trading between whitelisted counterparties, allow for broad market participation and encourage links between conventional and digital asset markets through Tether and Bitcoin. This could yield an alternative to conventional capital markets that allows issuers and investors to interact much more directly and is cheaper, faster, and more inclusive. </span></p>
+<p><span style="font-weight: 400;">Wall Street’s approach seems to focus almost exclusively on the efficiencies of tokenized securities while overlooking the opportunity to streamline markets, return more control to investors, or encourage participation in capital markets from a broader range of investors and issuers.  I think it’s mostly about firing the back office and improving margins. Regardless of Trump’s Bitcoin strategy, it’s difficult to imagine tokenization in major markets, weighed down by layers of incumbents and vested interests, following the El Salvador model. </span><span style="font-weight: 400;">They seem to want innovation without change.</span></p>
+<p><span style="font-weight: 400;">I think a race between the competing approaches to tokenization will emerge in the coming years, fuelled in part by a more digital-assets-friendly US administration: developed vs. developing economies, open source vs. permissioned chains, inclusion vs. institutional only, Bitcoin and Tether vs. CBDCs and fiat. It’s much too early to say which path will emerge as the dominant approach, but I think there’s a good chance that freer, cheaper, lower friction markets can come out on top.</span></p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>FSOC warns stablecoins pose stability risks, calls for legislative action to enhance oversight</title>
+		<link>https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/</link>
+					<comments>https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 00:00:17 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[TradFi]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456412</guid>
+
+					<description><![CDATA[<p>The Financial Stability Oversight Council (FSOC) raised concerns that stablecoins pose a mounting risk to financial stability due to inadequate oversight and significant market concentration, according to its 2024 annual report. The report called for urgent legislative action to create a comprehensive federal framework for stablecoin issuers to mitigate risks tied to their rapid growth [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/">FSOC warns stablecoins pose stability risks, calls for legislative action to enhance oversight</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Financial Stability Oversight Council (FSOC) raised concerns that stablecoins pose a mounting risk to financial stability due to inadequate oversight and significant market concentration, according to its 2024 <a href="https://home.treasury.gov/system/files/261/FSOC2024AnnualReport.pdf">annual report</a>.</p>
+<p>The report called for urgent legislative action to create a comprehensive federal framework for stablecoin issuers to mitigate risks tied to their <a href="https://cryptoslate.com/standard-chartered-calls-stablecoins-cryptos-first-killer-app/">rapid growth</a> and limited transparency.</p>
+<p>It also called for stricter oversight of the wider crypto market amid growing integration with the traditional financial system and sustained institutional adoption.</p>
+<h2>Recommendations for stablecoins</h2>
+<p>The FSOC emphasized that stablecoins, often marketed as reliable digital alternatives to traditional currencies, are acutely vulnerable to runs without stringent risk management standards.</p>
+<p>It also argued that the opacity surrounding issuers&#8217; reserves and operational practices further undermines market discipline and increases the potential for fraud. The report noted that one issuer accounts for approximately <a href="https://cryptoslate.com/insights/stablecoin-market-hits-2-year-high-of-183b-amid-trump-victory-fueled-optimism/">70% of the market</a>, amplifying the risk of systemic disruptions should the entity fail. However, it did not explicitly name the entity.</p>
+<p>The council urged Congress to establish a comprehensive federal prudential framework for stablecoin issuers. Recommended measures include requiring robust reserve management, setting minimum capital and liquidity standards, and implementing regular reporting obligations.</p>
+<p>The report stressed that such a framework would address risks related to payment system disruptions and enhance investor and consumer protections. FSOC members also highlighted stablecoins&#8217; growing integration with traditional financial systems as a key concern.</p>
+<p>The report warned that without appropriate risk management standards, any instability in the stablecoin market could cascade into broader financial markets. In the absence of legislative action, the council advised federal agencies to explore alternative regulatory measures under existing authorities.</p>
+<h2>Integration with TradFi</h2>
+<p>The FSOC also detailed the expanding footprint of crypto-assets in traditional markets and warned that the sector&#8217;s rising integration with traditional finance also required increased oversight.</p>
+<p>While the total global market value of crypto-assets remains modest compared to traditional financial markets at just under $2 trillion, recent regulatory approvals of spot exchange-traded products (ETPs) have <a href="https://cryptoslate.com/bloomberg-analyst-says-altcoin-etfs-will-ignite-a-wild-crypto-market-in-2025/">heightened investor accessibility</a>. The market value of spot crypto-asset ETPs surged to nearly $80 billion in 2024 following the SEC&#8217;s approval of several listings earlier this year.</p>
+<p>Despite their growth, the FSOC emphasized that the crypto-asset ecosystem remains a high-risk sector. The report identified significant gaps in regulatory oversight of the crypto spot market, citing a lack of explicit federal rulemaking authority to address fraud, market manipulation, and other risks.</p>
+<p>To counter these challenges, the FSOC recommended granting federal financial regulators explicit powers to oversee crypto markets that fall outside securities regulation.</p>
+<p>While acknowledging the transformative potential of digital assets, the FSOC emphasized the need for a balanced regulatory approach that supports innovation while safeguarding financial markets.</p>
+<p>The post <a href="https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/">FSOC warns stablecoins pose stability risks, calls for legislative action to enhance oversight</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/fsoc-warns-stablecoins-pose-stability-risks-calls-for-legislative-action-to-enhance-oversight/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/stablecoins.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/stablecoins.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</title>
+		<link>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/</link>
+					<comments>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:45:48 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456388</guid>
+
+					<description><![CDATA[<p>Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (BTC) reserve is “crazy. &#8220; Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued: &#8220;Of all the prices to support, why would the government choose to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) reserve is “crazy. &#8220;</span></p>
+<p><span style="font-weight: 400;">Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued:</span></p>
+<blockquote><p><strong>&#8220;Of all the prices to support, why would the government choose to support by accumulating a sterile inventory, a bunch of Bitcoin? There is no reason other than to pander to generous special interest campaign contributors.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">His remarks follow</span> <strong><a href="https://cryptoslate.com/trumps-crypto-advisory-council-to-setup-promised-strategic-bitcoin-reserve-report/">reports</a></strong><span style="font-weight: 400;"> that President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump’s</a> Crypto Advisory Council is expected to establish the &#8220;Strategic Bitcoin Reserve.&#8221;</span></p>
+<p><span style="font-weight: 400;">The idea of a national Bitcoin reserve surfaced during the Bitcoin 2024 conference earlier this year, where both Trump and Robert F. Kennedy Jr. made keynote speeches, along with several lawmakers, including Senator <a href="https://cryptoslate.com/people/cynthia-lummis/">Cynthia Lummis</a> (R-WY), who introduced the &#8220;</span><strong><a href="https://cryptoslate.com/lummis-unveils-the-bitcoin-act-to-establish-strategic-btc-reserve-for-the-us/">Bitcoin Act</a></strong><span style="font-weight: 400;">&#8221; legislation proposing the creation of such an institute at the event.</span></p>
+<h2><strong>Bitcoin reserve idea gaining traction</strong></h2>
+<p><span style="font-weight: 400;">The idea of creating Bitcoin reserves is gaining traction beyond institutions now, with lawmakers and politicians around the world warming to the concept. </span></p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/satoshi-action-fund/">Satoshi Act Fund</a> founder <a href="https://cryptoslate.com/people/dennis-porter/">Dennis Porter</a> recently revealed he is in discussions with Texas state officials to introduce</span> <a href="https://x.com/Dennis_Porter_/status/1859640897715175433">legislation</a> for <span style="font-weight: 400;">a strategic Bitcoin fund. </span><span style="font-weight: 400;">Additionally, on Nov. 14, Representative Mike Cabell</span> <strong><a href="https://cryptoslate.com/pennsylvannia-introduces-bill-to-use-7-billion-state-fund-for-bitcoin-strategic-reserve-purchases/">introduced a bill</a></strong><span style="font-weight: 400;"> to create a BTC reserve in Pennsylvania using the state&#8217;s $7 billion fund.</span></p>
+<p><span style="font-weight: 400;">Porter said Texas and Pennsylvania are the first of many and claimed that up to 10 more US states will likely follow suit before the year ends in an attempt to front-run the Trump administration&#8217;s plans for a federal Bitcoin reserve.</span></p>
+<p><span style="font-weight: 400;">The examples in the US are motivating politicians in other countries. A Brazilian lawmaker</span> <strong><a href="https://cryptoslate.com/brazilian-lawmaker-proposes-18-billion-bitcoin-reserve-initiative/">pushed</a></strong><span style="font-weight: 400;"> for a Bitcoin reserve in the country through legislation introduced on Nov. 26, which would allocate up to nearly $19 billion in BTC.</span></p>
+<p><span style="font-weight: 400;">Meanwhile,</span><span style="font-weight: 400;"> Poland&#8217;s libertarian presidential candidate, Sławomir Mentzen, wants to</span> <strong><a href="https://cryptoslate.com/poland-presidential-candidate-wants-to-allow-nation-to-hold-bitcoin-with-strategic-reserve/">allow the country</a></strong><span style="font-weight: 400;"> to hold BTC as a strategic reserve.</span></p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Donald Trump appoints David Sacks to lead AI and crypto policy in new administration</title>
+		<link>https://cryptoslate.com/donald-trump-appoints-david-sacks-to-lead-ai-and-crypto-policy-in-new-administration/</link>
+					<comments>https://cryptoslate.com/donald-trump-appoints-david-sacks-to-lead-ai-and-crypto-policy-in-new-administration/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 10:30:56 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[David Sacks]]></category>
+		<category><![CDATA[trump]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456235</guid>
+
+					<description><![CDATA[<p>On Dec. 6, US President-elect Donald Trump announced on Truth Social that David Sacks has been named the &#8220;White House AI and Crypto Czar. &#8221; In his new role, Sacks will lead efforts to establish a legal framework for crypto regulation and chair the Presidential Council of Advisors for Science and Technology. Essentially, the appointment positions him [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/donald-trump-appoints-david-sacks-to-lead-ai-and-crypto-policy-in-new-administration/">Donald Trump appoints David Sacks to lead AI and crypto policy in new administration</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On Dec. 6, US President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald </a><span style="margin: 0px; padding: 0px;"><a href="https://cryptoslate.com/people/donald-trump/" target="_blank" rel="noopener">Trump </a>announced</span> on Truth Social that David Sacks has been named the &#8220;White House AI and Crypto Czar. &#8221;</p>
+<p>In his new role, Sacks will lead efforts to establish a legal framework for crypto regulation and chair the Presidential Council of Advisors for Science and Technology. Essentially, the appointment positions him at the helm of crafting policies to secure America&#8217;s leadership in artificial intelligence and crypto.</p>
+<p>Trump <a href="https://truthsocial.com/@realDonaldTrump/posts/113603133222686186">added</a>:</p>
+<blockquote><p>&#8220;David will focus on making America the clear global leader in both areas. He will safeguard Free Speech online, and steer us away from Big Tech bias and censorship.&#8221;</p></blockquote>
+<p>Sacks&#8217; extensive background and industry insights are expected to drive his contributions to shaping policies in these critical sectors.</p>
+<p>Sacks, a former PayPal COO and now a prominent venture capitalist, has been a vocal advocate for technological innovation. Earlier this year, he became a key Trump ally and hosted a high-profile fundraiser that reportedly brought in $12 million for the then-Republican candidate&#8217;s campaign.</p>
+<p>Meanwhile, his appointment aligns with Trump&#8217;s vision to modernize the nation&#8217;s digital and technological policies. Over the past month, the President-elect has made several pro-crypto appointments, including <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">nominating crypto advocate Paul Atkins</a> to lead the Securities and Exchange Commission.</p>
+<h2>Crypto industry reacts</h2>
+<p>The crypto community has largely welcomed Sacks&#8217; new position, seeing it as a step toward clarity and innovation in regulation.</p>
+<p>Cardano founder <a href="https://cryptoslate.com/people/charles-hoskinson/">Charles Hoskinson</a> <a href="https://x.com/IOHK_Charles/status/1864838939548283098?s=19">congratulated</a> Sacks and described him as well-suited to the task. Hoskinson highlighted Sacks&#8217; background as essential for addressing regulatory challenges and developing forward-thinking policies.</p>
+<p><a href="https://cryptoslate.com/companies/ripple/">Ripple</a> CEO <a href="https://cryptoslate.com/people/brad-garlinghouse/">Brad Garlinghouse</a> also <a href="https://x.com/bgarlinghouse/status/1864851554374656005?t=KJhzAdCVT39mY1AYADzAzA&amp;s=19">expressed</a> optimism, pointing to Sacks&#8217; deep technological understanding as a strength for advancing innovation in both AI and blockchain.</p>
+<p>Emilie Choi, <a href="https://cryptoslate.com/companies/coinbase/">Coinbase&#8217;s</a> president, praised the decision, emphasizing Sacks&#8217; early involvement in crypto and his nuanced understanding of the space.</p>
+<p>Similarly, former CFTC Chairman Chris Giancarlo commended Sacks for his experience and commitment to free market principles, describing him as the ideal candidate to help America lead in digital technology.</p>
+<p>However, like many of Trump&#8217;s potential appointees, Sacks is a polarizing figure. Silicon Valley tech leaders have <a href="https://www.ibtimes.co.uk/why-are-tech-billionaires-saying-vc-david-sacks-may-most-evil-person-silicon-valley-1725925">referred</a> to him as the &#8220;most evil person in Silicon Valley&#8221; due to the controversy surrounding HR company Zenefits.</p>
+<p>The post <a href="https://cryptoslate.com/donald-trump-appoints-david-sacks-to-lead-ai-and-crypto-policy-in-new-administration/">Donald Trump appoints David Sacks to lead AI and crypto policy in new administration</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/donald-trump-appoints-david-sacks-to-lead-ai-and-crypto-policy-in-new-administration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/david-sacks-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/david-sacks-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Congressman French Hill vows to probe banking exclusion of crypto businesses</title>
+		<link>https://cryptoslate.com/congressman-french-hill-vows-to-probe-banking-exclusion-of-crypto-businesses/</link>
+					<comments>https://cryptoslate.com/congressman-french-hill-vows-to-probe-banking-exclusion-of-crypto-businesses/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 21:32:42 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455983</guid>
+
+					<description><![CDATA[<p>Rep. French Hill announced plans to intensify scrutiny of alleged efforts by regulators to cut off crypto businesses from banking services, citing concerns raised by industry leaders and recent public statements by a16z co-founder Marc Andreessen. Hill, who is in contention to lead the House Financial Services Committee next year, voiced his concerns during a [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/congressman-french-hill-vows-to-probe-banking-exclusion-of-crypto-businesses/">Congressman French Hill vows to probe banking exclusion of crypto businesses</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Rep. French Hill announced plans to intensify scrutiny of alleged efforts by regulators to cut off crypto businesses from banking services, citing concerns raised by industry leaders and recent public statements by <a href="https://cryptoslate.com/companies/a16z/">a16z</a> co-founder <a href="https://cryptoslate.com/people/marc-andreessen/">Marc Andreessen</a>.</p>
+<p>Hill, who is in contention to lead the House Financial Services Committee next year, voiced his concerns during a <a href="https://www.youtube.com/watch?v=WgjUM8U81FY">hearing</a> on financial technology on Dec. 3, which featured testimony from several prominent industry leaders.</p>
+<p>Hill said:</p>
+<blockquote><p>&#8220;Legal businesses in this country must have access to banking and financial services. This committee will thoroughly investigate these issues into the next Congress.&#8221;</p></blockquote>
+<h2>Operation Chokepoint 2.0</h2>
+<p>Andreessen recently appeared on the Joe Rogan podcast and discussed federal authorities allegedly <a href="https://cryptoslate.com/crypto-debanking-wave-tied-to-political-figures-coinbase-ceo-brian-armstrong-alleges/">pressuring banks to terminate accounts</a> associated with crypto and other industries.</p>
+<p>The claim has reignited concerns about &#8220;Operation Choke Point 2.0,&#8221; a phrase used to describe suspected attempts to restrict banking access for certain sectors. The original Operation Choke Point was a Justice Department initiative launched in 2013 to limit financial services for industries deemed high-risk for fraud, such as payday lenders.</p>
+<p>Executives from <a href="https://cryptoslate.com/companies/stellar-development-foundation/">Stellar Development Foundation</a> and <a href="https://cryptoslate.com/companies/anchorage-digital/">Anchorage Digital</a> testified during the hearing that their companies had been affected. Stellar CEO Denelle Dixon described challenges in maintaining banking relationships.</p>
+<p>She said:</p>
+<blockquote><p>&#8220;We’ve had to reach out to ten different banks, and no reason was provided for the rejections.&#8221;</p></blockquote>
+<h2>Congressional dynamics and policy</h2>
+<p>Hill&#8217;s comments come as the House Financial Services Committee&#8217;s leadership is set to change. Current Chair Patrick McHenry, R-N.C., is <a href="https://cryptoslate.com/pro-crypto-lawmaker-patrick-mchenry-to-retire-from-congress/">retiring</a>, and Hill and other pro-crypto Republicans are in the running to assume the position.</p>
+<p>With newly elected President <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> pledging to end regulatory efforts resembling Operation Choke Point, the upcoming year could mark a shift in how Congress approaches crypto and financial access.</p>
+<p>The Federal Deposit Insurance Corporation (FDIC) noted in a 2024 report that banking institutions are not barred from serving specific industries. However, Hill and other lawmakers have raised questions about whether such policies are enforced uniformly.</p>
+<p>The hearing also addressed the ongoing <a href="https://cryptoslate.com/circle-ceo-praises-u-s-stablecoin-bill-in-remarks-prepared-for-congress/">debate over stablecoin regulation</a>, with lawmakers questioning how much oversight should be delegated to state regulators. Hill expressed optimism about advancing crypto-related legislation despite time constraints.</p>
+<p>He said:</p>
+<blockquote><p>&#8220;We’ve made significant progress, and I believe we can reach a consensus.&#8221;</p></blockquote>
+<p>Meanwhile, Rep. <a href="https://cryptoslate.com/people/maxine-waters/">Maxine Waters</a>, D-Calif., who has worked with McHenry on a <a href="https://cryptoslate.com/us-senators-propose-bipartisan-bill-to-preserve-us-dollar-dominance-by-regulating-stablecoins/">bipartisan stablecoin framework</a>, expressed hope that an agreement could be reached before the year ends. However, she acknowledged the challenges posed by a crowded legislative calendar.</p>
+<p>Waters said:</p>
+<blockquote><p>&#8220;I&#8217;ve always appreciated Mr. McHenry&#8217;s efforts to find common ground. Hopefully, we can see meaningful progress before the new Congress begins.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/congressman-french-hill-vows-to-probe-banking-exclusion-of-crypto-businesses/">Congressman French Hill vows to probe banking exclusion of crypto businesses</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/congressman-french-hill-vows-to-probe-banking-exclusion-of-crypto-businesses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/congress-digital-assets.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/congress-digital-assets.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</title>
+		<link>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/</link>
+					<comments>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 20:38:01 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455959</guid>
+
+					<description><![CDATA[<p>New York City Mayor Eric Adams slammed the criticism he faced after deciding to receive his first three paychecks in Bitcoin (BTC) and Ethereum (ETH) back in early 2022. He made the statement during a Dec. 3 press conference, saying: &#8220;Remember y’all laughed at me when I first got my Bitcoin. Who&#8217;s laughing now? Go [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/">New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">New York City Mayor Eric Adams slammed the criticism he faced after deciding to receive his first three paychecks in Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) and Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) back in early 2022.</span></p>
+<p>He made the statement during a Dec. 3 <strong><a href="https://www.nyc.gov/office-of-the-mayor/news/875-24/transcript-mayor-adams-holds-in-person-media-availability">press conference</a></strong>, saying:</p>
+<blockquote><p><strong>&#8220;Remember y’all laughed at me when I first got my Bitcoin. Who&#8217;s laughing now? Go look at my Bitcoin now. You all mock me. You&#8217;re taking your first three paychecks in Bitcoin. What&#8217;s wrong with you? Now you wish you would have done it.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">He also said people should not be afraid of Bitcoin and voiced his satisfaction with people willing to think outside the box on President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump&#8217;s</a> administration, like <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a>.</span></p>
+<p><span style="font-weight: 400;">Additionally, when asked about the return on his Bitcoin paycheck, Adams explained that the amount is on his annual Conflicts of Interest Board (COIB) report, where the mayor must disclose his investments.</span></p>
+<p><span style="font-weight: 400;">According to his</span> <strong><a href="https://www.nyc.gov/assets/coib/downloads/pdf2/publicdocs/elected-officials-ad/2023/adams-e-2023-ad-report.pdf">2023 COIB</a></strong><span style="font-weight: 400;">, Adams holds between $5,000 and $54,999.99 in BTC, considering the market value at the close of the reporting year. Based on Bitcoin&#8217;s 130% climb to a high of $99,600, Adams could hold roughly $110,000 worth of BTC.</span></p>
+<p><span style="font-weight: 400;">On a broader approach to innovation, the New York Mayor also spoke on artificial intelligence (AI), stating that people shouldn&#8217;t be afraid of AI. He said the innovation push is a racehorse that the US is holding back &#8220;out of fear of being canceled.&#8221;</span></p>
+<p>New York has generally <span style="font-weight: 400;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">taken a pro-crypto stance with some caveats. In January 2022, legislators <a href="https://cryptoslate.com/new-york-introduces-bill-to-legalize-crypto-payments-for-state-purposes/" target="_blank" rel="noopener"><strong>introduced a bill</strong></a></span> to allow state entities to receive Bitcoin as payment. However, the bill did not encourage the use of BTC for commercial purposes.</span></p>
+<p>Meanwhile<span style="font-weight: 400;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">, in June of the same year, the New York State Senate approved a bill </span>that could</span> <strong><a href="https://cryptoslate.com/new-york-senate-passes-bill-that-could-ban-crypto-mining/">ban Bitcoin mining</a></strong><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Recently, mining firm Greenidge</span> <strong><a href="https://cryptoslate.com/bitcoin-miner-greenidge-wins-legal-battle-to-keep-mining-in-new-york/">won a legal battle</a></strong><span style="font-weight: 400;"> to keep its operations in New York following the state&#8217;s Department of Environmental Conservation (DEC) denial of a Title V Air Permit application.</span></p>
+<p>The post <a href="https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/">New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/eric-adams-bitcoin-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/eric-adams-bitcoin-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Trump confirms nomination of Paul Atkins as the new SEC chair</title>
+		<link>https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/</link>
+					<comments>https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 18:33:38 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455972</guid>
+
+					<description><![CDATA[<p>President-elect Donald Trump confirmed Paul Atkins&#8217; nomination as the next US Securities and Exchange Commission (SEC) chairman in a Dec. 4 Trust Social post.  Trump stated that Atiks &#8220;recognizes that digital assets and other innovations are crucial to making America greater than ever before.&#8221; He added: &#8220;Paul is a proven leader for common sense regulations. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">Trump confirms nomination of Paul Atkins as the new SEC chair</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> confirmed Paul Atkins&#8217; nomination as the next US Securities and Exchange Commission (SEC) chairman in a Dec. 4 Trust Social</span> <strong><a href="https://truthsocial.com/@realDonaldTrump/posts/113595807734621827">post</a></strong><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Trump stated that Atiks &#8220;recognizes that digital assets and other innovations are crucial to making America greater than ever before.&#8221; </span></p>
+<p><span style="font-weight: 400;">He added:</span></p>
+<blockquote><p><strong>&#8220;Paul is a proven leader for common sense regulations. He believes in the promise of robust, innovative capital markets that are responsive to the needs of Investors, &amp; that provide capital to make our Economy the best in the World.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">Atkins, a former SEC Commissioner from 2002 to 2008, is known for his advocacy of free-market principles and investor protection and his focus on clarifying complex financial markets.</span></p>
+<p><span style="font-weight: 400;">During his previous tenure at the SEC, Atkins championed policies to enhance market transparency and improve financial disclosures. </span></p>
+<p><span style="font-weight: 400;">In addition to being the CEO and Founder of Patomak Global Partners, a risk management consultancy, Atkins is also the co-chairman of the Digital Chamber&#8217;s Token Alliance, a role he has held since 2017. </span></p>
+<p><span style="font-weight: 400;">This connection to the crypto sector has led many to believe he could be the right candidate to address ongoing regulatory uncertainties surrounding digital assets in the US.</span></p>
+<h2><strong>Background on the nomination</strong></h2>
+<p><span style="font-weight: 400;">Atkins&#8217; nomination comes after weeks of speculation and discussions regarding the best candidate to lead the SEC. </span></p>
+<p><span style="font-weight: 400;">Before Trump&#8217;s team</span> <strong><a href="https://cryptoslate.com/trump-team-interviews-former-commissioner-paul-atkins-for-sec-chair-role/">interviewed</a></strong><span style="font-weight: 400;"> Atkins on Nov. 27, a wide array of names were rumored to be under consideration, including SEC Commissioner Mark Uyeda, former Commodity Futures Trading Commission (CFTC) Chair Heath Tarbert, and Robert Stebbins, a Willkie Farr &amp; Gallagher LLP partner.</span></p>
+<p><span style="font-weight: 400;">The rumors included former Binance.US executive Brian Brooks, Robinhood&#8217;s chief legal officer Dan Gallagher, and SEC Commissioner <a href="https://cryptoslate.com/people/hester-peirce/">Hester Peirce</a>.</span></p>
+<p>The post <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">Trump confirms nomination of Paul Atkins as the new SEC chair</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/paul-atkins-sec-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/paul-atkins-sec-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Trump wants Paul Atkins to lead SEC but he is reluctant to clean Gensler&#8217;s &#8216;mess&#8217;</title>
+		<link>https://cryptoslate.com/trump-wants-paul-atkins-to-lead-sec-but-he-is-reluctant-to-clean-genslers-mess/</link>
+					<comments>https://cryptoslate.com/trump-wants-paul-atkins-to-lead-sec-but-he-is-reluctant-to-clean-genslers-mess/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 18:59:21 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455742</guid>
+
+					<description><![CDATA[<p>President-elect Donald Trump&#8217;s rumored frontrunner for the SEC chair position, Paul Atkins, is reportedly reluctant to take on the role due to the daunting challenge of managing the agency&#8217;s current state, CoinDesk reported on Dec. 3, citing sources familiar with Atkins&#8217; thinking. According to the report, Atkins views the position as unattractive, given the considerable effort [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-wants-paul-atkins-to-lead-sec-but-he-is-reluctant-to-clean-genslers-mess/">Trump wants Paul Atkins to lead SEC but he is reluctant to clean Gensler&#8217;s &#8216;mess&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><span style="color: #333333;">President-elect </span><a href="https://cryptoslate.com/people/donald-trump/" target="_blank" rel="noopener">Donald Trump&#8217;s</a><span style="color: #333333;"> rumored frontrunner for the SEC chair position, Paul Atkins, is reportedly reluctant to take on the role due to the daunting challenge of managing the agency&#8217;s current state, CoinDesk reported on Dec. 3, citing sources familiar with Atkins&#8217; thinking.</span></span></p>
+<p><span style="font-weight: 400;">According to the report, Atkins views the position as unattractive, given the considerable effort required to turn around what he believes to be a mismanaged agency under the leadership of outgoing SEC Chair <a href="https://cryptoslate.com/people/gary-gensler/">Gary Gensler</a>.</span></p>
+<p><span style="font-weight: 400;">The Trump team <a href="https://cryptoslate.com/trump-team-interviews-former-commissioner-paul-atkins-for-sec-chair-role/">interviewed</a> Atkins last week and some rumors this week claim he will be the next SEC chair. However, subsequent reports of his hesitation leave the question of whether he will accept up in the air for now.</span></p>
+<p><span style="font-weight: 400;">Atkins, who served as an SEC commissioner from 2002 to 2008, has yet to confirm his willingness to take the role publicly. Sources familiar with the matter have indicated that his decision hinges on multiple factors, including the future of his consulting firm, Patomak Global Partners. </span></p>
+<p><span style="font-weight: 400;">If Atkins accepts the SEC chair role, he would need to step down from his business interests. The source suggested that Atkins may only do so once his firm is positioned to operate independently.</span></p>
+<p><span style="font-weight: 400;">Former Commodity Futures Trading Commission (CFTC) Chair <a href="https://cryptoslate.com/people/j-christopher-giancarlo/">Chris Giancarlo</a> is a vocal supporter of Atkins for the role. Giancarlo has argued that Atkins is the right candidate to restore the SEC&#8217;s credibility and efficiency. </span></p>
+<p><span style="font-weight: 400;">Giancarlo, who was also considered for the SEC chair role, has been outspoken about the need for reform within the SEC, particularly in how the agency handles issues related to digital assets and crypto markets.</span></p>
+<p><span style="font-weight: 400;">However, if Atkins&#8217; conditions are not met, Trump may consider others for the SEC chair role, including current SEC Commissioner Mark Uyeda, former CFTC Chair Heath Tarbert, and Robert Stebbins, a partner at law firm Willkie Farr &amp; Gallagher LLP.</span></p>
+<p>The post <a href="https://cryptoslate.com/trump-wants-paul-atkins-to-lead-sec-but-he-is-reluctant-to-clean-genslers-mess/">Trump wants Paul Atkins to lead SEC but he is reluctant to clean Gensler&#8217;s &#8216;mess&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-wants-paul-atkins-to-lead-sec-but-he-is-reluctant-to-clean-genslers-mess/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/donald-trump.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/donald-trump.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>South Korean politicians agree to implement 2-year moratorium on crypto taxation</title>
+		<link>https://cryptoslate.com/south-korean-politicians-agree-to-implement-2-year-moratorium-on-crypto-taxation/</link>
+					<comments>https://cryptoslate.com/south-korean-politicians-agree-to-implement-2-year-moratorium-on-crypto-taxation/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 23:00:43 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455579</guid>
+
+					<description><![CDATA[<p>South Korea&#8217;s Democratic Party agreed to delay the implementation of crypto taxation laws, signaling a temporary truce in the heated debate over digital asset regulation in the country, the Korean Herald reported on Dec. 2. Democratic Party floor leader Rep. Park Chan-dae announced the agreement to postpone the taxation of crypto profits by two years. Park [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/south-korean-politicians-agree-to-implement-2-year-moratorium-on-crypto-taxation/">South Korean politicians agree to implement 2-year moratorium on crypto taxation</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>South Korea&#8217;s Democratic Party agreed to delay the implementation of crypto taxation laws, signaling a temporary truce in the heated debate over digital asset regulation in the country, the Korean Herald reported on Dec. 2.</p>
+<p>Democratic Party floor leader Rep. Park Chan-dae announced the agreement to postpone the taxation of crypto profits by two years. Park said during a press conference:</p>
+<blockquote><p>&#8220;We have decided to agree to a two-year moratorium on the implementation of the cryptocurrency taxation proposed by the government and ruling party.&#8221;</p></blockquote>
+<p>As of 2024, approximately 20% of South Korea&#8217;s population — nearly 10 million people — engaged in crypto trading or investment. However, despite this high level of adoption, the country has adopted a <a href="https://cryptoslate.com/cryptoquant-ceo-compares-south-koreas-hostile-bitcoin-stance-to-gary-gensler-situation/">cautious stance</a> toward the industry.</p>
+<p>The nation&#8217;s average daily crypto trading volume is estimated at 11.3 trillion won ($8.4 billion), often exceeding that of its stock exchange, the Korea Composite Stock Price Index (KOSPI).</p>
+<h2>Political agreement</h2>
+<p>The law imposes a tax on digital asset income and was initially set to take effect in January. The delay aligns closely with a government proposal, though the ruling People Power Party sought a <a href="https://cryptoslate.com/south-korea-moves-to-delay-crypto-tax-until-2028-amid-market-concerns/">three-year moratorium</a>.</p>
+<p>Park&#8217;s opposition party has agreed to a short two-year delay but vowed to block new tax cuts for inheritances and gifts, which it claims disproportionately benefit the wealthy.</p>
+<p>The agreement marks a shift in the Democratic Party&#8217;s position. The party previously advocated raising the threshold for crypto-related tax deductions from 2.5 million won ($1,790) to 50 million won ($35,800) rather than delaying the law altogether.</p>
+<p>Despite the concession on crypto taxation, Park emphasized his party&#8217;s opposition to proposed reforms to inheritance and gift taxes. The government and ruling party plan to lower the top inheritance tax rate from 50% to 40% and dramatically increase the deduction threshold for assets passed from parents to children.</p>
+<h2>Debate around fiscal policy</h2>
+<p>The tax debates come amid broader discussions on South Korea&#8217;s fiscal policies.</p>
+<p>Last month, Democratic Party leader Rep. Lee Jae-Myung reversed course on a proposed tax on financial investment income, opting instead to support its repeal. The move was aimed at revitalizing the country&#8217;s lagging stock market and appeasing millions of investors.</p>
+<p>Lee said:</p>
+<blockquote><p>&#8220;I could not ignore the voices of 15 million financial stock investors who might be affected by structural vulnerability.&#8221;</p></blockquote>
+<p>The crypto tax delay provides temporary relief to <a href="https://cryptoslate.com/financial-watchdog-clarifies-role-amid-south-koreas-new-crypto-compliance-crackdown/">digital asset traders</a> but raises questions about the government&#8217;s ability to balance competing fiscal priorities.</p>
+<p>The post <a href="https://cryptoslate.com/south-korean-politicians-agree-to-implement-2-year-moratorium-on-crypto-taxation/">South Korean politicians agree to implement 2-year moratorium on crypto taxation</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/south-korean-politicians-agree-to-implement-2-year-moratorium-on-crypto-taxation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/south-korea.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/south-korea.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Former Diem co-founder says Meta’s stablecoin project was a &#8216;political kill&#8217;</title>
+		<link>https://cryptoslate.com/former-diem-co-founder-says-metas-stablecoin-project-was-a-political-kill/</link>
+					<comments>https://cryptoslate.com/former-diem-co-founder-says-metas-stablecoin-project-was-a-political-kill/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 19:44:06 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455561</guid>
+
+					<description><![CDATA[<p>Meta&#8217;s former stablecoin project, Diem, which initially launched as Libra in 2019, ended after facing significant political and regulatory obstacles in the US, according to Diem&#8217;s co-founder, David Marcus. Marcus made the revelations in a recent social media post, where he described the challenges leading to the project&#8217;s termination as heavily influenced by political considerations. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/former-diem-co-founder-says-metas-stablecoin-project-was-a-political-kill/">Former Diem co-founder says Meta’s stablecoin project was a &#8216;political kill&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/meta/">Meta&#8217;s</a> former stablecoin project, Diem, which initially launched as Libra in 2019, ended after facing significant political and regulatory obstacles in the US, according to Diem&#8217;s co-founder, David Marcus.</p>
+<p>Marcus made the revelations in a recent <a href="https://x.com/davidmarcus/status/1862654506774810641">social media post</a>, where he described the challenges leading to the project&#8217;s termination as heavily influenced by political considerations.</p>
+<h2>Regulatory and political pushback</h2>
+<p>Libra was initially envisioned as a global payment network supported by a basket of international currencies. The project garnered early support from major financial firms like Visa, MasterCard, and PayPal.</p>
+<p>However, its announcement triggered scrutiny from US lawmakers and regulators, who raised concerns about its potential impact on monetary sovereignty, financial stability, and Meta&#8217;s broader influence in the global financial system.</p>
+<p>Shortly after its introduction, Meta executives, including Marcus, testified before Congress to address concerns about the project. Lawmakers pointed to risks to sovereign currencies and cited Meta&#8217;s history of privacy controversies as additional challenges to public trust. These concerns led to the withdrawal of key early supporters and prompted Meta to rebrand the project as Diem in 2020.</p>
+<p>Despite rebranding and efforts to scale back its ambitions, including shifting focus to a US dollar-backed stablecoin and relocating operations to the US, regulatory challenges persisted. Marcus revealed that while early discussions with Federal Reserve officials suggested the potential for limited approval, subsequent political conditions made progress difficult.</p>
+<p>According to Marcus:</p>
+<blockquote><p>&#8220;There was no legal or regulatory angle left for the government or regulators to kill the project. It was 100% a political kill — one that was executed through intimidation of captive banking institutions.&#8221;</p></blockquote>
+<h2>Attempts to pivot and conclusion</h2>
+<p>The Diem Association partnered with Silvergate Capital to launch a dollar-denominated stablecoin. However, in late 2021, a letter from US Senators urged Meta to halt its Novi digital wallet pilot program, citing unresolved concerns about regulation and consumer protection.</p>
+<p>In January 2022, the Diem Association announced the sale of its assets to Silvergate, marking the end of the project. Stuart Levey, then CEO of Diem, attributed the decision to the inability to overcome regulatory challenges despite significant efforts to address compliance and security risks.</p>
+<p>Following the closure of Diem, many team members transitioned to other blockchain initiatives, including Aptos and Sui. Marcus has since focused on Lightspark, a company exploring the use of Bitcoin&#8217;s Lightning Network for payments.</p>
+<p>Reflecting on Diem&#8217;s journey, Marcus emphasized the importance of neutrality and decentralization in building future blockchain projects. The firm&#8217;s history illustrates the interplay between innovation, policy, and regulation in the crypto industry.</p>
+<p>The post <a href="https://cryptoslate.com/former-diem-co-founder-says-metas-stablecoin-project-was-a-political-kill/">Former Diem co-founder says Meta’s stablecoin project was a &#8216;political kill&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/former-diem-co-founder-says-metas-stablecoin-project-was-a-political-kill/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/politics-regulation-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/politics-regulation-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

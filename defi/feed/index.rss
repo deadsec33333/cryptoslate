@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>DeFi News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/defi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/defi/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Sun, 08 Dec 2024 13:24:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>DeFi News | CryptoSlate</title>
+	<link>https://cryptoslate.com/defi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blockchain needs a killer use case, and authentication is cold-blooded</title>
+		<link>https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/</link>
+					<comments>https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Adams]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 19:00:43 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456273</guid>
+
+					<description><![CDATA[<p>The following article is an op-ed by Tyler Adams, CEO &#38; Co-Founder at COZ. For the last two years, crypto developers and venture capital have been hyper-focused on supporting infrastructure projects to the detriment of consumer-facing applications. If you look around this industry, you will see a plethora of tools for developers to integrate privacy [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/">Blockchain needs a killer use case, and authentication is cold-blooded</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following article is an op-ed by Tyler Adams, <span class="meta">CEO &amp; Co-Founder at COZ.</span></em></p>
+<p><span style="font-weight: 400;">For the last two years, crypto developers and venture capital have been hyper-focused on supporting infrastructure projects to the detriment of consumer-facing applications. If you look around this industry, you will see a plethora of tools for developers to integrate privacy features, decentralize information, and scale platforms, but a lack of applications where these tools can be used. We’re not beating the allegations that blockchain is a solution in search of a problem.</span></p>
+<p><span style="font-weight: 400;">It doesn’t have to be this way. Crypto and the underlying blockchain technology have the potential to revolutionize the way we interact online and in the real world. In particular, blockchain as an authentication tool could address a growing crisis in the market for consumer goods, providing an immutable source of truth to verify information.</span></p>
+<p><span style="font-weight: 400;">More folks in the space just need this type of integration with the physical world, what I would call Non-Fungible Items – NFIs. </span></p>
+<h2><b>Cheer Up, the Crypto Winter Is Over</b></h2>
+<p><span style="font-weight: 400;">The </span><strong><a href="https://nftevening.com/nft-market-crash/#:~:text=In%20May%202022%2C%20the%20Terra,for%20the%20NFT%20market%20crash.">collapse of the NFT market</a></strong><span style="font-weight: 400;"> and the </span><strong><a href="https://www.thenation.com/article/culture/metaverse-zuckerberg-pr-hype/">failure of the metaverse</a></strong><span style="font-weight: 400;"> to take off, combined with the onset of the crypto winter, caused many developers to retreat from consumer-facing applications and instead focus on improving decentralized infrastructure.</span></p>
+<p><span style="font-weight: 400;">Keep in mind, in this same year media coverage of the </span><strong><a href="https://abcnews.go.com/Business/timeline-cryptocurrency-exchange-ftxs-historic-collapse/story?id=93337035">FTX bankruptcy</a></strong><span style="font-weight: 400;"> severely damaged the reputation of the industry. It didn’t feel like a good time to onboard mainstream users. Instead, developers put their heads down and focused on tackling issues like scalability, user experience, and security. </span></p>
+<p><span style="font-weight: 400;">Now we have seen improvements on all these fronts. Zero Knowledge (ZK) rollups have improved speed and efficiency on layer 1 protocols, account abstraction has enabled a web2-like user experience, and there was a </span><strong><a href="https://hacken.io/insights/q2-2024-security-report/">decline in hacks</a></strong><span style="font-weight: 400;"> from Q1 to Q2 this year.</span></p>
+<p><span style="font-weight: 400;">Not to mention, <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> price has reached an </span><strong><a href="https://www.coingecko.com/en/coins/bitcoin">all-time high</a></strong><span style="font-weight: 400;">, bolstered this year by Bitcoin and <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> ETF approval and mainstream interest in </span><strong><a href="https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/">stablecoins</a></strong><span style="font-weight: 400;"> and real-world asset tokenization. There is no better time for builders of decentralized applications to reach out to web2 users and businesses. We just need to demonstrate that blockchain is more than just a platform for speculative assets.</span></p>
+<h2><b>Counterfeiting Crisis</b></h2>
+<p><span style="font-weight: 400;">As a transparent and immutable source of truth, blockchain can be used as a tool to authenticate information in the digital and physical world. The second-hand apparel market alone was worth roughly </span><strong><a href="https://www.statista.com/statistics/826162/apparel-resale-market-value-worldwide/#:~:text=Value%20of%20the%20secondhand%20apparel%20market%20worldwide%20from%202021%20to%202028&amp;text=In%202023%2C%20the%20global%20market,100%20billion%20dollars%20by%202026.">$230 million</a></strong><span style="font-weight: 400;"> this year, with the pre-owned collectibles market estimated to be worth </span><strong><a href="https://www.gminsights.com/industry-analysis/second-hand-collectibles-market#:~:text=Second%2Dhand%20Collectibles%20Market%20size%20was%20valued%20at%20USD%20134.1,toys%20can%20appreciate%20in%20value.">$134 billion</a></strong><span style="font-weight: 400;"> alone. One would expect that as the industry for second-hand goods grows, from Ebay to Depop, The Real Real, and beyond, opportunities for counterfeiting are growing.</span></p>
+<p><span style="font-weight: 400;">Indeed, the market for counterfeit goods is set to be worth almost </span><strong><a href="https://corsearch.com/about/press-releases/trade-in-counterfeit-goods-market-set-to-reach-1-79-trillion-in-2030/">$2 trillion</a></strong><span style="font-weight: 400;"> by the end of the decade. Imagine if there was an onchain authentication solution that could verify the origin of goods. This could unlock unprecedented opportunities to integrate blockchain in the fashion and luxury goods market. </span></p>
+<p><span style="font-weight: 400;">In the digital realm, the growth of decentralized finance (DeFi) means more people are trading assets without centralized actors. While privacy is a core value of DeFi, there needs to be a method of identity verification to protect against scams. Once again, blockchain authentication tools can be used here. </span></p>
+<p><span style="font-weight: 400;">Blockchain and AI can be integrated to improve methods of verification. Currently, authentication is done by </span><strong><a href="https://www.ebayinc.com/stories/news/ebay-launches-authentication-for-fine-jewelry/#:~:text=eBay%27s%20collaboration%20with%20GIA%20%E2%80%93%20preeminent,of%20this%20year%2C%20while%20eight">individuals</a></strong><span style="font-weight: 400;"><strong>.</strong> But AI enables image and pattern recognition, and object detection at a larger scale. Blockchain can then be used to store information collected by AI tools to provide a secure record. </span></p>
+<h2><b>Enter NFIs</b></h2>
+<p><span style="font-weight: 400;">NFIs bring real-world utility to NFT technology. By linking a physical asset cryptographically to a &#8220;digital twin&#8221; on the blockchain, NFIs can be used as a powerful authentication tool. For example, if you were creating a luxury watch, you could embed a private cryptographic key that could be used to verify the origin of the watch in case it makes its way onto the second-hand market.</span></p>
+<p><span style="font-weight: 400;">Why would brands invest in this technology? Because it brings greater value to the asset if purchasers can guarantee returns on the second-hand market. This isn’t just limited to watches – shoes, jewelry, and collectibles could all be verified onchain.</span></p>
+<p><span style="font-weight: 400;">Keep in mind that fashion and luxury brands haven’t given up on NFTs entirely. 9dcc’s </span><strong><a href="https://www.nftculture.com/nft-fashion/9dcc-blending-luxury-fashion-and-blockchain-at-paris-fashion-week/">NFT-linked fashion collection</a></strong><span style="font-weight: 400;"> debuted at Paris Fashion Week this year with designs inspired by digital innovation. Younger generations are also more concerned with the environmental impact of manufacturing. Seeing brands embracing the circular economy through blockchain-enabled authentication could be beneficial for their marketing. </span></p>
+<h2><b>Blockchain’s Killer Application</b></h2>
+<p><span style="font-weight: 400;">For too long, developers in the crypto industry have looked inward, focusing on problems that do not concern the general population. The industry is maturing and we need to embrace use cases beyond finance.</span></p>
+<p><span style="font-weight: 400;">Authentication is a prime area where blockchain can provide a better solution than existing technology. The crypto winter is over, now’s the time to call back the normies.</span></p>
+<p>The post <a href="https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/">Blockchain needs a killer use case, and authentication is cold-blooded</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/blockchain-needs-a-killer-use-case-and-authentication-is-cold-blooded/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/digital-twin-nfi-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/digital-twin-nfi-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</title>
+		<link>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/</link>
+					<comments>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 01:30:04 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Liquidium]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456333</guid>
+
+					<description><![CDATA[<p>DeFi lending on Bitcoin-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a new all-time high above $100,000. Onchain data reveals that loans against Runes accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while Ordinals accounted for the remaining 43%, contributing 9 BTC. These [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>DeFi lending on <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">new all-time high above $100,000.</a></p>
+<p>Onchain <a href="https://dune.com/liquidiumfi/liquidium">data</a> reveals that loans against <a href="https://cryptoslate.com/bitcoin-runes-made-up-57-percent-of-transactions-on-halving-day/">Runes</a> accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while <a href="https://cryptoslate.com/products/ordinals/">Ordinals</a> accounted for the remaining 43%, contributing 9 BTC.</p>
+<p>These numbers reflect a year-long upward trend for Liquidium, which has facilitated over 63,000 loans totaling more than 3,378 BTC. Runes dominate the platform, comprising over half of all collateral.</p>
+<p>Liquidium enables users to borrow Bitcoin against assets like Runes, Ordinals, Inscriptions, and BRC-20 tokens. Its non-custodial model employs Discreet Log Contracts (DLC) for secure escrow, ensuring that lenders&#8217; returns are protected, even in default cases.</p>
+<p>The rise in Liquidium&#8217;s activity mirrors Bitcoin&#8217;s increasing mainstream adoption. Analysts point to <a href="https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/">BTC&#8217;s price rally</a> above $100,000 and the introduction of spot <a href="https://cryptoslate.com/insights/us-bitcoin-etfs-exceed-satoshi-nakamotos-btc-holdings-in-less-than-a-year/">Bitcoin exchange-traded funds (ETFs)</a> as key factors driving institutional interest in the ecosystem.</p>
+<p>Additionally, market sentiment has dramatically improved with expectations of crypto-friendly regulations under a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Donald Trump-led US administration</a>, fueling optimism for broader industry growth.</p>
+<p>Moreover, the platform&#8217;s native LIQUIDIUM token is also enjoying an uptrend, according to CoinMarketCap data, which has pushed its value up over 25% during the past week.</p>
+<h2>New features</h2>
+<p>Looking ahead, Liquidium is set to launch features designed to streamline user experience. A new instant loans feature will allow borrowers to access funds without requiring lender countersignatures, simplifying the process for loans of any size.</p>
+<p>The upcoming Custom Loan V2 upgrade will introduce a gallery-like interface, enabling borrowers and lenders to create and customize loan offers.</p>
+<p>This shift from the traditional model — where only lenders could initiate offers — will make the platform more dynamic and accessible. The intuitive design promises an engaging experience where users can explore loan opportunities as effortlessly as browsing a curated collection.</p>
+<p>Liquidium&#8217;s consistent growth and planned advancements position it as a key player in the expanding Bitcoin DeFi ecosystem.</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Pump Fun updates terms to block UK users days after FCA warning</title>
+		<link>https://cryptoslate.com/pump-fun-updates-terms-to-block-uk-users-days-after-fca-warning/</link>
+					<comments>https://cryptoslate.com/pump-fun-updates-terms-to-block-uk-users-days-after-fca-warning/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 17:59:57 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Memecoins]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456380</guid>
+
+					<description><![CDATA[<p>Pump.Fun has restricted access to users in the UK days after receiving a regulatory warning from the country&#8217;s financial watchdog. The decision comes after a Dec. 3 warning from the UK&#8217;s Financial Conduct Authority (FCA), which flagged the Solana-based memecoin launchpad for potentially offering financial products without authorization. In compliance with UK regulations, Pump.Fun updated [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/pump-fun-updates-terms-to-block-uk-users-days-after-fca-warning/">Pump Fun updates terms to block UK users days after FCA warning</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/products/pump-fun/">Pump.Fun</a> has restricted access to users in the UK days after receiving a <a href="https://www.fca.org.uk/news/warnings/pumpfun">regulatory warning</a> from the country&#8217;s financial watchdog.</p>
+<p>The decision comes after a Dec. 3 warning from the UK&#8217;s Financial Conduct Authority (FCA), which flagged the <a href="https://cryptoslate.com/coins/solana/">Solana</a>-based memecoin launchpad for potentially offering financial products without authorization.</p>
+<p>In compliance with UK regulations, Pump.Fun updated its terms of service on Dec. 6 to exclude British users. Visitors from the region are now met with a notification explaining the change.</p>
+<p>The FCA, the nation&#8217;s primary financial watchdog, requires all crypto firms to register before offering services to UK residents. Since the rules were introduced in 2020, only 47 out of 347 applicants have successfully obtained FCA approval, reflecting the regulator&#8217;s stringent standards.</p>
+<p>By restricting access for UK users, Pump.Fun joins a growing list of crypto platforms adjusting operations to navigate regulatory challenges. However, critics argue that such actions are often reactive and do little to address underlying issues of transparency and governance.</p>
+<h2>Controversy</h2>
+<p>Pump.Fun, which facilitates rapid token issuance for meme-inspired cryptocurrencies, has faced <a href="https://cryptoslate.com/how-traders-make-over-60k-per-week-rugging-98-of-memecoins-on-pumpfun/">escalating scrutiny</a> in recent months. The platform, which processes 62% of decentralized exchange transactions on the Solana blockchain, gained popularity for its ability to simplify token creation.</p>
+<p>However, the same ease of use has attracted allegations of misuse. The controversy intensified earlier this year when Pump.Fun introduced live-streaming capabilities, a feature aimed at enhancing community engagement and offering new tools for developers.</p>
+<p>While initially well-received, the feature was soon mired in allegations of abuse, including scams and unregulated promotions conducted during streams. Critics accused the platform of failing to enforce adequate safeguards, leading to community backlash and demands for stricter oversight.</p>
+<p>In response, Pump.Fun <a href="https://cryptoslate.com/solana-memecoins-turn-to-nsfw-content-as-pump-fun-livestreams-resemble-adult-webcam-site/">disabled live streaming</a>, but the damage to its reputation lingered. Regulators, already wary of the platform&#8217;s rapid growth, appeared to take notice of its perceived lack of controls.</p>
+<p>Pump.Fun&#8217;s role in the memecoin boom has made it a target of both acclaim and controversy. The platform has fueled the creation of thousands of tokens, many of which have seen fleeting success.</p>
+<p>Despite its success, Pump.Fun has faced persistent challenges in balancing growth with compliance. Observers note that platforms like Pump.Fun exemplifies the tension between decentralized innovation and regulatory enforcement, a dynamic that continues to shape the future of the crypto industry.</p>
+<p>The post <a href="https://cryptoslate.com/pump-fun-updates-terms-to-block-uk-users-days-after-fca-warning/">Pump Fun updates terms to block UK users days after FCA warning</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/pump-fun-updates-terms-to-block-uk-users-days-after-fca-warning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/pumpfun-uk.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/pumpfun-uk.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>TRON (TRX) reaches a new all-time high after nearly 7 years</title>
+		<link>https://cryptoslate.com/trx-reaches-a-new-all-time-high-after-nearly-seven-years/</link>
+					<comments>https://cryptoslate.com/trx-reaches-a-new-all-time-high-after-nearly-seven-years/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 00:00:51 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<category><![CDATA[Trading]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455761</guid>
+
+					<description><![CDATA[<p>TRON (TRX) reached a new all-time high at $0.41, nearly seven years after the first time it registered its last price peak, according to TradingView data. The new all-time high comes after a 81% price leap over the past 24 hours, making TRX the 10th largest crypto by market cap. TRX’s previous price record was [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trx-reaches-a-new-all-time-high-after-nearly-seven-years/">TRON (TRX) reaches a new all-time high after nearly 7 years</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>TRON (<a href="https://cryptoslate.com/coins/tron/">TRX</a>) reached a new all-time high at $0.41, nearly seven years after the first time it registered its last price peak, <a href="https://br.tradingview.com/chart/oSpIfPbp/?symbol=CRYPTOCAP%3ATRX">according</a> to TradingView data.</p>
+<p>The new all-time high comes after a 81% price leap over the past 24 hours, making TRX the 10th largest crypto by market cap.</p>
+<p>TRX’s previous price record was $0.23 on Jan. 4, 2018. The price increase comes amid Bitcoin&#8217;s (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) choppy movement in the past few days, as the market fights to <a href="https://cryptoslate.com/bitcoins-path-to-100k-hinges-on-short-term-holder-demand-bitfinex/">gather buying pressure</a> to counter long-term holders&#8217; realizing profits. In the past 24 hours, BTC slumped 0.8%, priced at $95,487.17 as of press time.</p>
+<p>Additionally, Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) is struggling with a 1.1% correction, priced at $3,582.62. ETH price increases traditionally led other altcoins to good performances in past bull cycles, which made TRX reach a new price peak before ETH shift market movements.</p>
+<p>Over the past 30 days, TRX has climbed 164%.</p>
+<p>There is no apparent reason behind the TRX price increase. TRON&#8217;s network is famous for its stablecoin usage, especially regarding Tether USD (<a href="https://cryptoslate.com/coins/tether/">USDT</a>) transfers.</p>
+<p>According to Artemis <a href="https://app.artemis.xyz/stablecoins?tab=usage">data</a>, in the past 30 days, TRON reached $24.3 billion in stablecoin transfer volume, only bested by Ethereum&#8217;s $35 billion. Additionally, the stablecoin supply in the network is $59.6 billion, the second largest.</p>
+<p><a href="https://cryptoslate.com/people/justin-sun/">Justin Sun</a> launched TRON in late 2017 amid the initial coin offering (ICO) frenzy that marked that bull run. The network was created to be an &#8220;Ethereum killer,&#8221; a title given to several layer-1 blockchains that aim to be faster than Ethereum as an infrastructure for smart contracts.</p>
+<p>The post <a href="https://cryptoslate.com/trx-reaches-a-new-all-time-high-after-nearly-seven-years/">TRON (TRX) reaches a new all-time high after nearly 7 years</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trx-reaches-a-new-all-time-high-after-nearly-seven-years/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/tron-trx.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/tron-trx.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Neon EVM unveils Solana-native framework for Ethereum dApp integration</title>
+		<link>https://cryptoslate.com/neon-evm-unveils-solana-native-framework-for-ethereum-dapp-integration/</link>
+					<comments>https://cryptoslate.com/neon-evm-unveils-solana-native-framework-for-ethereum-dapp-integration/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 19:30:10 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455745</guid>
+
+					<description><![CDATA[<p>Neon EVM announced a transformative Solana-native framework, unveiling a suite of features aimed at integrating Ethereum-based decentralized applications (dApps) with Solana&#8217;s ecosystem. The new architecture, detailed in a comprehensive whitepaper published on Dec. 3, enables direct interaction between Solana wallets and Ethereum applications while leveraging Solana&#8217;s high-performance infrastructure. The release introduces key capabilities such as [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/neon-evm-unveils-solana-native-framework-for-ethereum-dapp-integration/">Neon EVM unveils Solana-native framework for Ethereum dApp integration</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Neon EVM announced a transformative <a href="https://cryptoslate.com/coins/solana/">Solana</a>-native framework, unveiling a suite of features aimed at integrating <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a>-based decentralized applications (dApps) with Solana&#8217;s ecosystem.</p>
+<p>The new architecture, detailed in a comprehensive whitepaper published on Dec. 3, enables direct interaction between Solana wallets and Ethereum applications while leveraging Solana&#8217;s high-performance infrastructure.</p>
+<p>The release introduces key capabilities such as Solana wallet compatibility for Ethereum transactions, an on-chain mempool for scalable execution, and intent-based operations allowing conditional transactions like automated token swaps.</p>
+<p>With these innovations, users can sign Neon EVM transactions using Solana wallets, including <a href="https://cryptoslate.com/products/phantom/">Phantom</a>, Backpack, and Solflare — eliminating the need for separate Ethereum wallets. The update significantly simplifies wallet management while ensuring users retain full control of their assets.</p>
+<p>Neon EVM Chief Commercial Officer Davide Menegaldo emphasized the importance of the update, calling it a milestone in cross-chain functionality.</p>
+<p>He said:</p>
+<blockquote><p>&#8220;This release unifies user experience and liquidity, providing a seamless bridge between Solana and Ethereum dApps.&#8221;</p></blockquote>
+<p>He added that the forthcoming Software Development Kit (SDK) would allow developers to fully explore these capabilities, paving the way for broader adoption of Ethereum-based applications on Solana.</p>
+<p>The whitepaper also highlights infrastructure enhancements such as Associated Neon Accounts, which simplify liquidity management by linking Solana public keys to EVM-compatible addresses, and Controlled Transaction Trees, enabling atomic and parallel execution for complex applications.</p>
+<p>Additionally, the on-chain mempool facilitates efficient scheduling and execution of transactions, reducing costs and improving scalability. The integration is set to benefit both users and developers.</p>
+<p>Solana users gain access to Ethereum&#8217;s robust dApp ecosystem without leaving the Solana environment, while developers can deploy Ethereum applications with minimal friction by leveraging the network&#8217;s speed and efficiency. For DeFi platforms, the enhanced liquidity and reduced transaction costs could drive greater efficiency and adoption.</p>
+<p>Neon EVM&#8217;s advancements mark a significant step in cross-chain collaboration, bridging two of the most dynamic blockchain ecosystems. By addressing challenges in interoperability and usability, the platform is poised to redefine how Ethereum-native applications interact with Solana&#8217;s infrastructure.</p>
+<p>The post <a href="https://cryptoslate.com/neon-evm-unveils-solana-native-framework-for-ethereum-dapp-integration/">Neon EVM unveils Solana-native framework for Ethereum dApp integration</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/neon-evm-unveils-solana-native-framework-for-ethereum-dapp-integration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/solana-ethereum.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/solana-ethereum.jpg" length="1456" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Cardano DeFi TVL nears record $700 million, ADA skyrockets 20%</title>
+		<link>https://cryptoslate.com/cardano-defi-tvl-nears-record-700m-ada-skyrockets-20/</link>
+					<comments>https://cryptoslate.com/cardano-defi-tvl-nears-record-700m-ada-skyrockets-20/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 21:28:01 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[TVL]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455522</guid>
+
+					<description><![CDATA[<p>Cardano&#8217;s DeFi ecosystem is hitting new heights, with its total value locked (TVL) nearing an all-time high of $700 million. DeFillama data shows that the blockchain network is riding the current bullish market sentiment by adding over $400 million to reach $680 million as of press time. This number marks a massive turnaround for the [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/cardano-defi-tvl-nears-record-700m-ada-skyrockets-20/">Cardano DeFi TVL nears record $700 million, ADA skyrockets 20%</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Cardano&#8217;s DeFi ecosystem is hitting new heights, with its total value locked (TVL) nearing an all-time high of $700 million.</p>
+<p>DeFillama <a href="https://defillama.com/chain/Cardano">data</a> shows that the blockchain network is riding the current bullish market sentiment by adding over $400 million to reach $680 million as of press time. This number marks a massive turnaround for the blockchain network, which saw its TVL drop to as low as around $50 million in November 2022 following FTX&#8217;s shock collapse.</p>
+<figure id="attachment_455551" aria-describedby="caption-attachment-455551" style="width: 1081px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="size-full wp-image-455551" src="https://cryptoslate.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-172208.jpg" alt="Cardano DeFi" width="1081" height="373" srcset="https://cryptoslate.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-172208.jpg 1081w, https://cryptoslate.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-172208-300x104.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-172208-1024x353.jpg 1024w, https://cryptoslate.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-172208-768x265.jpg 768w" sizes="(max-width: 1081px) 100vw, 1081px" /><figcaption id="caption-attachment-455551" class="wp-caption-text">Cardano DeFi (Source: DeFillama)</figcaption></figure>
+<p>TVL is often seen as a barometer for the health and trust of a DeFi ecosystem. The metric reflects a blockchain network&#8217;s growing appeal in the crypto space, with an increase signaling a surge in investor&#8217;s confidence in the platform.</p>
+<p>In addition to its TVL growth, Cardano&#8217;s decentralized exchanges (DEXs) reported a trading volume of $22.35 million in the past day, the highest since December 2023. <span style="margin: 0px; padding: 0px;">According to DeFillama data, weekly DEX trading volume also hit $117.32 million, marking the best performance since May 2023</span>.</p>
+<p>Speaking on these numbers, Cardano founder Charles Hoskinson <a href="https://x.com/IOHK_Charles/status/1863310791786500316">said</a> they represent the dawn of DeFi activity on the blockchain network while highlighting the ecosystem&#8217;s progress and growing adoption.</p>
+<h2>ADA price rally</h2>
+<p>The improved DeFi activities come as <a href="https://cryptoslate.com/altcoins-bag-massive-gains-amid-bitcoins-climb-stellar-cardano-and-kusama-up-double-digits/">Cardano&#8217;s ADA token</a> has emerged as a top performer during the current market uptrend.</p>
+<p>Over the past week, the crypto asset has gained more than 20%, reaching a peak of $1.21. <span style="margin: 0px; padding: 0px;">According to <em>CryptoSlate </em>data, this is ADA&#8217;s highest price level since 2022</span>.</p>
+<p>This momentum has propelled Cardano&#8217;s market capitalization to over $40 billion, making it the ninth-largest digital asset globally. The rally aligns with broader <a href="https://cryptoslate.com/xrp-flips-solana-market-cap-soars-to-seven-year-high-fueled-by-south-korean-traders/">bullish market conditions</a> and several ecosystem advancements.</p>
+<p>Market observers noted that recent developments — including the implementation of <a href="https://cryptoslate.com/cardano-deploys-first-zero-knowledge-smart-contract-expanding-blockchain-capabilities/">Zero-Knowledge (ZK) technology</a> and the transition towards <a href="https://cryptoslate.com/cardano-chang-hard-fork-to-redefine-decentralized-governance-from-sept-1/">decentralized governance</a> — have boosted <a href="https://cryptoslate.com/cardanos-charles-hoskinson-envisions-defi-powered-bitcoin-ecosystem/">Cardano&#8217;s prospects</a>.</p>
+<p>According to them, these innovations have provided a strong foundation for sustained growth and solidified the network&#8217;s position as a critical player in the crypto space.</p>
+<p>The post <a href="https://cryptoslate.com/cardano-defi-tvl-nears-record-700m-ada-skyrockets-20/">Cardano DeFi TVL nears record $700 million, ADA skyrockets 20%</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/cardano-defi-tvl-nears-record-700m-ada-skyrockets-20/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/cardano.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/cardano.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Pump Fun’s livestreaming halt causes 33% dip in revenue</title>
+		<link>https://cryptoslate.com/pump-funs-livestreaming-halt-causes-33-dip-in-revenue/</link>
+					<comments>https://cryptoslate.com/pump-funs-livestreaming-halt-causes-33-dip-in-revenue/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 18:30:51 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455338</guid>
+
+					<description><![CDATA[<p>Solana-based memecoin launchpad Pump.Fun experienced a sharp 33% decline in revenue this week after disabling its live-streaming feature. According to DefiLlama data, the platform&#8217;s revenue fell from $5 million to $3.6 million in just one day, marking its most significant single-day drop since March. The decision came after a series of controversial incidents that triggered [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/pump-funs-livestreaming-halt-causes-33-dip-in-revenue/">Pump Fun’s livestreaming halt causes 33% dip in revenue</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Solana-based memecoin launchpad <a href="https://cryptoslate.com/products/pump-fun/">Pump.Fun</a> experienced a sharp 33% decline in revenue this week after <a href="https://cryptoslate.com/pump-fun-disables-livestream-feature-amid-community-backlash-over-nsfw-launches/">disabling its live-streaming</a> feature.</p>
+<p>According to DefiLlama data, the platform&#8217;s revenue fell from $5 million to $3.6 million in just one day, marking its most significant single-day drop since March.</p>
+<p>The decision came after a series of controversial incidents that triggered widespread backlash.</p>
+<h2>Growing criticism</h2>
+<p>The platform&#8217;s issues began earlier this month when a middle-schooler reportedly celebrated earning $30,000 in a rug pull, a scheme in which creators abruptly sell large holdings, causing token values to collapse.</p>
+<p>The <a href="https://cryptoslate.com/solana-memecoins-turn-to-nsfw-content-as-pump-fun-livestreams-resemble-adult-webcam-site/">controversy escalated</a> on Nov. 28 when a user staged a fake suicide during a live stream to promote their memecoin. Following the incident, Pump.Fun shut down live streaming capabilities, leading to a noticeable decline in user activity and earnings.</p>
+<p>Pump.Fun, which has generated nearly $230 million in revenue since its January launch, remains a contentious player in the memecoin space. While the platform initially thrived on its unconventional approach, the recent controversies have cast a shadow over its meteoric rise.</p>
+<p>Analysts suggest the growing negative sentiment surrounding the platform could have lasting effects, which could be further exacerbated by user fatigue.</p>
+<h2>Risks in memecoins</h2>
+<p>The recent events have reignited concerns over the risks associated with the unregulated memecoin market, which often lacks safeguards to protect users from predatory practices and harmful content.</p>
+<p>The platform&#8217;s live-streaming feature, once a draw for its viral potential, became a double-edged sword, amplifying both its popularity and its vulnerabilities. As Pump.Fun grapples with its image crisis; competitors on platforms like Base seem poised to capitalize on the shifting tide.</p>
+<p>Whether the platform can regain its footing in the volatile world of crypto remains uncertain, but the recent fallout illustrates the high stakes in the race to dominate the memecoin market.</p>
+<p>The post <a href="https://cryptoslate.com/pump-funs-livestreaming-halt-causes-33-dip-in-revenue/">Pump Fun’s livestreaming halt causes 33% dip in revenue</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/pump-funs-livestreaming-halt-causes-33-dip-in-revenue/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/pump-fun-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/pump-fun-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ethereum DeFi TVL hits 2-year high as activity on platforms like Uniswap, Aave soars</title>
+		<link>https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/</link>
+					<comments>https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 17:15:14 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455122</guid>
+
+					<description><![CDATA[<p>Ethereum&#8217;s DeFi sector is experiencing a revival, fueled by renewed market enthusiasm following Donald Trump&#8217;s election victory. The total value locked (TVL) in Ethereum&#8217;s DeFi ecosystem has surged past $80 billion, marking its highest level in over two years. These numbers come as key players like Aave and Uniswap have also achieved significant milestones during [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/">Ethereum DeFi TVL hits 2-year high as activity on platforms like Uniswap, Aave soars</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/ethereum/">Ethereum&#8217;s</a> DeFi sector is experiencing a revival, fueled by renewed market enthusiasm following Donald Trump&#8217;s election victory.</p>
+<p>The total value locked (TVL) in Ethereum&#8217;s DeFi ecosystem has surged past $80 billion, marking its highest level in over two years.</p>
+<p>These numbers come as key players like Aave and Uniswap have also achieved significant milestones during this bullish wave. Their rising activity highlights the increasing appeal of DeFi solutions as investors and users flock to platforms that offer innovative financial tools and opportunities.</p>
+<h2>Record volume</h2>
+<p><a href="https://cryptoslate.com/products/uniswap/">Uniswap</a> has set a new record for monthly trading volume on Ethereum layer-2 networks, reaching $38 billion in November — a 50% jump from October&#8217;s $20.32 billion.</p>
+<p><a href="https://dune.com/queries/3553382/5979769">Data</a> from Dune Analytics reveals that Arbitrum contributed the lion&#8217;s share with $19.5 billion. It is followed by Base with $9.19 billion and Polygon at $4.33 billion.</p>
+<p>In a Nov. 27 social media post, Uniswap Labs, the development team behind the platform, <a href="https://x.com/Uniswap/status/1861799456493953143" target="_blank" rel="noopener" data-wpel-link="external">stated</a>:</p>
+<blockquote><p>&#8220;Onchain history is being made. New all-time high for monthly L2 volume on the Uniswap Protocol.&#8221;</p></blockquote>
+<p>Meanwhile, this achievement coincides with a significant rise in the price of Uniswap&#8217;s native <a href="https://cryptoslate.com/coins/uniswap/">UNI</a> token. According to CryptoSlate&#8217;s data, the digital asset was up 10% over the last 24 hours, pushing its price to $12.84.</p>
+<p>Adding to the excitement, Uniswap announced a $15.5 million bug bounty program, the largest in DeFi&#8217;s history, to secure its upcoming v4 protocol. The platform <a href="https://blog.uniswap.org/v4-bug-bounty">said</a>:</p>
+<blockquote><p>&#8220;Over 500 researchers [had] participated in a $2.35 million security competition, and no critical vulnerabilities were found. As deployment approaches, we’re taking an extra step to ensure v4 is as secure as possible with the $15.5 million bug bounty.&#8221;</p></blockquote>
+<h2>Aave hits new highs</h2>
+<p><a href="https://cryptoslate.com/coins/aave/">Aave</a>, the largest DeFi lending platform, has also reached a historic milestone.</p>
+<p>According to <a href="https://defillama.com/protocol/aave">DeFiLlama</a>, deposits on the platform have surged to $33 billion, representing a 230% increase since the start of the year.</p>
+<p>If Aave were a US bank, this figure places Aave among the top 1.4% in deposits, surpassing notable institutions like SoFi.</p>
+<p><a href="https://cryptoslate.com/people/stani-kulechov/">Stani Kulechov</a>, Aave&#8217;s founder and CEO, highlighted this progress as the start of a financial revolution driven by decentralized platforms.</p>
+<p>Meanwhile, the platform&#8217;s growth is also reflected in the performance of its native token, AAVE, which has climbed 112% in 2024. According to <em>CryptoSlate&#8217;s</em> data, the token recently hit a yearly high of $210 before settling at $200 as of press time.</p>
+<p>The post <a href="https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/">Ethereum DeFi TVL hits 2-year high as activity on platforms like Uniswap, Aave soars</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/defi-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/defi-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Cardano&#8217;s Charles Hoskinson advocates for DeFi-enabled Bitcoin ecosystem</title>
+		<link>https://cryptoslate.com/cardanos-charles-hoskinson-envisions-defi-powered-bitcoin-ecosystem/</link>
+					<comments>https://cryptoslate.com/cardanos-charles-hoskinson-envisions-defi-powered-bitcoin-ecosystem/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 11:15:21 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[Charles Hoskinson]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=454672</guid>
+
+					<description><![CDATA[<p>Cardano blockchain founder Charles Hoskinson has shared a vision of building an &#8220;ecosystem of hybrid apps powered by DeFi-enabled Bitcoin.&#8221; In a Nov. 26 post on X (formerly Twitter), Hoskinson highlighted his renewed interest in Bitcoin&#8217;s foundational code while noting that adding a DeFi layer to the top digital asset could restore its innovative edge. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/cardanos-charles-hoskinson-envisions-defi-powered-bitcoin-ecosystem/">Cardano&#8217;s Charles Hoskinson advocates for DeFi-enabled Bitcoin ecosystem</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/cardano/">Cardano</a> blockchain founder <a href="https://cryptoslate.com/people/charles-hoskinson/">Charles Hoskinson</a> has shared a vision of building an &#8220;ecosystem of hybrid apps powered by DeFi-enabled <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>.&#8221;</p>
+<p>In a Nov. 26 post on X (formerly Twitter), Hoskinson highlighted his renewed interest in Bitcoin&#8217;s foundational code while noting that adding a DeFi layer to the top digital asset could restore its innovative edge.</p>
+<p>Hoskinson <a href="https://x.com/IOHK_Charles/status/1861286232241906047?t=H86w56GqhJS7X4DGpzOxZA&amp;s=19">stated</a>:</p>
+<blockquote><p>&#8220;It&#8217;s now a goal of mine to see an ecosystem of hybrid apps powered by DeFi enabled Bitcoin. This vision should only require the user to spend bitcoin to make it happen.&#8221;</p></blockquote>
+<p>He continued that Cardano&#8217;s Babel fee mechanism, which allows transaction fees to be paid in assets other than ADA, could facilitate this integration. This feature enhances interoperability and simplifies user transactions.</p>
+<p>The plan builds on Cardano&#8217;s recent <a href="https://cryptoslate.com/cardano-unlocks-bitcoin-liquidity-with-bitcoinos-grail-bridge-integration/">integration with Bitcoin</a> through the BitcoinOS&#8217;s Grail Bridge. This bridge unlocks liquidity between the two blockchain networks and introduces decentralized programmability to Bitcoin. It also aims to address infrastructure gaps needed for DeFi activities.</p>
+<p>BitcoinOS describes itself as both a bridge and a guiding framework for Bitcoin&#8217;s expansion into DeFi, GameFi, and smart contract applications.</p>
+<h2><strong>Cardano&#8217;s on-chain activity Surges</strong></h2>
+<p>Hoskinson&#8217;s announcement coincides with growing activity on the Cardano network.</p>
+<p>Over the past month, retail interest in Cardano has surged amid a broader market uptrend that pushed Bitcoin&#8217;s price near the $100,000 milestone. This rally helped fuel Cardano&#8217;s ADA token, which <a href="https://cryptoslate.com/altcoins-bag-massive-gains-amid-bitcoins-climb-stellar-cardano-and-kusama-up-double-digits/">briefly crossed the $1 mark</a> for the first time since April 2022 and tripled its market capitalization.</p>
+<p>However, the digital asset has seen an 11% drop in the past 24 hours to $0.93 as of press time, according to <em>CryptoSlate&#8217;s</em> data.</p>
+<figure id="attachment_454688" aria-describedby="caption-attachment-454688" style="width: 1720px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-454688" src="https://cryptoslate.com/wp-content/uploads/2024/11/GdPPr_sWAAAMCFs.jpg" alt="Cardano Active Addresses" width="1720" height="429" srcset="https://cryptoslate.com/wp-content/uploads/2024/11/GdPPr_sWAAAMCFs.jpg 1720w, https://cryptoslate.com/wp-content/uploads/2024/11/GdPPr_sWAAAMCFs-300x75.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/11/GdPPr_sWAAAMCFs-1024x255.jpg 1024w, https://cryptoslate.com/wp-content/uploads/2024/11/GdPPr_sWAAAMCFs-768x192.jpg 768w, https://cryptoslate.com/wp-content/uploads/2024/11/GdPPr_sWAAAMCFs-1536x383.jpg 1536w" sizes="(max-width: 1720px) 100vw, 1720px" /><figcaption id="caption-attachment-454688" class="wp-caption-text">Cardano Daily Active Addresses (Source: IntoTheBlock)</figcaption></figure>
+<p>Nevertheless, ADA remains a focal point as the network sees a spike in new user addresses, reaching levels not seen since June 2023.</p>
+<p>The post <a href="https://cryptoslate.com/cardanos-charles-hoskinson-envisions-defi-powered-bitcoin-ecosystem/">Cardano&#8217;s Charles Hoskinson advocates for DeFi-enabled Bitcoin ecosystem</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/cardanos-charles-hoskinson-envisions-defi-powered-bitcoin-ecosystem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/cardano-bitcoin-defi.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/cardano-bitcoin-defi.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Justin Sun&#8217;s Tron network invests $30 million in Trump family-backed World Liberty Financial</title>
+		<link>https://cryptoslate.com/justin-suns-tron-network-invests-30-million-in-trump-family-backed-world-liberty-financial/</link>
+					<comments>https://cryptoslate.com/justin-suns-tron-network-invests-30-million-in-trump-family-backed-world-liberty-financial/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 23:30:40 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=454627</guid>
+
+					<description><![CDATA[<p>Tron has invested $30 million in World Liberty Financial (WLFI), the decentralized application backed by President-elect Donald Trump&#8217;s family.  Tron founder Justin Sun said in a social media post on Nov. 25 that TRON has become the largest WLFI investor. Sun added: &#8220;The U.S. is becoming the blockchain hub, and Bitcoin owes it to @realDonaldTrump! [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/justin-suns-tron-network-invests-30-million-in-trump-family-backed-world-liberty-financial/">Justin Sun&#8217;s Tron network invests $30 million in Trump family-backed World Liberty Financial</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/coins/tron/">Tron</a> has invested $30 million in World Liberty Financial (WLFI), the decentralized application backed by President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump&#8217;s</a> family. </span></p>
+<p><span style="font-weight: 400;">Tron founder <a href="https://cryptoslate.com/people/justin-sun/">Justin Sun</a> said in a social media post on Nov. 25 that TRON has become the largest WLFI investor. Sun added:</span></p>
+<blockquote><p><strong>&#8220;The U.S. is becoming the blockchain hub, and Bitcoin owes it to @realDonaldTrump! TRON is committed to making America great again and leading innovation. Let&#8217;s go!&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">WLFI said the investment will help drive innovation with Sun by &#8220;aligning on a vision for a stronger blockchain future.&#8221;</span></p>
+<h2><strong>Boosting US-dollar pegged stablecoins</strong></h2>
+<p><span style="font-weight: 400;">WLFI has</span> <strong><a href="https://cryptoslate.com/trump-familys-upcoming-defi-project-aims-to-cement-us-dollar-dominance-via-stablecoin-revolution/">partnered</a></strong><span style="font-weight: 400;"> with leading money market Aave to develop an application that would help drive mass adoption of US-pegged stablecoins. In addition to the President-elect, his three sons also support the project.</span></p>
+<p><span style="font-weight: 400;">According to the Trump family-backed project, stablecoins can help preserve US financial leadership by ensuring the dollar remains the global settlement layer.</span></p>
+<p><span style="font-weight: 400;">The protocol stated in a Sept. 4 statement:</span></p>
+<blockquote><p><strong>&#8220;We want US-pegged stablecoins to remain the world’s settlement layer for the next 100 years.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">On Sept. 30, the WLFI</span> <strong><a href="https://cryptoslate.com/trump-backed-world-liberty-financial-launches-whitelist-process-us-retail-investors-left-out/">opened its whitelisting process</a></strong><span style="font-weight: 400;"> for interested investors who wanted exposure to the protocol. However, due to the regulatory landscape in the US, retail investors based in the country were left out.</span></p>
+<p><span style="font-weight: 400;">Two weeks following the whitelisting availability, the WLFI team revealed they</span> <strong><a href="https://cryptoslate.com/trump-family-backed-world-liberty-financial-adds-100000-us-accredited-investors-to-whitelist/">added 100,000 interested accredited investors</a></strong><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Notably, the website</span> <strong><a href="https://cryptoslate.com/trump-family-backed-wlfi-token-pre-sale-resumes-after-website-outage-7-9-million-raised-so-far/">crashed twice</a></strong><span style="font-weight: 400;"> when WLFI opened its token pre-sale, which raised roughly $8 million on the first day. </span></p>
+<p><span style="font-weight: 400;">Despite Sun&#8217;s investment, WLFI has only raised a little </span><strong><a href="https://etherscan.io/token/0xda5e1988097297dcdc1f90d4dfe7909e847cbef6?a=0xe217e15b3c19cc0427f9492dc3bcfe8220afad10">over $51 million</a>, </strong>significantly short of its initial $300 million goal.</p>
+<p>The post <a href="https://cryptoslate.com/justin-suns-tron-network-invests-30-million-in-trump-family-backed-world-liberty-financial/">Justin Sun&#8217;s Tron network invests $30 million in Trump family-backed World Liberty Financial</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/justin-suns-tron-network-invests-30-million-in-trump-family-backed-world-liberty-financial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/wlfi-trump.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/wlfi-trump.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

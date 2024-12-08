@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Blockchain Adoption News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/adoption/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/adoption/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Sun, 08 Dec 2024 13:18:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Blockchain Adoption News | CryptoSlate</title>
+	<link>https://cryptoslate.com/adoption/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trump, Bitcoin, and the race for tokenized capital markets</title>
+		<link>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/</link>
+					<comments>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[Jesse Knutson]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 13:18:11 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456125</guid>
+
+					<description><![CDATA[<p>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities. Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind Bitcoin’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities.</em></p>
+<p><span style="font-weight: 400;">Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 making </span><span style="font-weight: 400;">the US the ‘crypto capital of the world’ </span><span style="font-weight: 400;">and a financial services industry getting its first real taste of ‘number go up’. </span></p>
+<p><span style="font-weight: 400;">While the full details are yet to emerge, the number of Bitcoiners in Trump’s inner circle – including D.O.G.E. head <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a> – suggest Trump could come good on his crypto election promises. Fostering a more accommodative approach to banking, self-custody, and digital assets could have massive global knock-on effects. The success of the Bitcoin ETFs did much to destigmatize Bitcoin amongst institutional investors; US government support would likely do the same thing amongst governments.  </span></p>
+<p><span style="font-weight: 400;">A pro-Bitcoin administration will almost certainly drive prices higher and result in more countries following suit. In my Bitcoin pitch, I always avoided the end game to people in suits—institutional investors, regulators, and policymakers—but suddenly, hyperbitcoinzation and hash wars look entirely possible. </span></p>
+<p><span style="font-weight: 400;">What does this mean for Bitcoin first movers like El Salvador? Or the Bitcoin curious like Argentina? It’s hard to say. On the one hand, as the largest contributor and shareholder in the IMF, a more accommodative US stance on Bitcoin would likely end the IMF’s opposition to things like El Salvador’s 2021 Bitcoin law. On the other hand, it could steal a lot of thunder from smaller economies, leveraging Bitcoin to attract human and financial capital. </span></p>
+<p><span style="font-weight: 400;">Capital markets, though, are a different game. I’ve often said that the opportunity to monetize Bitcoin-based capital markets is naturally skewed to small to mid-sized economies. Bitfinex Securities is registered and licensed not in New York, London, or even Singapore but in El Salvador and Kazkahstan’s Astana International Financial Center. Two jurisdictions that not only have buy-in from the highest echelons of their respective governments, but maybe even more importantly, are places where financial services account for a very small proportion of GDP. There are fewer moats and less pushback from entrenched players in legacy markets.  It’s a good bet.  Lots of upside and minimal downside. </span></p>
+<p><span style="font-weight: 400;">The tokenization we have seen in financial hubs and by major financial institutions to date looks to me like token tokenization. Earlier this month, </span><span style="font-weight: 400;">UBS Asset Management launched a</span> <strong><a href="https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html">USD Money Market Investment Fund</a></strong> <span style="font-weight: 400;">built on Ethereum. The fund </span><i><span style="font-weight: 400;">“seeks to open the door to the world of decentralized finance, reduce barriers and provide access to products and services to a broader range of market participants, bringing them closer together”</span></i><span style="font-weight: 400;">, but is also only available through authorized distribution partners. This seems like corporate buzzwordery. More smoke and mirrors.  Authorized distribution partners sound like the antithesis of decentralized finance. </span></p>
+<p><span style="font-weight: 400;">A number of the big banks have built proprietary tokenization technology. HSBC, for example, has </span><a href="https://www.gbm.hsbc.com/en-gb/solutions/hsbc-orion"><span style="font-weight: 400;"><strong>Orion</strong></span></a><span style="font-weight: 400;">. UBS has Tokenize. Goldman’s has the Goldman Sachs Digital Asset Platform. </span><span style="font-weight: 400;">Most (maybe all) of these solutions limit participation to institutional and/or accredited investors, settle either in fiat or a CBDC, offer no integration with Bitcoin or Tether, and rely on the usual host of conventional capital market participants like transfer agents, custodians, and depositories with no effort at disintermediation. The future of finance looks a lot like the past. </span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">This, I think, is the opportunity for El Salvador and other countries like it: streamline capital markets, disintermediate technologically unnecessary roles, support self-custody and peer-to-peer trading between whitelisted counterparties, allow for broad market participation and encourage links between conventional and digital asset markets through Tether and Bitcoin. This could yield an alternative to conventional capital markets that allows issuers and investors to interact much more directly and is cheaper, faster, and more inclusive. </span></p>
+<p><span style="font-weight: 400;">Wall Street’s approach seems to focus almost exclusively on the efficiencies of tokenized securities while overlooking the opportunity to streamline markets, return more control to investors, or encourage participation in capital markets from a broader range of investors and issuers.  I think it’s mostly about firing the back office and improving margins. Regardless of Trump’s Bitcoin strategy, it’s difficult to imagine tokenization in major markets, weighed down by layers of incumbents and vested interests, following the El Salvador model. </span><span style="font-weight: 400;">They seem to want innovation without change.</span></p>
+<p><span style="font-weight: 400;">I think a race between the competing approaches to tokenization will emerge in the coming years, fuelled in part by a more digital-assets-friendly US administration: developed vs. developing economies, open source vs. permissioned chains, inclusion vs. institutional only, Bitcoin and Tether vs. CBDCs and fiat. It’s much too early to say which path will emerge as the dominant approach, but I think there’s a good chance that freer, cheaper, lower friction markets can come out on top.</span></p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</title>
+		<link>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/</link>
+					<comments>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 01:30:04 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Liquidium]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456333</guid>
+
+					<description><![CDATA[<p>DeFi lending on Bitcoin-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a new all-time high above $100,000. Onchain data reveals that loans against Runes accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while Ordinals accounted for the remaining 43%, contributing 9 BTC. These [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>DeFi lending on <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">new all-time high above $100,000.</a></p>
+<p>Onchain <a href="https://dune.com/liquidiumfi/liquidium">data</a> reveals that loans against <a href="https://cryptoslate.com/bitcoin-runes-made-up-57-percent-of-transactions-on-halving-day/">Runes</a> accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while <a href="https://cryptoslate.com/products/ordinals/">Ordinals</a> accounted for the remaining 43%, contributing 9 BTC.</p>
+<p>These numbers reflect a year-long upward trend for Liquidium, which has facilitated over 63,000 loans totaling more than 3,378 BTC. Runes dominate the platform, comprising over half of all collateral.</p>
+<p>Liquidium enables users to borrow Bitcoin against assets like Runes, Ordinals, Inscriptions, and BRC-20 tokens. Its non-custodial model employs Discreet Log Contracts (DLC) for secure escrow, ensuring that lenders&#8217; returns are protected, even in default cases.</p>
+<p>The rise in Liquidium&#8217;s activity mirrors Bitcoin&#8217;s increasing mainstream adoption. Analysts point to <a href="https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/">BTC&#8217;s price rally</a> above $100,000 and the introduction of spot <a href="https://cryptoslate.com/insights/us-bitcoin-etfs-exceed-satoshi-nakamotos-btc-holdings-in-less-than-a-year/">Bitcoin exchange-traded funds (ETFs)</a> as key factors driving institutional interest in the ecosystem.</p>
+<p>Additionally, market sentiment has dramatically improved with expectations of crypto-friendly regulations under a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Donald Trump-led US administration</a>, fueling optimism for broader industry growth.</p>
+<p>Moreover, the platform&#8217;s native LIQUIDIUM token is also enjoying an uptrend, according to CoinMarketCap data, which has pushed its value up over 25% during the past week.</p>
+<h2>New features</h2>
+<p>Looking ahead, Liquidium is set to launch features designed to streamline user experience. A new instant loans feature will allow borrowers to access funds without requiring lender countersignatures, simplifying the process for loans of any size.</p>
+<p>The upcoming Custom Loan V2 upgrade will introduce a gallery-like interface, enabling borrowers and lenders to create and customize loan offers.</p>
+<p>This shift from the traditional model — where only lenders could initiate offers — will make the platform more dynamic and accessible. The intuitive design promises an engaging experience where users can explore loan opportunities as effortlessly as browsing a curated collection.</p>
+<p>Liquidium&#8217;s consistent growth and planned advancements position it as a key player in the expanding Bitcoin DeFi ecosystem.</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</title>
+		<link>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/</link>
+					<comments>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:45:48 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456388</guid>
+
+					<description><![CDATA[<p>Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (BTC) reserve is “crazy. &#8220; Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued: &#8220;Of all the prices to support, why would the government choose to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) reserve is “crazy. &#8220;</span></p>
+<p><span style="font-weight: 400;">Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued:</span></p>
+<blockquote><p><strong>&#8220;Of all the prices to support, why would the government choose to support by accumulating a sterile inventory, a bunch of Bitcoin? There is no reason other than to pander to generous special interest campaign contributors.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">His remarks follow</span> <strong><a href="https://cryptoslate.com/trumps-crypto-advisory-council-to-setup-promised-strategic-bitcoin-reserve-report/">reports</a></strong><span style="font-weight: 400;"> that President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump’s</a> Crypto Advisory Council is expected to establish the &#8220;Strategic Bitcoin Reserve.&#8221;</span></p>
+<p><span style="font-weight: 400;">The idea of a national Bitcoin reserve surfaced during the Bitcoin 2024 conference earlier this year, where both Trump and Robert F. Kennedy Jr. made keynote speeches, along with several lawmakers, including Senator <a href="https://cryptoslate.com/people/cynthia-lummis/">Cynthia Lummis</a> (R-WY), who introduced the &#8220;</span><strong><a href="https://cryptoslate.com/lummis-unveils-the-bitcoin-act-to-establish-strategic-btc-reserve-for-the-us/">Bitcoin Act</a></strong><span style="font-weight: 400;">&#8221; legislation proposing the creation of such an institute at the event.</span></p>
+<h2><strong>Bitcoin reserve idea gaining traction</strong></h2>
+<p><span style="font-weight: 400;">The idea of creating Bitcoin reserves is gaining traction beyond institutions now, with lawmakers and politicians around the world warming to the concept. </span></p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/satoshi-action-fund/">Satoshi Act Fund</a> founder <a href="https://cryptoslate.com/people/dennis-porter/">Dennis Porter</a> recently revealed he is in discussions with Texas state officials to introduce</span> <a href="https://x.com/Dennis_Porter_/status/1859640897715175433">legislation</a> for <span style="font-weight: 400;">a strategic Bitcoin fund. </span><span style="font-weight: 400;">Additionally, on Nov. 14, Representative Mike Cabell</span> <strong><a href="https://cryptoslate.com/pennsylvannia-introduces-bill-to-use-7-billion-state-fund-for-bitcoin-strategic-reserve-purchases/">introduced a bill</a></strong><span style="font-weight: 400;"> to create a BTC reserve in Pennsylvania using the state&#8217;s $7 billion fund.</span></p>
+<p><span style="font-weight: 400;">Porter said Texas and Pennsylvania are the first of many and claimed that up to 10 more US states will likely follow suit before the year ends in an attempt to front-run the Trump administration&#8217;s plans for a federal Bitcoin reserve.</span></p>
+<p><span style="font-weight: 400;">The examples in the US are motivating politicians in other countries. A Brazilian lawmaker</span> <strong><a href="https://cryptoslate.com/brazilian-lawmaker-proposes-18-billion-bitcoin-reserve-initiative/">pushed</a></strong><span style="font-weight: 400;"> for a Bitcoin reserve in the country through legislation introduced on Nov. 26, which would allocate up to nearly $19 billion in BTC.</span></p>
+<p><span style="font-weight: 400;">Meanwhile,</span><span style="font-weight: 400;"> Poland&#8217;s libertarian presidential candidate, Sławomir Mentzen, wants to</span> <strong><a href="https://cryptoslate.com/poland-presidential-candidate-wants-to-allow-nation-to-hold-bitcoin-with-strategic-reserve/">allow the country</a></strong><span style="font-weight: 400;"> to hold BTC as a strategic reserve.</span></p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>XRP enters corporate treasury reserves with Worksport and BC Bud Co investments</title>
+		<link>https://cryptoslate.com/xrp-enters-corporate-treasury-reserves-with-worksport-and-bc-bud-co-investments/</link>
+					<comments>https://cryptoslate.com/xrp-enters-corporate-treasury-reserves-with-worksport-and-bc-bud-co-investments/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 11:21:05 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Investments]]></category>
+		<category><![CDATA[Tokens]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Workspot]]></category>
+		<category><![CDATA[xrp]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456251</guid>
+
+					<description><![CDATA[<p>XRP&#8217;s recent price surge has sparked growing interest from institutional players, with Worksport and The BC Bud Co. announcing plans to include the token in their treasury strategies. Traditionally, corporate crypto investments have centered on Bitcoin, a trend set by companies like MicroStrategy. However, XRP&#8217;s impressive 300% rally over the past month has propelled it [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/xrp-enters-corporate-treasury-reserves-with-worksport-and-bc-bud-co-investments/">XRP enters corporate treasury reserves with Worksport and BC Bud Co investments</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/xrp/">XRP&#8217;s</a> recent price surge has sparked growing interest from institutional players, with Worksport and The BC Bud Co. announcing plans to include the token in their treasury strategies.</p>
+<p>Traditionally, <a href="https://cryptoslate.com/rising-bitcoin-tides-lift-small-cap-companies-to-bold-reserve-strategies/">corporate crypto investments</a> have centered on <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>, a trend set by companies like <a href="https://cryptoslate.com/companies/microstrategy/">MicroStrategy</a>. However, XRP&#8217;s impressive 300% rally over the past month has propelled it into the top three digital assets by market capitalization.</p>
+<p>Market observers suggest that this rally has encouraged smaller firms to explore XRP, aiming to benefit from the <a href="https://cryptoslate.com/ripples-xrp-price-surge-comapres-it-to-americas-top-100-companies-by-market-cap/">growing momentum around the token</a>.</p>
+<h2>Workspot eyes $5 million Bitcoin and XRP allocation</h2>
+<p>On Dec. 5, Worksport, a Nasdaq-listed truck cover manufacturer, unveiled plans to diversify its treasury by investing up to $5 million in Bitcoin and XRP.</p>
+<p>According to its statement, the company intends to allocate 10% of its surplus operational cash to these digital assets to hedge against inflation and enhance its financial strategy.</p>
+<p>Additionally, Worksport plans to accept crypto payments on its e-commerce platform, anticipating transaction cost reductions of up to 37%. The company also aims to reinvest interest earned from money market accounts into Bitcoin and XRP while considering future capital allocations to build long-term crypto reserves.</p>
+<p>Steven Rossi, CEO of Worksport, described Bitcoin and XRP as resilient assets well-suited for a modern treasury approach. He emphasized their potential to preserve value and serve as tools for financial innovation.</p>
+<h2>BC Bud Co. invests in XRP.</h2>
+<p>Canadian cannabis company The BC Bud Co. <a href="https://www.theglobeandmail.com/investing/markets/stocks/BCBC-CN/pressreleases/29870055/the-bc-bud-co-diversifies-treasury-with-250000-xrp-purchase-to-enhance-shareholder-value/">announced</a> a CAD 250,000 (equivalent to $178,000) investment in XRP using cash reserves held in Canadian accounts. This move reflects the company&#8217;s strategy to maximize shareholder value through exposure to emerging financial assets.</p>
+<p>CEO Brayden Sutton noted XRP&#8217;s recent legal and market advancements as evidence of why it is a compelling investment choice for his company. He pointed to global interest in <a href="https://cryptoslate.com/wisdomtree-joins-race-for-spot-xrp-etf-as-4th-filing-amid-impending-sec-leadership-change/">XRP exchange-traded funds (ETFs)</a> and <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">pro-crypto sentiment</a> in the political landscape as factors bolstering the asset&#8217;s appeal.</p>
+<p>Sutton also highlighted XRP&#8217;s potential to align with evolving financial trends while driving long-term returns for shareholders.</p>
+<p>The post <a href="https://cryptoslate.com/xrp-enters-corporate-treasury-reserves-with-worksport-and-bc-bud-co-investments/">XRP enters corporate treasury reserves with Worksport and BC Bud Co investments</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/xrp-enters-corporate-treasury-reserves-with-worksport-and-bc-bud-co-investments/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/xrp-treasury.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/xrp-treasury.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>How the crypto community reacted to Bitcoin&#8217;s $100,000 record</title>
+		<link>https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/</link>
+					<comments>https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 16:00:35 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[People]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456100</guid>
+
+					<description><![CDATA[<p>Bitcoin has achieved an unprecedented milestone, surpassing the $100,000 mark for the first time in its history. Data from CryptoSlate showed that the top digital asset peaked at $103,465.81 on Dec. 5, showcasing its most remarkable performance since its inception. This surge propelled Bitcoin&#8217;s market capitalization beyond $2 trillion, marking a pivotal moment in its [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/">How the crypto community reacted to Bitcoin&#8217;s $100,000 record</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> has achieved an unprecedented milestone, surpassing the $100,000 mark for the first time in its history.</p>
+<p>Data from <em>CryptoSlate</em> showed that the top digital asset peaked at $103,465.81 on Dec. 5, showcasing its most remarkable <a href="https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/">performance</a> since its inception.</p>
+<p>This surge propelled Bitcoin&#8217;s market capitalization beyond $2 trillion, marking a pivotal moment in its journey. Further, the total crypto market cap soared to a record $3.6 trillion, underlining the sector&#8217;s explosive growth.</p>
+<h2>How the crypto community reacted</h2>
+<p>The $100,000 milestone ignited widespread celebrations within the crypto community, with many viewing it as a defining moment that cements Bitcoin&#8217;s role in the global financial landscape.</p>
+<p>US President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> joined in on the excitement, congratulating Bitcoin holders and crediting the achievement to his incoming administration&#8217;s pro-crypto policies. He posted,</p>
+<blockquote><p>&#8220;CONGRATULATIONS BITCOINERS!!! $100,000!!! YOU’RE WELCOME!!!&#8221;</p></blockquote>
+<p>Since Trump&#8217;s election victory in November, he has appointed several pro-crypto candidates and maintained that he would adopt a <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">crypto-friendly approach</a>. These decisive actions have unsurprisingly bolstered the crypto industry uptrend, with several digital assets climbing to new highs since then.</p>
+<p><a href="https://cryptoslate.com/companies/gemini/">Gemini</a> exchange co-founder <a href="https://cryptoslate.com/people/tyler-winklevoss/">Tyler Winklevoss</a> <a href="https://x.com/tyler/status/1864521751142518878?t=cQrZJ_u_bo3QbqUAS18cbA&amp;s=19">compared</a> the milestone to landmark historical events, calling it as significant as the moon landing or the fall of the Berlin Wall.</p>
+<p>Meanwhile, <a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> CEO <a href="https://cryptoslate.com/people/brian-armstrong/">Brian Armstrong</a> highlighted Bitcoin&#8217;s unparalleled performance, <a href="https://x.com/brian_armstrong/status/1864510348856053858?t=chcOW0hdtT2jO_rzZEObKg&amp;s=08">noting</a> that an investment of $100 in Bitcoin at Coinbase&#8217;s launch in 2012 would now yield over $1.5 million.</p>
+<p>Considering this, Armstrong proposed that governments adopt Bitcoin as a strategic reserve asset to counter inflationary pressures.</p>
+<p>Additionally, <a href="https://cryptoslate.com/companies/binance/">Binance</a> founder <a href="https://cryptoslate.com/people/changpeng-zhao/">Changpeng Zhao</a> <a href="https://x.com/cz_binance/status/1864549839498850700?t=nfnmct3CM7A6tmwHbrhAFw&amp;s=19">hailed</a> Bitcoin&#8217;s resilience over the past years and framed its price surge as evidence of the devaluation of traditional assets.</p>
+<p><span style="color: #333333; font-size: 22px; font-weight: bold;">What next for BTC?</span></p>
+<p>Following this historic breakthrough, the market now focuses on Bitcoin&#8217;s significant milestones.</p>
+<p>Analysts predict Bitcoin could become the leading &#8220;store of value,&#8221; <a href="https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/">surpassing gold</a> within the next decade. According to Bernstein&#8217;s Gautam Chhugani, Bitcoin&#8217;s 141% annual growth, driven mainly by expectations of crypto-friendly US policies, could propel the asset to $200,000 by late 2025.</p>
+<p>Standard Chartered analysts echo this sentiment, projecting Bitcoin could double in value by the end of 2025.</p>
+<p>Analysts at the firm noted that factors such as BTC&#8217;s potential integration into sovereign wealth funds and US retirement portfolios as catalysts for further growth. Institutional players like <a href="https://cryptoslate.com/companies/microstrategy/">MicroStrategy</a> are also expected to <a href="https://cryptoslate.com/insights/microstrategys-bitcoin-holdings-surpass-400000-btc-after-latest-1-5-billion-buy/">increase their Bitcoin holdings</a>, fueling momentum in the coming years.</p>
+<p>The post <a href="https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/">How the crypto community reacted to Bitcoin&#8217;s $100,000 record</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-100k-pump.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-100k-pump.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Elon Musk impressed by El Salvador’s over $300 million unrealized profit in Bitcoin</title>
+		<link>https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/</link>
+					<comments>https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 12:11:55 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[El Salvador]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456063</guid>
+
+					<description><![CDATA[<p>El Salvador&#8217;s president Nayib Bukele is celebrating the country&#8217;s success as its Bitcoin holdings surpass $300 million in unrealized profit. In a Dec. 5 post on X (formerly Twitter), Bukele shared a screenshot showing that the country&#8217;s Bitcoin holdings reached over $600 million. This spike came as Bitcoin&#8217;s price surged past $100,000, hitting an all-time [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/">Elon Musk impressed by El Salvador’s over $300 million unrealized profit in Bitcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>El Salvador&#8217;s president <a href="https://cryptoslate.com/people/nayib-bukele/">Nayib Bukele</a> is celebrating the country&#8217;s success as its <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> holdings surpass $300 million in unrealized profit.</p>
+<p>In a Dec. 5 <a href="https://x.com/nayibbukele/status/1864506095131144278">post</a> on X (formerly Twitter), Bukele shared a screenshot showing that the country&#8217;s Bitcoin holdings reached over $600 million. This spike came as Bitcoin&#8217;s price surged past $100,000, hitting an all-time high of $103,465.81.</p>
+<p>According to the screenshot, the value of El Salvador&#8217;s Bitcoin holdings increased by 117.74%, reaching approximately $603 million. Bukele&#8217;s figures show that the country initially invested around $269.7 million in Bitcoin, resulting in an unrealized profit exceeding $335 million.</p>
+<p>The term &#8220;unrealized profit&#8221; refers to the difference between the initial purchase price and the asset&#8217;s current market value, which changes with market fluctuations.</p>
+<p>Over the years, El Salvador&#8217;s unwavering commitment to Bitcoin has made it a focal point of support and criticism.</p>
+<p>Despite repeated warnings from international financial organizations, including the <a href="https://cryptoslate.com/el-salvador-doubles-down-on-bitcoin-defies-imf-concerns/">International Monetary Fund (IMF)</a>, Bukele&#8217;s administration has continued accumulating the flagship digital asset since it was made legal tender in 2021.</p>
+<p>Additionally, the government has introduced a <a href="https://cryptoslate.com/el-salvador-entices-bitcoin-investors-with-citizenship-offer/">range of initiatives</a> to further integrate Bitcoin into the national economy. These include exploring using the country&#8217;s <a href="https://cryptoslate.com/el-salvador-toys-with-renting-170-volcanoes-to-bitcoin-miners-aims-to-disrupt-industry/">volcanoes for Bitcoin mining</a> and launching a BTC <a href="https://cryptoslate.com/el-salvador-launches-bitcoin-training-for-80000-public-servants/">training and certification program</a> for public officials.</p>
+<h2>Community reacts</h2>
+<p>The crypto community has primarily supported El Salvador&#8217;s <a href="https://cryptoslate.com/president-bukele-champions-el-salvadors-multiple-bitcoin-revenue-streams/">Bitcoin strategy</a>, noting the significant boost to the country&#8217;s financial position.</p>
+<p><a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a>, a prominent tech billionaire and crypto advocate, <a href="https://x.com/elonmusk/status/1864511096045875570?t=-jq1mVvVAV9LnuvnXsnTYw&amp;s=19">praised</a> the impressive profits the Central American country has generated since it adopted the top crypto.</p>
+<p>According to Arkham Intelligence <a href="https://intel.arkm.com/explorer/entity/tesla">data</a>, Musk&#8217;s electric car company Tesla&#8217;s Bitcoin holdings have also retaken the $1 billion mark amid BTC&#8217;s price rise. Had the company held all the Bitcoin it bought in 2021, it would now be worth $4 billion.</p>
+<p>Meanwhile, Stacy Herbert, Director of the El Salvador Bitcoin Office, acknowledged the efforts of the team behind the country&#8217;s success, stating:</p>
+<blockquote><p>&#8220;So much hard work went into this success. And one day the story will be told about how a very small team of us made this happen.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/">Elon Musk impressed by El Salvador’s over $300 million unrealized profit in Bitcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/elon-musk-elsalvador-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/elon-musk-elsalvador-bitcoin.jpg" length="1100" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ripple addresses RLUSD New York delay, as XRP&#8217;s growth fuels ecosystem hype</title>
+		<link>https://cryptoslate.com/ripple-addresses-rlusd-nydfs-delay-as-xrps-growth-fuels-ecosystem-hype/</link>
+					<comments>https://cryptoslate.com/ripple-addresses-rlusd-nydfs-delay-as-xrps-growth-fuels-ecosystem-hype/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 11:19:47 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[RLUSD]]></category>
+		<category><![CDATA[xrp]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456044</guid>
+
+					<description><![CDATA[<p>Ripple has announced a delay in the launch of its RLUSD stablecoin due to regulatory issues with the New York State Department of Financial Services (NYDFS). In a Dec. 4 statement on X (formerly Twitter), the platform stated: &#8220;Despite some speculation, $RLUSD isn’t launching today. We’re in lockstep with the NYDFS on final approval and [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ripple-addresses-rlusd-nydfs-delay-as-xrps-growth-fuels-ecosystem-hype/">Ripple addresses RLUSD New York delay, as XRP&#8217;s growth fuels ecosystem hype</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/ripple/">Ripple</a> has announced a delay in the launch of its RLUSD stablecoin due to regulatory issues with the New York State Department of Financial Services (NYDFS).</p>
+<p>In a Dec. 4 statement on X (formerly Twitter), the platform <a href="https://x.com/Ripple/status/1864396884800098354?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1864396884800098354%7Ctwgr%5E45e267797fc22799ef0cea76eabf082e061909a6%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fcrypto.news%2Fripples-rlusd-delay-pushes-xrp-4th-in-crypto-rankings%2F">stated</a>:</p>
+<blockquote><p>&#8220;Despite some speculation, $RLUSD isn’t launching today. We’re in lockstep with the NYDFS on final approval and will share updates as soon as possible.&#8221;</p></blockquote>
+<p>Further, Ripple emphasized its commitment to regulatory compliance, reassuring RLUSD would only be launched after securing the necessary approvals from NYDFS.</p>
+<p>Fox Business journalist Eleanor Terret noted that her earlier report about the NYDFS&#8217;s nearing approval for RLUSD was confirmed by Ripple&#8217;s post. She added that while two sources had <a href="https://cryptoslate.com/ripples-stablecoin-rlusd-expected-to-launch-on-dec-4-with-nydfs-approval/">pointed to Dec. 4</a> as the potential launch date, unexpected developments have led to the current delay.</p>
+<p>New York&#8217;s stringent crypto regulations require companies serving state residents to obtain a BitLicense or a limited-purpose trust company charter from the NYDFS. <span style="margin: 0px; padding: 0px;">According to the regulator&#8217;s <a href="https://www.dfs.ny.gov/virtual_currency_businesses#regulated-entities">website</a>, only 33 firms have secured these licenses, including Ripple and its <a href="https://cryptoslate.com/ripple-acquires-nydfs-regulated-custodian-standard-custody/">subsidiary Standard Custody</a></span>.</p>
+<h2>Interest in XRP&#8217;s ecosystem soars</h2>
+<p>Ripple&#8217;s delay of RLUSD comes at a period of heightened <a href="https://cryptoslate.com/ripple-warns-of-deepfake-scams-amid-xrp-price-surge/">interest in XRP&#8217;s ecosystem</a>.</p>
+<p>Over the past month, the digital asset recorded a <a href="https://cryptoslate.com/cardano-and-xrp-outperform-bitcoin-by-over-200-as-developers-hard-work-pays-off/">400% price growth,</a> pushing its value into the top three cryptocurrencies by market cap.</p>
+<p>However, <a href="https://cryptoslate.com/coins/xrp/">XRP</a> dropped by around 10% in the last 24 hours, falling to $2.2 before recovering to $2.4 as of press time. This price performance wiped out over $55 million from crypto speculators, according to Coinglass data.</p>
+<p>Nevertheless, interest in the token and other projects within its ecosystem is at a record level. For context, <a href="https://xrpscan.com/metrics">data</a> from XRPScan shows that the number of active accounts on the XRP Ledger (XRPL) has crossed 100,000 for the first time.</p>
+<p>Additionally, Dexscreener <a href="https://dexscreener.com/xrpl?rankBy=trendingScoreH24&amp;order=desc">data</a> shows that there has been a steady increase in decentralized exchange trading activity during the past month, thanks to the proliferation of memecoins on the blockchain network.</p>
+<p>The post <a href="https://cryptoslate.com/ripple-addresses-rlusd-nydfs-delay-as-xrps-growth-fuels-ecosystem-hype/">Ripple addresses RLUSD New York delay, as XRP&#8217;s growth fuels ecosystem hype</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ripple-addresses-rlusd-nydfs-delay-as-xrps-growth-fuels-ecosystem-hype/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/ripple-rlusd.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/ripple-rlusd.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Bitcoin hits historic $100,000 price level as 1,000 sats now equal $1</title>
+		<link>https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/</link>
+					<comments>https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 03:00:34 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=454140</guid>
+
+					<description><![CDATA[<p>For the first time, Bitcoin has surpassed the $100,000 mark, pushing its market capitalization to $2 trillion. This milestone follows a series of new all-time highs over the past few weeks, fueled by market momentum after the U.S. presidential election. The election of Donald Trump, who has promised pro-cryptocurrency policies, contributed to Bitcoin&#8217;s surge. Since [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/">Bitcoin hits historic $100,000 price level as 1,000 sats now equal $1</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">For the first time, <a href="/coins/bitcoin">Bitcoin</a> has surpassed the $100,000 mark, pushing its market capitalization to $2 trillion. This milestone follows a series of new all-time highs over the past few weeks, fueled by market momentum after the U.S. presidential election.</span></p>
+<p><span style="font-weight: 400;">The election of Donald Trump, who has promised pro-cryptocurrency policies, contributed to Bitcoin&#8217;s surge. Since his victory in early November, Bitcoin&#8217;s price has <a href="https://cryptoslate.com/insights/bitcoin-etfs-record-1-billion-inflows-in-2-days-as-new-price-peak-boosts-investments/">climbed</a> over 30%, reaching $93,400 on Nov. 13.</span></p>
+<p><span style="font-weight: 400;">The digital asset continued to set records, hitting $93,900 on Nov. 19 and $94,300 on Nov. 20. On Nov. 21, Bitcoin soared to $98,200 before retracing to around $97,000, coming within 3% of the $100,000 milestone. The following day, it was denied again at $99,600, which led to a decline to $90,700 by Nov. 26. </span></p>
+<p><span style="font-weight: 400;">By Nov. 29, Bitcoin managed to reclaim $98,000 again but failed to sustain the momentum amid a surge in leverage to all-time highs. The next few days saw the flagship crypto trading in a tight sideways range between $93,000 and $97,250 before finally reclaiming $99,000 late on Dec. 3.</span></p>
+<p>Bitcoin took three hours from there to decisively break the six-figure level as Asia began Dec. 4 trading. BTC was trading at $101,450 as of press time, up 6.64% over the past 24 hours.</p>
+<h2><b>Bitcoin&#8217;s Price History</b></h2>
+<p><span style="font-weight: 400;">Bitcoin&#8217;s journey to $100,000 marks a significant milestone since its inception in 2009, when it held little to no monetary value. The first recorded price of Bitcoin was in 2010 when it was worth less than $0.10. By February 2011, Bitcoin had reached $1, and later in June 2011, it briefly exceeded $30. However, this early bubble burst, and Bitcoin&#8217;s price fell back to around $2 by the end of 2011.</span></p>
+<h3><b>2012-2013: Halving and Major Rally</b></h3>
+<p><span style="font-weight: 400;">In November 2012, Bitcoin experienced its first &#8220;<a href="https://cryptoslate.com/post-halving-bitcoin-miners-are-choosing-between-hodling-btc-and-upgrading-to-ai/">halving&#8221;</a> event, where the reward for mining new blocks was cut in half. By the end of 2013, Bitcoin had reached $1,000, marking its first major rally. The years following saw Bitcoin go through significant volatility, including a decline to around $200 in 2015 before slowly stabilizing and growing stronger by 2016.</span></p>
+<h3><b>2017: The Turning Point</b></h3>
+<p><span style="font-weight: 400;">2017 marked a turning point for Bitcoin, as the price started at around $1,000 and skyrocketed to nearly $20,000 by December. This surge brought Bitcoin into the mainstream spotlight, but it was followed by a prolonged bear market in 2018 known as the &#8220;crypto winter,&#8221; where the price fell to around $3,700 by the end of the year.</span></p>
+<h3><b>2019-2020: Recovery and Pandemic Impact</b></h3>
+<p><span style="font-weight: 400;">The price began to recover in 2019, and by 2020, despite the COVID-19 pandemic causing a sharp drop in March, Bitcoin ended the year at nearly $29,000. The rally continued into 2021, with Bitcoin reaching new all-time highs of $64,895 in April and $69,000 in November. The collapse of major crypto firms in 2022 led to a significant downturn, but Bitcoin began to recover again in 2023, surpassing $40,000 by the end of the year.</span></p>
+<h2><b>2024: Breaking New Records</b></h2>
+<p><span style="font-weight: 400;">The breach of the $100,000 mark in 2024 signifies a pivotal moment for the crypto market, reflecting increased institutional adoption, investor confidence, and strategic Bitcoin <a href="https://cryptoslate.com/blackrock-supports-us-strategic-bitcoin-reserve-amid-rumors-of-executive-order/">reserve legislation</a>. Bitcoin&#8217;s ascent past $100,000 solidifies its position in global finance, underscoring its growing acceptance among investors and institutions alike.</span></p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/">Bitcoin hits historic $100,000 price level as 1,000 sats now equal $1</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/bitcoin-uptober.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/bitcoin-uptober.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ethiopia&#8217;s Bitcoin mining surge now accounts for 2.5% of global hash rate</title>
+		<link>https://cryptoslate.com/ethiopias-bitcoin-mining-surge-now-accounts-for-2-5-of-global-hash-rate/</link>
+					<comments>https://cryptoslate.com/ethiopias-bitcoin-mining-surge-now-accounts-for-2-5-of-global-hash-rate/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 01:00:20 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Mining]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Ethiopia]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455952</guid>
+
+					<description><![CDATA[<p>Ethiopia is emerging as a significant player in Bitcoin mining, with local operations now accounting for 2.5% of the global hash rate. On Dec. 4, local Bitcoin miner Kal Kassa stated: &#8220;Bitcoin miners in Ethiopia now command 2.5% of the global hash-rate. If trends continue, according to Ethiopian Electric Power (EEP), this will more than [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ethiopias-bitcoin-mining-surge-now-accounts-for-2-5-of-global-hash-rate/">Ethiopia&#8217;s Bitcoin mining surge now accounts for 2.5% of global hash rate</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Ethiopia is emerging as a significant player in <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> mining, with local operations now accounting for 2.5% of the global hash rate.</p>
+<p>On Dec. 4, local Bitcoin miner Kal Kassa <a href="https://x.com/KalKassa/status/1864272311420871050">stated</a>:</p>
+<blockquote><p>&#8220;Bitcoin miners in Ethiopia now command 2.5% of the global hash-rate. If trends continue, according to Ethiopian Electric Power (EEP), this will more than double within one year.&#8221;</p></blockquote>
+<p>This aligns with <a href="https://www.youtube.com/watch?v=KP9879zQxfg">statements</a> made by Ethan Vera, co-founder and COO of Luxor Mining, who noted that the EEP reports local operations already consuming 600 MW of power. By year-end, that number could rise to 1 gigawatt, representing as much as 7% of the global Bitcoin network&#8217;s hashrate.</p>
+<p>Ethiopia&#8217;s 2.5% contribution to the global Bitcoin hash rate would place it among the top five Bitcoin mining nations, joining established leaders like the United States, China, and the Czech Republic.</p>
+<h2>Chinese miners flock to Ethiopia</h2>
+<p>Meanwhile, the African country&#8217;s rise as a mining hub follows China&#8217;s 2021 ban on Bitcoin mining, which prompted many Chinese miners to relocate.</p>
+<p>Companies like Bitmain-backed BitFuFu have acquired large mining operations in Ethiopia. Bitmain itself has also supported infrastructure development in the region.</p>
+<p>Similarly, BIT Mining has also recently <a href="https://www.prnewswire.com/news-releases/bit-mining-to-acquire-ethiopian-mining-data-centers-and-mining-machines-302320767.html">entered</a> the Ethiopian market, acquiring a 51 MW Bitcoin mine and 17,869 mining rigs for $14.3 million</p>
+<p>Ethiopia&#8217;s appeal stems from its abundance of hydropower and surplus renewable energy. The government has actively worked to position the country as a <a href="https://cryptoslate.com/ethiopia-to-start-mining-bitcoin-through-new-data-mining-partnership/">Bitcoin mining hub,</a> with the state-owned EEP generating over $55 million in revenue over the past 10 months from agreements with 25 Bitcoin mining companies.</p>
+<p>Boyd Cohen, a Bitcoin mining advocate, <a href="https://x.com/boydcohen/status/1864338762169471125">highlighted</a> the broader economic implications of this shift. He suggested that early-adopting Bitcoin countries could emerge as new economic leaders in the coming decades, witnessing a major redistribution of wealth.</p>
+<p>The post <a href="https://cryptoslate.com/ethiopias-bitcoin-mining-surge-now-accounts-for-2-5-of-global-hash-rate/">Ethiopia&#8217;s Bitcoin mining surge now accounts for 2.5% of global hash rate</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ethiopias-bitcoin-mining-surge-now-accounts-for-2-5-of-global-hash-rate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/ethiopia-bitcoin-mining-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/ethiopia-bitcoin-mining-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</title>
+		<link>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/</link>
+					<comments>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 20:38:01 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455959</guid>
+
+					<description><![CDATA[<p>New York City Mayor Eric Adams slammed the criticism he faced after deciding to receive his first three paychecks in Bitcoin (BTC) and Ethereum (ETH) back in early 2022. He made the statement during a Dec. 3 press conference, saying: &#8220;Remember y’all laughed at me when I first got my Bitcoin. Who&#8217;s laughing now? Go [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/">New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">New York City Mayor Eric Adams slammed the criticism he faced after deciding to receive his first three paychecks in Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) and Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) back in early 2022.</span></p>
+<p>He made the statement during a Dec. 3 <strong><a href="https://www.nyc.gov/office-of-the-mayor/news/875-24/transcript-mayor-adams-holds-in-person-media-availability">press conference</a></strong>, saying:</p>
+<blockquote><p><strong>&#8220;Remember y’all laughed at me when I first got my Bitcoin. Who&#8217;s laughing now? Go look at my Bitcoin now. You all mock me. You&#8217;re taking your first three paychecks in Bitcoin. What&#8217;s wrong with you? Now you wish you would have done it.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">He also said people should not be afraid of Bitcoin and voiced his satisfaction with people willing to think outside the box on President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump&#8217;s</a> administration, like <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a>.</span></p>
+<p><span style="font-weight: 400;">Additionally, when asked about the return on his Bitcoin paycheck, Adams explained that the amount is on his annual Conflicts of Interest Board (COIB) report, where the mayor must disclose his investments.</span></p>
+<p><span style="font-weight: 400;">According to his</span> <strong><a href="https://www.nyc.gov/assets/coib/downloads/pdf2/publicdocs/elected-officials-ad/2023/adams-e-2023-ad-report.pdf">2023 COIB</a></strong><span style="font-weight: 400;">, Adams holds between $5,000 and $54,999.99 in BTC, considering the market value at the close of the reporting year. Based on Bitcoin&#8217;s 130% climb to a high of $99,600, Adams could hold roughly $110,000 worth of BTC.</span></p>
+<p><span style="font-weight: 400;">On a broader approach to innovation, the New York Mayor also spoke on artificial intelligence (AI), stating that people shouldn&#8217;t be afraid of AI. He said the innovation push is a racehorse that the US is holding back &#8220;out of fear of being canceled.&#8221;</span></p>
+<p>New York has generally <span style="font-weight: 400;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">taken a pro-crypto stance with some caveats. In January 2022, legislators <a href="https://cryptoslate.com/new-york-introduces-bill-to-legalize-crypto-payments-for-state-purposes/" target="_blank" rel="noopener"><strong>introduced a bill</strong></a></span> to allow state entities to receive Bitcoin as payment. However, the bill did not encourage the use of BTC for commercial purposes.</span></p>
+<p>Meanwhile<span style="font-weight: 400;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">, in June of the same year, the New York State Senate approved a bill </span>that could</span> <strong><a href="https://cryptoslate.com/new-york-senate-passes-bill-that-could-ban-crypto-mining/">ban Bitcoin mining</a></strong><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Recently, mining firm Greenidge</span> <strong><a href="https://cryptoslate.com/bitcoin-miner-greenidge-wins-legal-battle-to-keep-mining-in-new-york/">won a legal battle</a></strong><span style="font-weight: 400;"> to keep its operations in New York following the state&#8217;s Department of Environmental Conservation (DEC) denial of a Title V Air Permit application.</span></p>
+<p>The post <a href="https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/">New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/eric-adams-bitcoin-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/eric-adams-bitcoin-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

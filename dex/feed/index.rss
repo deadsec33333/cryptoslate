@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>DEX News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/dex/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/dex/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Thu, 28 Nov 2024 17:08:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>DEX News | CryptoSlate</title>
+	<link>https://cryptoslate.com/dex/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ethereum DeFi TVL hits 2-year high as activity on platforms like Uniswap, Aave soars</title>
+		<link>https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/</link>
+					<comments>https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 17:15:14 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[aave]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455122</guid>
+
+					<description><![CDATA[<p>Ethereum&#8217;s DeFi sector is experiencing a revival, fueled by renewed market enthusiasm following Donald Trump&#8217;s election victory. The total value locked (TVL) in Ethereum&#8217;s DeFi ecosystem has surged past $80 billion, marking its highest level in over two years. These numbers come as key players like Aave and Uniswap have also achieved significant milestones during [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/">Ethereum DeFi TVL hits 2-year high as activity on platforms like Uniswap, Aave soars</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/ethereum/">Ethereum&#8217;s</a> DeFi sector is experiencing a revival, fueled by renewed market enthusiasm following Donald Trump&#8217;s election victory.</p>
+<p>The total value locked (TVL) in Ethereum&#8217;s DeFi ecosystem has surged past $80 billion, marking its highest level in over two years.</p>
+<p>These numbers come as key players like Aave and Uniswap have also achieved significant milestones during this bullish wave. Their rising activity highlights the increasing appeal of DeFi solutions as investors and users flock to platforms that offer innovative financial tools and opportunities.</p>
+<h2>Record volume</h2>
+<p><a href="https://cryptoslate.com/products/uniswap/">Uniswap</a> has set a new record for monthly trading volume on Ethereum layer-2 networks, reaching $38 billion in November — a 50% jump from October&#8217;s $20.32 billion.</p>
+<p><a href="https://dune.com/queries/3553382/5979769">Data</a> from Dune Analytics reveals that Arbitrum contributed the lion&#8217;s share with $19.5 billion. It is followed by Base with $9.19 billion and Polygon at $4.33 billion.</p>
+<p>In a Nov. 27 social media post, Uniswap Labs, the development team behind the platform, <a href="https://x.com/Uniswap/status/1861799456493953143" target="_blank" rel="noopener" data-wpel-link="external">stated</a>:</p>
+<blockquote><p>&#8220;Onchain history is being made. New all-time high for monthly L2 volume on the Uniswap Protocol.&#8221;</p></blockquote>
+<p>Meanwhile, this achievement coincides with a significant rise in the price of Uniswap&#8217;s native <a href="https://cryptoslate.com/coins/uniswap/">UNI</a> token. According to CryptoSlate&#8217;s data, the digital asset was up 10% over the last 24 hours, pushing its price to $12.84.</p>
+<p>Adding to the excitement, Uniswap announced a $15.5 million bug bounty program, the largest in DeFi&#8217;s history, to secure its upcoming v4 protocol. The platform <a href="https://blog.uniswap.org/v4-bug-bounty">said</a>:</p>
+<blockquote><p>&#8220;Over 500 researchers [had] participated in a $2.35 million security competition, and no critical vulnerabilities were found. As deployment approaches, we’re taking an extra step to ensure v4 is as secure as possible with the $15.5 million bug bounty.&#8221;</p></blockquote>
+<h2>Aave hits new highs</h2>
+<p><a href="https://cryptoslate.com/coins/aave/">Aave</a>, the largest DeFi lending platform, has also reached a historic milestone.</p>
+<p>According to <a href="https://defillama.com/protocol/aave">DeFiLlama</a>, deposits on the platform have surged to $33 billion, representing a 230% increase since the start of the year.</p>
+<p>If Aave were a US bank, this figure places Aave among the top 1.4% in deposits, surpassing notable institutions like SoFi.</p>
+<p><a href="https://cryptoslate.com/people/stani-kulechov/">Stani Kulechov</a>, Aave&#8217;s founder and CEO, highlighted this progress as the start of a financial revolution driven by decentralized platforms.</p>
+<p>Meanwhile, the platform&#8217;s growth is also reflected in the performance of its native token, AAVE, which has climbed 112% in 2024. According to <em>CryptoSlate&#8217;s</em> data, the token recently hit a yearly high of $210 before settling at $200 as of press time.</p>
+<p>The post <a href="https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/">Ethereum DeFi TVL hits 2-year high as activity on platforms like Uniswap, Aave soars</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ethereum-defi-tvl-hits-2-year-high-as-activity-on-platforms-like-uniswap-and-aave-soars/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/defi-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/defi-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>BIS report on DeFi activity reveals institutional traders heavily outmaneuver retail on Uniswap</title>
+		<link>https://cryptoslate.com/bis-report-on-defi-activity-reveals-institutional-traders-heavily-outmaneuver-retail-on-uniswap/</link>
+					<comments>https://cryptoslate.com/bis-report-on-defi-activity-reveals-institutional-traders-heavily-outmaneuver-retail-on-uniswap/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 17:51:21 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[TradFi]]></category>
+		<category><![CDATA[BiS]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=453956</guid>
+
+					<description><![CDATA[<p>The Bank for International Settlements (BIS) has revealed that institutional players dominate liquidity provision on decentralized exchanges (DEXs) like Uniswap, according to a Nov. 19 report, In a recent report titled &#8220;Decentralized Dealers,&#8221; the BIS analyzed the behavior of sophisticated and retail participants in Uniswap v3&#8217;s liquidity pools. The study examined their responses to market activities [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/bis-report-on-defi-activity-reveals-institutional-traders-heavily-outmaneuver-retail-on-uniswap/">BIS report on DeFi activity reveals institutional traders heavily outmaneuver retail on Uniswap</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Bank for International Settlements (BIS) has revealed that institutional players dominate liquidity provision on decentralized exchanges (DEXs) like <a href="https://cryptoslate.com/coins/uniswap/">Uniswap</a>, according to a Nov. 19 report,</p>
+<p>In a recent report titled &#8220;<span style="margin: 0px; padding: 0px;">Decentralized Dealers,&#8221; the</span> BIS analyzed the behavior of sophisticated and retail participants in <a href="https://cryptoslate.com/products/uniswap/">Uniswap v3&#8217;s</a> liquidity pools. The study examined their responses to market activities and the extent to which DeFi delivers on its promise of inclusivity.</p>
+<p>Liquidity providers play a critical role in DEX ecosystems by depositing assets into trading pools, enabling token swaps. In return, they earn trading fees, with higher returns typically linked to high-volume pairs.</p>
+<p>Uniswap is the largest DEX platform in the DeFi ecosystem<span style="box-sizing: border-box; margin: 0px; padding: 0px;">. It is available on around 20 blockchain networks, including <a href="https://cryptoslate.com/coins/ethereum/" target="_blank" rel="noopener">Ethereum</a> and several layer-2 networks like Base, <a href="https://cryptoslate.com/coins/arbitrum/" target="_blank" rel="noopener">Arbitrum</a>, and <a href="https://cryptoslate.com/coins/optimism/" target="_blank" rel="noopener">Optimism</a>, among others. Since launching in 2018, it has facilitated more than $2 trillion in trades</span>.</p>
+<h2>Institutional players dominate</h2>
+<p>The report highlighted that <a href="https://cryptoslate.com/institutional-investors-now-hold-20-of-us-traded-spot-bitcoin-etfs/">institutional players</a> in DeFi often replicate strategies from traditional finance, gaining a competitive edge over retail participants.</p>
+<p>These sophisticated participants act as market makers, adopting advanced tactics such as mimicking bid-ask spreads to maximize profits. Their dominance reflects patterns in traditional financial systems, where large players frequently outpace smaller participants.</p>
+<p>Uniswap v3&#8217;s design allows liquidity providers to allocate funds within specific price ranges, offering significant advantages to those with advanced market knowledge. The report noted that institutional players actively adjust their positions during volatile market periods, reaping higher returns. In contrast, retail participants rarely make similar adjustments, which often leads to lower profitability and, in some cases, losses.</p>
+<p>The BIS report also highlighted that retail participants interact with fewer <a href="https://cryptoslate.com/cardano-unlocks-bitcoin-liquidity-with-bitcoinos-grail-bridge-integration/">liquidity pools</a> and adjust their positions less frequently, making it difficult for them to compete with institutional players.</p>
+<p>BIS stated:</p>
+<blockquote><p>&#8220;Retail participants exhibit substantially lower skill. They are much less profitable in highly volatile periods and do not seem to adapt their liquidity provision to changing market conditions.&#8221;</p></blockquote>
+<p>While DEXs promote inclusivity and equal opportunities, the findings suggest a gap between the ideal and the reality. Institutional dominance raises questions about whether DEXs genuinely fulfill their mission to level the playing field for retail participants.</p>
+<p>The post <a href="https://cryptoslate.com/bis-report-on-defi-activity-reveals-institutional-traders-heavily-outmaneuver-retail-on-uniswap/">BIS report on DeFi activity reveals institutional traders heavily outmaneuver retail on Uniswap</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/bis-report-on-defi-activity-reveals-institutional-traders-heavily-outmaneuver-retail-on-uniswap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/defi.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/defi.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>WazirX announces plans to launch DEX amid fallout from record crypto theft</title>
+		<link>https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/</link>
+					<comments>https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 23:00:01 +0000</pubDate>
+				<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=451833</guid>
+
+					<description><![CDATA[<p>WazirX announced plans to launch a decentralized exchange (DEX) as part of a broader effort to enhance user security. The move follows a major breach in July, when hackers siphoned $235 million from the platform, sparking concerns over the security of centralized exchanges. WazirX co-founder Nischal Shetty said the new DEX would operate alongside the [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/">WazirX announces plans to launch DEX amid fallout from record crypto theft</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>WazirX announced plans to launch a decentralized exchange (DEX) as part of a broader effort to enhance user security.</p>
+<p>The move follows a <a href="https://cryptoslate.com/hacker-nearly-completes-laundering-230-million-stolen-from-wazirx/">major breach</a> in July, when hackers siphoned $235 million from the platform, sparking concerns over the security of centralized exchanges.</p>
+<p>WazirX co-founder <a href="https://cryptoslate.com/people/nischal-shetty/">Nischal Shetty</a> said the new DEX would operate alongside the existing centralized platform, offering users full control over their assets.</p>
+<p>Shetty said during the firm&#8217;s <a href="https://www.youtube.com/live/NfU7Yruatdo">fourth townhall</a>:</p>
+<blockquote><p>&#8220;With a decentralized exchange, assets remain fully in users&#8217; control, free from counter-party risks.&#8221;</p></blockquote>
+<p>He added that the DEX would feature its own token, designed to cover transaction fees and provide a mechanism for community governance. It is scheduled to roll out in early 2025 with a phased approach to onboarding users.</p>
+<h2>Lazarus hack</h2>
+<p>The July 2024 hack, attributed to the <a href="https://cryptoslate.com/indian-exchange-wazirx-hit-by-235-million-hack-north-korea-link-suspected/">Lazarus Group</a>, exploited a vulnerability in WazirX&#8217;s multi-signature wallet. The attackers funneled stolen funds through Tornado Cash, a privacy tool that conceals transaction histories, creating challenges for investigators.</p>
+<p>The breach, which impacted hundreds of thousands of users, was one of the largest in India&#8217;s crypto history. In response, WazirX implemented an <a href="https://cryptoslate.com/wazirx-begins-second-phase-of-fiat-withdrawals-early-hackers-begins-moving-funds/">emergency recovery plan</a>, freezing 45% of users&#8217; account balances by converting them into USDT and allowing only the remaining 55% to be used for trading.</p>
+<p>However, the move faced swift backlash from the crypto community and WazirX&#8217;s own users, who accused the exchange of forcing losses onto its customers. The response highlighted a growing dissatisfaction with centralized exchanges, as users criticized the exchange&#8217;s handling of the situation as &#8220;socializing losses.&#8221;</p>
+<p>To mitigate further fallout, WazirX reversed its initial plan in August, <a href="https://cryptoslate.com/wazirx-to-restore-balances-of-accounts-undo-all-trades-affected-by-hack/">restoring all account balances</a> to their pre-hack levels and nullifying trades made after the incident. The exchange said the reversal was an attempt to create a fair outcome for all users affected by the incident.</p>
+<h2>Recovery efforts</h2>
+<p>Efforts to recover the stolen funds have been fraught with challenges, as WazirX and its former custody partner, Liminal, engaged in a public dispute over accountability.</p>
+<p>Each party <a href="https://cryptoslate.com/liminal-cleared-by-independent-security-audit-after-wazirx-breach-no-vulnerabilities-found/">blamed the other</a> for the breach, with WazirX asserting that Liminal failed to uphold security standards and Liminal countering that the exchange&#8217;s management practices contributed to the security failure.</p>
+<p>The unresolved dispute has left customers in limbo as both companies navigate the aftermath. The plan to launch a DEX represents WazirX&#8217;s attempt to regain trust by embracing decentralization as a long-term solution to security risks.</p>
+<p>Industry experts believe the shift could signal a broader trend among exchanges to prioritize decentralized models, especially as users grow increasingly cautious about the security of centralized platforms.</p>
+<p>The post <a href="https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/">WazirX announces plans to launch DEX amid fallout from record crypto theft</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/wazirx-announces-plans-to-launch-dex-amid-fallout-from-record-crypto-theft/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/wazirx.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/wazirx.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Dapps see 70% surge in usage to hit record activity levels during Q3</title>
+		<link>https://cryptoslate.com/dapps-see-70-surge-in-usage-to-hit-record-activity-levels-during-q3/</link>
+					<comments>https://cryptoslate.com/dapps-see-70-surge-in-usage-to-hit-record-activity-levels-during-q3/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2024 23:30:21 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=447454</guid>
+
+					<description><![CDATA[<p>Decentralized applications (dApp) registered a significant 70% surge in daily unique active wallets (UAW) between the second and third quarters, reaching an all-time high of 17.2 million, according to DappRadar&#8217;s third-quarter report. Applications tied to artificial intelligence (AI) emerged as the standout performers among the different sectors within the dApp industry last quarter, averaging nearly [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/dapps-see-70-surge-in-usage-to-hit-record-activity-levels-during-q3/">Dapps see 70% surge in usage to hit record activity levels during Q3</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Decentralized applications (dApp) registered a significant 70% surge in daily unique active wallets (UAW) between the second and third quarters, reaching an all-time high of 17.2 million, according to <a href="https://cryptoslate.com/companies/dappradar/">DappRadar&#8217;s</a> third-quarter <a href="https://dappradar.com/blog/state-of-the-dapp-industry-q3-2024">report</a>.</p>
+<p>Applications tied to artificial intelligence (AI) emerged as the standout performers among the different sectors within the dApp industry last quarter, averaging nearly 4.3 million daily UAWs and experiencing 71% quarterly growth.</p>
+<p>The report pointed out that data processing layer DIN and distributed AI data platform Alaya AI were key players driving the surge in usage in the AI sector.</p>
+<p>Moreover, it was suggested that this trend highlights the growing excitement around AI technologies and their integration into the blockchain industry.</p>
+<h2>Gaming dominance dwindles</h2>
+<p>The gaming sector remains the most dominant in terms of user activity. However, its overall share of the dApp market has declined slightly, falling from 28% to 26% on a quarterly basis. The report noted that this could be users shifting to more innovative applications, such as AI and social platforms.</p>
+<p>Toncoin-based gamified wallet HOT Game was the most active dApp, gathering 1.64 million UAW in the third quarter, while <a href="https://cryptoslate.com/coins/ronin/">Ronin</a>-based <a href="https://cryptoslate.com/coins/pixels/">Pixels</a> was the fifth largest dApp by usage, reaching 656,000 UAW and being the only pure gaming title among the five most used applications last quarter.</p>
+<p>The social dApp sector captured 19% of all activity in the third quarter, with the modular data layer CARV exhibiting 1.24 million UAW and becoming the most active social dApp in the period.</p>
+<h2>DEX growth</h2>
+<p>The total value locked (TVL) in the DeFi ecosystem slumped 12% in the third quarter, leaving the over-$150 billion area to end September at nearly $133 billion.</p>
+<p>The report highlighted that decentralized exchanges (DEX) <a href="https://cryptoslate.com/coins/raydium/">Raydium</a> and <a href="https://cryptoslate.com/coins/uniswap/">Uniswap</a> witnessed substantial growth despite the falling TVL, particularly due to memecoin trading.</p>
+<p><a href="https://cryptoslate.com/coins/solana/">Solana</a>-based Raydium registered 1.18 million daily UAW last quarter, while Uniswap recorded 459,000 daily UAW across V2 and V3 over the period.</p>
+<p><a href="https://cryptoslate.com/coins/jupiter-ag/">Jupiter Exchange</a> added to DEX activity in the third quarter, registering 216,000 daily UAW and becoming the third-largest DeFi application by user engagement.</p>
+<p>The post <a href="https://cryptoslate.com/dapps-see-70-surge-in-usage-to-hit-record-activity-levels-during-q3/">Dapps see 70% surge in usage to hit record activity levels during Q3</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/dapps-see-70-surge-in-usage-to-hit-record-activity-levels-during-q3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/dapp.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/dapp.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ronin co-founder slams &#8216;inductive fallacy&#8217; in memecoin vs. altcoin revenue debate</title>
+		<link>https://cryptoslate.com/ronin-co-founder-slams-inductive-fallacy-in-memecoin-vs-altcoin-revenue-debate/</link>
+					<comments>https://cryptoslate.com/ronin-co-founder-slams-inductive-fallacy-in-memecoin-vs-altcoin-revenue-debate/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 09 Oct 2024 18:42:23 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Memecoins]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=447437</guid>
+
+					<description><![CDATA[<p>Axie Infinity and Ronin co-founder Jeff Zirlin stated that the use of revenues to compare the success of altcoins and memecoins is an &#8220;inductive fallacy,&#8221; as regulatory clarity still holds back these tokens&#8217; potential. Murad Mahmudov, a crypto trader and influencer who first gained recognition for his Bitcoin analysis, recently pivoted to memecoins. He recently claimed [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ronin-co-founder-slams-inductive-fallacy-in-memecoin-vs-altcoin-revenue-debate/">Ronin co-founder slams &#8216;inductive fallacy&#8217; in memecoin vs. altcoin revenue debate</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/axie-infinity/">Axie Infinity</a> and <a href="https://cryptoslate.com/coins/ronin/">Ronin</a> co-founder Jeff Zirlin <a href="https://x.com/Jihoz_Axie/status/1844004766218612861">stated</a> that the use of revenues to compare the success of altcoins and memecoins is an &#8220;inductive fallacy,&#8221; as regulatory clarity still holds back these tokens&#8217; potential.</p>
+<p>Murad Mahmudov, a crypto trader and influencer who first gained recognition for his Bitcoin analysis, recently pivoted to memecoins. He recently claimed during his panel at Token2049 in Singapore that memecoins are more attractive than regular altcoins because the latter generate low revenue.</p>
+<p>Zirlin, known as Jihoz on social media, argued that Murad&#8217;s prediction, which suggests that altcoin revenues will remain unattractive compared to meme coins, overgeneralizes the current market conditions and dismisses future potential.</p>
+<p>He further criticized the thesis for glossing over <a href="https://cryptoslate.com/coins/uniswap/">Uniswap</a>, which he believes is a &#8220;sleeping giant&#8221; that has shown remarkable growth over the past few years.</p>
+<h2>Uniswap as a proxy</h2>
+<p>According to data shared by Jihoz, Uniswap has experienced significant increases in trading volume, growing from $6.42 billion in 2021 to a staggering $383.01 billion projected for 2024.</p>
+<p>He emphasized that if Uniswap had activated its fee switch mechanism, the DEX could have accumulated $314 million in its treasury, which is governed by token holders.</p>
+<p>This capital could then be used for a buyback and burn of approximately 43 million UNI tokens, a move that could substantially impact the circulating supply on major exchanges such as Binance and Coinbase.</p>
+<p>According to Jihoz:</p>
+<blockquote><p>“While this will not happen today, it&#8217;s possible in the future. Especially as regulatory clarity enters the token market.”</p></blockquote>
+<h2>Utility as a rally driver</h2>
+<p>Jihoz also pointed to the 2021 success of Axie Infinity, a play-to-earn platform, which generated over $1 billion in revenue.</p>
+<p>He highlighted how the utility of the AXS token in the Axie &#8220;breeding&#8221; process caused a supply crunch that saw the token rise from $0.10 to $160 within a year, reaching a fully diluted valuation (FDV) of $40 billion at its peak.</p>
+<p>The token AXS plays a role in the &#8220;breeding&#8221; process of new Axies, the game&#8217;s assets needed to play battles. As more players interacted with Axie Infinity, AXS’ price jumped from $0.14 to nearly $165 in one year.</p>
+<p>In his critique, Jihoz argued that Murad is ignoring past events like the Axie rally and the potential future of altcoins such as Uniswap. He added:</p>
+<blockquote><p>&#8220;He&#8217;s telling us what we already know, but markets are about predicting where the puck is going rather than summarizing and acting on the present as if nothing will ever change.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/ronin-co-founder-slams-inductive-fallacy-in-memecoin-vs-altcoin-revenue-debate/">Ronin co-founder slams &#8216;inductive fallacy&#8217; in memecoin vs. altcoin revenue debate</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ronin-co-founder-slams-inductive-fallacy-in-memecoin-vs-altcoin-revenue-debate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/altcoin-low-revenue.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/altcoin-low-revenue.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Trump-backed World Liberty Financial launches whitelist process, US retail investors left out</title>
+		<link>https://cryptoslate.com/trump-backed-world-liberty-financial-launches-whitelist-process-us-retail-investors-left-out/</link>
+					<comments>https://cryptoslate.com/trump-backed-world-liberty-financial-launches-whitelist-process-us-retail-investors-left-out/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2024 18:16:16 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=445953</guid>
+
+					<description><![CDATA[<p>Former President Donald Trump announced the launch of World Liberty Financial&#8217;s (WLFI) whitelist process on Sept. 30 and reiterated his plan to &#8220;make America great again&#8221; by leveraging crypto. To qualify for WLFI&#8217;s early access, users must undergo a know-your-customer (KYC) process to get on the whitelist. The platform&#8217;s website states that there are no [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-backed-world-liberty-financial-launches-whitelist-process-us-retail-investors-left-out/">Trump-backed World Liberty Financial launches whitelist process, US retail investors left out</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Former President <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> announced the launch of World Liberty Financial&#8217;s (WLFI) whitelist process on Sept. 30 and reiterated his plan to &#8220;make America great again&#8221; by leveraging crypto.</p>
+<p>To qualify for WLFI&#8217;s early access, users must undergo a know-your-customer (KYC) process to get on the whitelist. The platform&#8217;s website states that there are no plans to launch a native token, and the whitelist does not mean there will be a token offer in any jurisdiction.</p>
+<p>However, it also clarified that &#8220;if and when&#8221; a token is launched, it will be available to users who have completed the KYC process.</p>
+<p>The whitelisting process is open for accredited US investors and any non-US persons. US-based retail investors will not be able to participate in the process for now due to the regulatory landscape in the country.</p>
+<p>The WLFI team attributed the limitation to &#8220;outdated policies and regulations in the US&#8221; and said it is working on overturning it.</p>
+<p>The KYC process consists of informing a wallet, sending a scan of a government-issued identification document, and a liveness check in a camera. Additionally, US users are also required to provide proof that they are accredited investors.</p>
+<p>WLFI did not disclose how long it would take to process the whitelist applications.</p>
+<p>According to DEX Screener, three fake versions of the WLFI token <a href="https://dexscreener.com/search?q=wlfi">have been created</a> in the hours since the whitelist was announced.</p>
+<h2>Leveraging US-pegged stablecoins</h2>
+<p>WLFI was created by Donald Trump&#8217;s sons Eric Trump and Donald Trump Jr., with the former US president supporting their venture in DeFi.</p>
+<p>In a series of posts on Sept. 4, WLFI <a href="https://cryptoslate.com/trump-familys-upcoming-defi-project-aims-to-cement-us-dollar-dominance-via-stablecoin-revolution/">said</a> it is collaborating with leading money market protocol <a href="https://cryptoslate.com/coins/aave/">Aave</a> and clarified that its primary goal is to ensure the US dollar maintains its dominance in the global financial system via stablecoins.</p>
+<p>Recently, WLFI has been on a spree of announcements regarding its advisors. The two latest additions to the team are <a href="https://x.com/worldlibertyfi/status/1838686540823957587">Matthew Morgan</a>, CEO of blockchain gaming platform Mixie AI, and <a href="https://x.com/worldlibertyfi/status/1839340021066727779">Ryan Fang</a>, founder of Tomo Wallet and co-founder of blockchain services provider Ankr.</p>
+<p>The post <a href="https://cryptoslate.com/trump-backed-world-liberty-financial-launches-whitelist-process-us-retail-investors-left-out/">Trump-backed World Liberty Financial launches whitelist process, US retail investors left out</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-backed-world-liberty-financial-launches-whitelist-process-us-retail-investors-left-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/donald-trump-wlfi.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/donald-trump-wlfi.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>UAE&#8217;s clear regulations have fostered a balanced, diversified crypto ecosystem – Chainalysis</title>
+		<link>https://cryptoslate.com/uaes-clear-regulations-have-fostered-a-balanced-diversified-crypto-ecosystem-chainalysis/</link>
+					<comments>https://cryptoslate.com/uaes-clear-regulations-have-fostered-a-balanced-diversified-crypto-ecosystem-chainalysis/#respond</comments>
+		
+		<dc:creator><![CDATA[Monika Ghosh]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2024 17:45:41 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=445282</guid>
+
+					<description><![CDATA[<p>In most countries, the rate at which crypto activity grows across transaction size brackets varies significantly. However, the United Arab Emirates (UAE) is an outlier with growth across all brackets, which indicates a &#8216;balanced and comprehensive adoption landscape,&#8217; according to a recent Chainalysis report. Chainalysis highlighted that the UAE received over $30 billion in crypto [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/uaes-clear-regulations-have-fostered-a-balanced-diversified-crypto-ecosystem-chainalysis/">UAE&#8217;s clear regulations have fostered a balanced, diversified crypto ecosystem – Chainalysis</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In most countries, the rate at which crypto activity grows across transaction size brackets varies significantly. However, the United Arab Emirates (UAE) is an outlier with growth across all brackets, which indicates a &#8216;balanced and comprehensive adoption landscape,&#8217; according to a recent Chainalysis <a href="https://www.chainalysis.com/blog/middle-east-north-africa-crypto-adoption-2024/">report</a>.</p>
+<p><a href="https://cryptoslate.com/companies/chainalysis/">Chainalysis</a> highlighted that the UAE received over $30 billion in crypto between July 2023 and June 2024, ranking in the top 40 globally. It added that this growth is driven by a combination of factors, including regulatory innovation, institutional interest, and expanding market activity.</p>
+<p>Crypto received through small and large retail investor activity, with transaction sizes of less than $1,000 and between $1,000 and $10,000, respectively, increased by over 75% year-on-year.</p>
+<p>Meanwhile, value received through institutional investor activity — transaction sizes between $1 million and $10 million — increased by over 50% annually.</p>
+<h2>Rapid yet diversified growth</h2>
+<p>The UAE is the third-largest crypto economy in the MENA region. However, its crypto ecosystem is more diversified than other countries within the region, where crypto transactions primarily take place through centralized exchanges.</p>
+<p>DeFi adoption in the UAE is higher than the global average, with a significant proportion of transactions taking place through decentralized exchanges (DEXs). Globally, 27.8% of crypto transactions occur via DEXs, whereas in the UAE, the percentage stands at 32.4% — the highest across MENA.</p>
+<p>The total value of crypto received via DeFi services in the UAE grew by 74% compared to last year, while tokens received through DEXs increased 87% to $11.3 billion from around $6 billion.</p>
+<p>Crypto activity in the UAE has also escalated since it started attracting blockchain and crypto firms. Many companies, including Chainalysis and <a href="https://cryptoslate.com/companies/bybit/">Bybit</a>, have established headquarters in the UAE, while others, like Crypto.com, have set up regional bases in the country.</p>
+<p>Arushi Goel, head of policy for the Middle East and Africa (MENA) at Chainalysis, said:</p>
+<blockquote><p>“Traditional financial institutions such as banks are actively exploring their roles within the crypto ecosystem, showcasing the growth of a crypto-TradFi nexus. This engagement is further supported by a robust and evolving regulatory framework.”</p></blockquote>
+<h2>Regulatory landscape</h2>
+<p>Regulators across the UAE have been striving to balance crypto innovation with investor protection. In the UAE, the Securities and Commodities Authority (SCA) regulates crypto services, while the central bank supervises payment token services.</p>
+<p>The establishment of Dubai&#8217;s Virtual Assets Regulatory Authority (VARA) in 2022 has played a critical role in attracting crypto businesses and talents to the country. Dubai&#8217;s regulatory framework has received a global spotlight and has provided a precedent for other jurisdictions within the UAE.</p>
+<p>Deepa Raja Carbon, managing director and vice chairperson of VARA, told Goel:</p>
+<blockquote><p>&#8220;We&#8217;ve identified over a thousand entities conducting crypto-related activity within Dubai, and we’re working through a legacy transition. Over the next year, we expect to see these entities licensed.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/uaes-clear-regulations-have-fostered-a-balanced-diversified-crypto-ecosystem-chainalysis/">UAE&#8217;s clear regulations have fostered a balanced, diversified crypto ecosystem – Chainalysis</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/uaes-clear-regulations-have-fostered-a-balanced-diversified-crypto-ecosystem-chainalysis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/crypto-regulation.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/crypto-regulation.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Osmosis reveals Polaris for wallet agnostic one click trading across blockchains</title>
+		<link>https://cryptoslate.com/osmosis-reveals-polaris-for-wallet-agnostic-one-click-trading-across-blockchains/</link>
+					<comments>https://cryptoslate.com/osmosis-reveals-polaris-for-wallet-agnostic-one-click-trading-across-blockchains/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2024 14:23:23 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=443285</guid>
+
+					<description><![CDATA[<p>Osmosis, the leading interchain decentralized exchange (DEX) and DeFi hub on Cosmos has unveiled plans for a new product called Polaris, described as a &#8220;Token Portal&#8221; designed to address fragmentation issues in the digital assets ecosystem. According to information shared with CryptoSlate, Polaris aims to provide a unified interface for trading and managing tokens across [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/osmosis-reveals-polaris-for-wallet-agnostic-one-click-trading-across-blockchains/">Osmosis reveals Polaris for wallet agnostic one click trading across blockchains</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Osmosis, the leading interchain decentralized exchange (DEX) and DeFi hub on Cosmos has unveiled plans for a new product called Polaris, described as a &#8220;Token Portal&#8221; designed to address fragmentation issues in the digital assets ecosystem.</p>
+<p>According to information shared with <em>CryptoSlate</em>, Polaris aims to provide a unified interface for trading and managing tokens across multiple blockchain networks. The project is positioned as a solution to what Osmosis terms &#8220;The Great Chain Divide&#8221; &#8211; the tendency for individual blockchain ecosystems to create siloed environments that fragment liquidity and complicate user experiences.</p>
+<p><a href="https://cryptoslate.com/osmosis-co-founder-sunny-aggarwal-on-costumes-cosmos-and-the-bitcoin-renaissance/">Sunny Aggarwal</a>, Co-Founder of Osmosis and Polaris, told <em>CryptoSlate</em>,</p>
+<blockquote><p>&#8220;You’ll be able to trade all tokens, across all chains, from one seamless interface. As we continue to innovate, Polaris and Osmosis will work hand in hand to deliver an unparalleled user experience, pushing the boundaries of what’s possible in DeFi.&#8221;</p></blockquote>
+<p>The platform intends to abstract away the complexities of <a href="https://cryptoslate.com/defi-adoption-varies-across-chains-btc-price-affects-velocity/">cross-chain</a> interactions, allowing users to perform trades between different networks with a single click.</p>
+<p>Polaris aims to streamline cross-chain interactions through several key features. Users can manage assets across various ecosystems using their existing wallets, eliminating the need for multiple wallet downloads.</p>
+<p>The platform offers one-click trading across networks, handling conversions and bridging automatically. Multi-chain portfolio tracking allows users to monitor assets, performance, and transactions across all networks from a single interface.</p>
+<p>Polaris also facilitates seamless gas token acquisition for any chain directly from the user&#8217;s existing wallet. Notably, the platform employs bridge and DEX abstraction, enabling it to scale across chains without being tied to specific liquidity venues or bridges. This approach allows Polaris to leverage existing solutions, providing users with efficient access to optimal liquidity across different networks.</p>
+<p><a href="https://cryptoslate.com/podcasts/osmosis-founder-envisions-cosmos-as-bitcoins-application-layer-in-defi-future/">Osmosis</a> reports that its DEX has facilitated over $35 billion in trading volume to date, with more than 100 blockchains connected via the IBC protocol. The team behind Osmosis views Polaris as an evolution of their approach, leveraging lessons learned from building interoperability solutions in the Cosmos ecosystem.</p>
+<p>The announcement emphasizes Polaris&#8217; potential to integrate with existing liquidity venues and bridge solutions rather than compete directly with chain-specific DEXes. This approach is intended to allow for rapid expansion across diverse blockchain ecosystems, including EVM-compatible and non-EVM networks like Solana, TON, and <a href="https://cryptoslate.com/osmosis-dao-backs-zero-fee-bitcoin-bridge-to-cosmos/">Bitcoin</a>.</p>
+<p>Osmosis positions this new offering as a response to the limitations of current <a href="https://cryptoslate.com/nomic-and-osmosis-waive-btc-bridging-fees-in-landmark-dao-to-dao-partnership/">multi-chain</a> products, which they argue still provide chain-centric rather than truly user-centric experiences. The team believes that by unbundling the user interface from custody, liquidity, and bridges, Polaris can deliver a more flexible and scalable platform.</p>
+<p>Polaris will be fully unveiled at Solana Breakpoint 2024, during which the crypto community is expected to receive more details about the platform&#8217;s functionality and roadmap.</p>
+<p>The post <a href="https://cryptoslate.com/osmosis-reveals-polaris-for-wallet-agnostic-one-click-trading-across-blockchains/">Osmosis reveals Polaris for wallet agnostic one click trading across blockchains</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/osmosis-reveals-polaris-for-wallet-agnostic-one-click-trading-across-blockchains/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/polaris-app.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/polaris-app.jpg" length="1024" type="image/jpg"/>
+	</item>
+		<item>
+		<title>CFTC&#8217;s $175,000 fine on Uniswap Labs sparks dissent over stifling DeFi innovation</title>
+		<link>https://cryptoslate.com/cftcs-175000-fine-on-uniswap-labs-sparks-dissent-over-stifling-defi-innovation/</link>
+					<comments>https://cryptoslate.com/cftcs-175000-fine-on-uniswap-labs-sparks-dissent-over-stifling-defi-innovation/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 17:26:22 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=442121</guid>
+
+					<description><![CDATA[<p>Commissioner Summer K. Mersinger voiced strong opposition to the Commodity Futures Trading Commission&#8217;s (CFTC) decision to impose a $175,000 fine on Uniswap Labs for its illegal digital asset derivatives trading. In her dissent, Mersinger criticized the agency&#8217;s reliance on &#8220;regulation through enforcement,&#8221; arguing that the approach risks stifling innovation in DeFi and driving developers out [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/cftcs-175000-fine-on-uniswap-labs-sparks-dissent-over-stifling-defi-innovation/">CFTC&#8217;s $175,000 fine on Uniswap Labs sparks dissent over stifling DeFi innovation</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Commissioner Summer K. Mersinger voiced strong opposition to the Commodity Futures Trading Commission&#8217;s (CFTC) decision to impose a $175,000 fine on <a href="https://cryptoslate.com/companies/uniswap-labs/">Uniswap Labs</a> for its illegal digital asset derivatives trading.</p>
+<p>In her <a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/mersingerstatement090424">dissent</a>, Mersinger criticized the agency&#8217;s reliance on &#8220;regulation through enforcement,&#8221; arguing that the approach risks stifling innovation in DeFi and driving developers out of the US.</p>
+<p>She added:</p>
+<blockquote><p>&#8220;This case bears the hallmarks of regulation through enforcement,” “Rather than providing clarity for DeFi protocols, we penalize those trying to comply.&#8221;</p></blockquote>
+<h2>Enforcement action</h2>
+<p>The CFTC&#8217;s <a href="https://www.cftc.gov/PressRoom/PressReleases/8961-24">enforcement action</a> targeted Uniswap Labs for its role in facilitating trading through its decentralized exchange (DEX). The protocol allows users to create liquidity pools to trade pairs of digital assets, including leveraged tokens.</p>
+<p>These tokens provide exposure to price movements of assets like Bitcoin and Ethereum and allow users to trade with leverage — amplifying potential gains and risks.</p>
+<p>According to the CFTC, the leveraged digital asset transactions conducted on the <a href="https://cryptoslate.com/coins/uniswap/">Uniswap</a> DEX constituted retail commodity contracts, which must be conducted on a registered contract market under US law.</p>
+<p>Uniswap had not registered its platform with the CFTC, which led to the violation. The order also found that these transactions did not result in the actual delivery of the assets within 28 days, further solidifying the need for regulatory oversight.</p>
+<p>As part of the settlement, Uniswap Labs agreed to pay a $175,000 fine and to cease and desist from further violations of the CEA. The CFTC acknowledged that Uniswap had cooperated with the investigation, which contributed to the reduced penalty.</p>
+<p>The DeFi platform is also <a href="https://cryptoslate.com/uniswap-labs-slams-sec-for-misguided-attempts-to-regulate-defi-in-response-to-wells-notice/">facing regulatory action</a> by the SEC, which recently issued a Wells Notice against the firm.</p>
+<h2>Concerns about innovation</h2>
+<p>Mersinger&#8217;s dissent warned that the CFTC&#8217;s approach could push responsible DeFi developers overseas, leaving behind actors with less concern for regulatory compliance.</p>
+<p>She highlighted that Uniswap Labs had taken steps to block certain leveraged tokens following a previous CFTC enforcement action, but the current settlement still penalized the company for actions before those blocks were implemented.</p>
+<p>According to Mersinger:</p>
+<blockquote><p>“This settlement creates a precedent that could deter innovation and compliance.&#8221;</p></blockquote>
+<p>She called for the CFTC to engage in rulemaking that provides clearer guidance for DeFi platforms rather than relying solely on enforcement actions.</p>
+<p>The Uniswap Labs settlement highlights the ongoing debate over how regulators should approach the rapidly evolving DeFi sector. While the CFTC has taken an enforcement-driven approach, voices like Mersinger suggest that a more collaborative regulatory framework may be needed to foster innovation while ensuring compliance.</p>
+<p>The post <a href="https://cryptoslate.com/cftcs-175000-fine-on-uniswap-labs-sparks-dissent-over-stifling-defi-innovation/">CFTC&#8217;s $175,000 fine on Uniswap Labs sparks dissent over stifling DeFi innovation</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/cftcs-175000-fine-on-uniswap-labs-sparks-dissent-over-stifling-defi-innovation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/uniswap-cftc.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/uniswap-cftc.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ethervista launches on Ethereum, aims to outshine Pump.fun with secure liquidity locks</title>
+		<link>https://cryptoslate.com/ethervista-launches-on-ethereum-aims-to-outshine-pump-fun-with-secure-liquidity-locks/</link>
+					<comments>https://cryptoslate.com/ethervista-launches-on-ethereum-aims-to-outshine-pump-fun-with-secure-liquidity-locks/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2024 18:15:34 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DEX]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Tokens]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Ethervista]]></category>
+		<category><![CDATA[Pump.fun]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=441873</guid>
+
+					<description><![CDATA[<p>Ethereum now has its own native platform — Ethervista — where people can create and launch memecoins in the same vein as Solana-based memecoin deployer Pump.fun. Ethervista is a decentralized exchange (DEX) that introduces a novel approach to liquidity management and token launches on the Ethereum network. One of its key features is the 5-day [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ethervista-launches-on-ethereum-aims-to-outshine-pump-fun-with-secure-liquidity-locks/">Ethervista launches on Ethereum, aims to outshine Pump.fun with secure liquidity locks</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> now has its own native platform — Ethervista — where people can create and launch memecoins in the same vein as <a href="https://cryptoslate.com/coins/solana/">Solana</a>-based memecoin deployer <a href="https://cryptoslate.com/products/pump-fun/">Pump.fun</a>.</p>
+<p>Ethervista is a decentralized exchange (DEX) that introduces a novel approach to liquidity management and token launches on the Ethereum network. One of its key features is the 5-day liquidity lock for creators, which helps prevent <a href="https://cryptoslate.com/how-traders-make-over-60k-per-week-rugging-98-of-memecoins-on-pumpfun/">rug pulls</a> that often occur within the first four days of a project&#8217;s launch on platforms like Pump.fun.</p>
+<p>Ethervista said it aims to promote a project&#8217;s long-term success by rewarding creators with liquidity and protocol fees that grow as trading volume increases. This model benefits both users and creators, making long-term commitments more profitable than quick sell-offs or liquidity withdrawals.</p>
+<h2>VISTA surge</h2>
+<p>Over the past 24 hours, Ethervista has gained significant traction within the community. The platform has consumed over 150 ETH in gas fees, and its first token, VISTA, has seen a rapid rise in value.</p>
+<p>VISTA is a deflationary token with a capped supply of 1 million. Ethervista said the token features an automatic buyback and burning mechanism, which reduces the overall supply and potentially increases the token&#8217;s value. The project has already burned over 2.17% of its total supply.</p>
+<p>Blockchain analytics platform <a href="https://cryptoslate.com/companies/arkham-intelligence/">Arkham Intelligence</a> noted that one trader turned $5,000 into $670,000 within 48 hours by trading VISTA. The firm reported:</p>
+<blockquote><p>&#8220;Trader 0x430 bought into Ethervista&#8217;s launch, spending $5,000 to secure over 5% of the supply. He spread his VISTA holdings across seven wallets and, after two days, realized over $670,000 in profit in ETH. That&#8217;s more than a 130x return.&#8221;</p></blockquote>
+<h2>Pump.fun milestone</h2>
+<p>The launch of the Ethereum-based platform coincides with Pump.fun&#8217;s revenue <a href="https://dune.com/adam_tehc/pumpfun">reaching $100 million</a> in just over seven months, making it the fastest-growing protocol by revenue in the crypto ecosystem.</p>
+<p>The success comes as the competitive landscape intensifies, with new rivals like SunPump on the TRON network attempting to capture market share.</p>
+<p>Recently, traders have been drawn to the <a href="https://cryptoslate.com/people/justin-sun/">Justin Sun</a>-backed SunPump, largely due to its <a href="https://cryptoslate.com/tron-founder-justin-sun-predicts-4-billion-revenue-boost-with-meme-strategy/">aggressive promotional efforts</a>. The TRON founder <a href="https://x.com/justinsuntron/status/1830872361358499892">revealed</a> on Sept. 3 that the project would implement a 100% on-chain buyback and burn process.</p>
+<p>The post <a href="https://cryptoslate.com/ethervista-launches-on-ethereum-aims-to-outshine-pump-fun-with-secure-liquidity-locks/">Ethervista launches on Ethereum, aims to outshine Pump.fun with secure liquidity locks</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ethervista-launches-on-ethereum-aims-to-outshine-pump-fun-with-secure-liquidity-locks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/09/ethereum-pumpfun.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/09/ethereum-pumpfun.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

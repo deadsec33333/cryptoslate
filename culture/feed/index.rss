@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Cryptocurrency Culture News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/culture/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/culture/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Sun, 08 Dec 2024 13:18:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Cryptocurrency Culture News | CryptoSlate</title>
+	<link>https://cryptoslate.com/culture/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trump, Bitcoin, and the race for tokenized capital markets</title>
+		<link>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/</link>
+					<comments>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[Jesse Knutson]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2024 13:18:11 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456125</guid>
+
+					<description><![CDATA[<p>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities. Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind Bitcoin’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>The following is a guest article from Jesse Knutson, Head of Operations at Bitfinex Securities.</em></p>
+<p><span style="font-weight: 400;">Donald Trump&#8217;s re-election victory and the massive success of the Bitcoin ETFs earlier in the year have been major catalysts behind <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>’s ascent towards $100,000. Gains over the last few weeks have been driven by the anticipation of Trump 2.0 making </span><span style="font-weight: 400;">the US the ‘crypto capital of the world’ </span><span style="font-weight: 400;">and a financial services industry getting its first real taste of ‘number go up’. </span></p>
+<p><span style="font-weight: 400;">While the full details are yet to emerge, the number of Bitcoiners in Trump’s inner circle – including D.O.G.E. head <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a> – suggest Trump could come good on his crypto election promises. Fostering a more accommodative approach to banking, self-custody, and digital assets could have massive global knock-on effects. The success of the Bitcoin ETFs did much to destigmatize Bitcoin amongst institutional investors; US government support would likely do the same thing amongst governments.  </span></p>
+<p><span style="font-weight: 400;">A pro-Bitcoin administration will almost certainly drive prices higher and result in more countries following suit. In my Bitcoin pitch, I always avoided the end game to people in suits—institutional investors, regulators, and policymakers—but suddenly, hyperbitcoinzation and hash wars look entirely possible. </span></p>
+<p><span style="font-weight: 400;">What does this mean for Bitcoin first movers like El Salvador? Or the Bitcoin curious like Argentina? It’s hard to say. On the one hand, as the largest contributor and shareholder in the IMF, a more accommodative US stance on Bitcoin would likely end the IMF’s opposition to things like El Salvador’s 2021 Bitcoin law. On the other hand, it could steal a lot of thunder from smaller economies, leveraging Bitcoin to attract human and financial capital. </span></p>
+<p><span style="font-weight: 400;">Capital markets, though, are a different game. I’ve often said that the opportunity to monetize Bitcoin-based capital markets is naturally skewed to small to mid-sized economies. Bitfinex Securities is registered and licensed not in New York, London, or even Singapore but in El Salvador and Kazkahstan’s Astana International Financial Center. Two jurisdictions that not only have buy-in from the highest echelons of their respective governments, but maybe even more importantly, are places where financial services account for a very small proportion of GDP. There are fewer moats and less pushback from entrenched players in legacy markets.  It’s a good bet.  Lots of upside and minimal downside. </span></p>
+<p><span style="font-weight: 400;">The tokenization we have seen in financial hubs and by major financial institutions to date looks to me like token tokenization. Earlier this month, </span><span style="font-weight: 400;">UBS Asset Management launched a</span> <strong><a href="https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html">USD Money Market Investment Fund</a></strong> <span style="font-weight: 400;">built on Ethereum. The fund </span><i><span style="font-weight: 400;">“seeks to open the door to the world of decentralized finance, reduce barriers and provide access to products and services to a broader range of market participants, bringing them closer together”</span></i><span style="font-weight: 400;">, but is also only available through authorized distribution partners. This seems like corporate buzzwordery. More smoke and mirrors.  Authorized distribution partners sound like the antithesis of decentralized finance. </span></p>
+<p><span style="font-weight: 400;">A number of the big banks have built proprietary tokenization technology. HSBC, for example, has </span><a href="https://www.gbm.hsbc.com/en-gb/solutions/hsbc-orion"><span style="font-weight: 400;"><strong>Orion</strong></span></a><span style="font-weight: 400;">. UBS has Tokenize. Goldman’s has the Goldman Sachs Digital Asset Platform. </span><span style="font-weight: 400;">Most (maybe all) of these solutions limit participation to institutional and/or accredited investors, settle either in fiat or a CBDC, offer no integration with Bitcoin or Tether, and rely on the usual host of conventional capital market participants like transfer agents, custodians, and depositories with no effort at disintermediation. The future of finance looks a lot like the past. </span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">This, I think, is the opportunity for El Salvador and other countries like it: streamline capital markets, disintermediate technologically unnecessary roles, support self-custody and peer-to-peer trading between whitelisted counterparties, allow for broad market participation and encourage links between conventional and digital asset markets through Tether and Bitcoin. This could yield an alternative to conventional capital markets that allows issuers and investors to interact much more directly and is cheaper, faster, and more inclusive. </span></p>
+<p><span style="font-weight: 400;">Wall Street’s approach seems to focus almost exclusively on the efficiencies of tokenized securities while overlooking the opportunity to streamline markets, return more control to investors, or encourage participation in capital markets from a broader range of investors and issuers.  I think it’s mostly about firing the back office and improving margins. Regardless of Trump’s Bitcoin strategy, it’s difficult to imagine tokenization in major markets, weighed down by layers of incumbents and vested interests, following the El Salvador model. </span><span style="font-weight: 400;">They seem to want innovation without change.</span></p>
+<p><span style="font-weight: 400;">I think a race between the competing approaches to tokenization will emerge in the coming years, fuelled in part by a more digital-assets-friendly US administration: developed vs. developing economies, open source vs. permissioned chains, inclusion vs. institutional only, Bitcoin and Tether vs. CBDCs and fiat. It’s much too early to say which path will emerge as the dominant approach, but I think there’s a good chance that freer, cheaper, lower friction markets can come out on top.</span></p>
+<p>The post <a href="https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/">Trump, Bitcoin, and the race for tokenized capital markets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-bitcoin-and-the-race-for-tokenized-capital-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</title>
+		<link>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/</link>
+					<comments>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:45:48 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456388</guid>
+
+					<description><![CDATA[<p>Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (BTC) reserve is “crazy. &#8220; Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued: &#8220;Of all the prices to support, why would the government choose to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) reserve is “crazy. &#8220;</span></p>
+<p><span style="font-weight: 400;">Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued:</span></p>
+<blockquote><p><strong>&#8220;Of all the prices to support, why would the government choose to support by accumulating a sterile inventory, a bunch of Bitcoin? There is no reason other than to pander to generous special interest campaign contributors.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">His remarks follow</span> <strong><a href="https://cryptoslate.com/trumps-crypto-advisory-council-to-setup-promised-strategic-bitcoin-reserve-report/">reports</a></strong><span style="font-weight: 400;"> that President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump’s</a> Crypto Advisory Council is expected to establish the &#8220;Strategic Bitcoin Reserve.&#8221;</span></p>
+<p><span style="font-weight: 400;">The idea of a national Bitcoin reserve surfaced during the Bitcoin 2024 conference earlier this year, where both Trump and Robert F. Kennedy Jr. made keynote speeches, along with several lawmakers, including Senator <a href="https://cryptoslate.com/people/cynthia-lummis/">Cynthia Lummis</a> (R-WY), who introduced the &#8220;</span><strong><a href="https://cryptoslate.com/lummis-unveils-the-bitcoin-act-to-establish-strategic-btc-reserve-for-the-us/">Bitcoin Act</a></strong><span style="font-weight: 400;">&#8221; legislation proposing the creation of such an institute at the event.</span></p>
+<h2><strong>Bitcoin reserve idea gaining traction</strong></h2>
+<p><span style="font-weight: 400;">The idea of creating Bitcoin reserves is gaining traction beyond institutions now, with lawmakers and politicians around the world warming to the concept. </span></p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/satoshi-action-fund/">Satoshi Act Fund</a> founder <a href="https://cryptoslate.com/people/dennis-porter/">Dennis Porter</a> recently revealed he is in discussions with Texas state officials to introduce</span> <a href="https://x.com/Dennis_Porter_/status/1859640897715175433">legislation</a> for <span style="font-weight: 400;">a strategic Bitcoin fund. </span><span style="font-weight: 400;">Additionally, on Nov. 14, Representative Mike Cabell</span> <strong><a href="https://cryptoslate.com/pennsylvannia-introduces-bill-to-use-7-billion-state-fund-for-bitcoin-strategic-reserve-purchases/">introduced a bill</a></strong><span style="font-weight: 400;"> to create a BTC reserve in Pennsylvania using the state&#8217;s $7 billion fund.</span></p>
+<p><span style="font-weight: 400;">Porter said Texas and Pennsylvania are the first of many and claimed that up to 10 more US states will likely follow suit before the year ends in an attempt to front-run the Trump administration&#8217;s plans for a federal Bitcoin reserve.</span></p>
+<p><span style="font-weight: 400;">The examples in the US are motivating politicians in other countries. A Brazilian lawmaker</span> <strong><a href="https://cryptoslate.com/brazilian-lawmaker-proposes-18-billion-bitcoin-reserve-initiative/">pushed</a></strong><span style="font-weight: 400;"> for a Bitcoin reserve in the country through legislation introduced on Nov. 26, which would allocate up to nearly $19 billion in BTC.</span></p>
+<p><span style="font-weight: 400;">Meanwhile,</span><span style="font-weight: 400;"> Poland&#8217;s libertarian presidential candidate, Sławomir Mentzen, wants to</span> <strong><a href="https://cryptoslate.com/poland-presidential-candidate-wants-to-allow-nation-to-hold-bitcoin-with-strategic-reserve/">allow the country</a></strong><span style="font-weight: 400;"> to hold BTC as a strategic reserve.</span></p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Kraken survey reveals crypto holders&#8217; struggle with emotional trading decisions</title>
+		<link>https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/</link>
+					<comments>https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 21:30:43 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Trading]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456200</guid>
+
+					<description><![CDATA[<p>A new survey by Kraken revealed that 63% of US crypto holders believe emotional decision-making has negatively impacted their portfolios, with fear of missing out (FOMO) and fear, uncertainty, and doubt (FUD) playing significant roles. The survey, which gathered responses from 1,248 crypto investors, found that 84% had made decisions influenced by FOMO, and 81% [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/">Kraken survey reveals crypto holders&#8217; struggle with emotional trading decisions</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A new <a href="https://www.kraken.com/learn/crypto-fomo">survey</a> by <a href="https://cryptoslate.com/companies/kraken/">Kraken</a> revealed that 63% of US crypto holders believe emotional decision-making has negatively impacted their portfolios, with fear of missing out (FOMO) and fear, uncertainty, and doubt (FUD) playing significant roles.</p>
+<p>The survey, which gathered responses from 1,248 crypto investors, found that 84% had made decisions influenced by FOMO, and 81% acted on FUD.  Missing out on significant price surges emerged as the top emotional trigger for 60% of participants, compared to 17% who feared missing price dips.</p>
+<p>The findings underline how emotions continue to drive trading strategies in the volatile crypto market, especially as crypto becomes an <a href="https://cryptoslate.com/survey-suggests-democrats-see-crypto-as-more-important-to-election-than-republicans/">increasingly important</a> part of investors&#8217; portfolios.</p>
+<h2>FOMO and FUD</h2>
+<p>FOMO, the anxiety of missing a profitable opportunity, frequently pushes investors to act impulsively, particularly during market highs. The survey revealed that 58% of crypto holders frequently make decisions influenced by FOMO, with 26% occasionally succumbing to its effects.</p>
+<p>FUD, on the other hand, often causes hesitation or panic. Despite this, many respondents acknowledged that their reactions to these emotions had caused them to miss long-term opportunities. In fact, 88% of investors said they felt they had missed out on major gains.</p>
+<p>Age and gender differences play a role in emotional investing. Investors aged 45 to 60 were the most likely to feel they missed out on early gains (78%) but were also the most optimistic about the future, with 74% expressing confidence in significant returns ahead.</p>
+<p>Gender disparities were also evident, as men reported more frequent decisions based on FOMO (66%) compared to women (42%). Male investors also expressed higher regret, with 70% believing they had missed out on major gains, versus 48% of female respondents.</p>
+<h2>Social media influence</h2>
+<p>Social media emerged as a major factor influencing trading behavior.</p>
+<p>Among respondents who relied on platforms like Twitter or Instagram for market insights, 85% reported significant portfolio impacts from emotional trades. The rapid flow of information often amplifies FOMO and FUD, making it challenging for investors to maintain a rational approach.</p>
+<p>Despite the challenges, many investors are turning to strategies designed to reduce impulsive decisions. The survey found that 59% of respondents use dollar-cost averaging (DCA), a method involving regular investments regardless of price fluctuations.</p>
+<p>Other tools gaining traction include automated recurring buys, custom orders to target specific prices, and AI trading bots to eliminate emotional bias. These strategies help investors focus on long-term goals rather than reacting to short-term market movements.</p>
+<p>Despite the prevalence of FOMO and FUD, 84% of respondents <a href="https://cryptoslate.com/crypto-top-two-choice-for-etf-investors-in-latest-schwab-survey/">remain hopeful</a> about the future of crypto. Older investors, particularly those aged 45 and up, displayed the highest levels of optimism, with many believing significant gains still lie ahead.</p>
+<p>The post <a href="https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/">Kraken survey reveals crypto holders&#8217; struggle with emotional trading decisions</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/kraken-blockchain-security.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/kraken-blockchain-security.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Trump celebrates Bitcoin surpassing $100k milestone following election win</title>
+		<link>https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/</link>
+					<comments>https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 20:22:24 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Election 2024]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456177</guid>
+
+					<description><![CDATA[<p>President-elect Donald Trump lauded Bitcoin&#8217;s (BTC) record-breaking ascent past $100,000, congratulated Bitcoin investors on his Truth Social platform, and attributed the milestone to his influence. Trump declared that Bitcoin investors are &#8220;welcome,&#8221; framing the surge as a testament to his pro-growth policies. He said: &#8220;CONGRATULATIONS BITCOINERS!!! $100,000!!! YOU’RE WELCOME!!! Together, we will Make America Great Again!&#8221; [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Trump celebrates Bitcoin surpassing $100k milestone following election win</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>President-elect <span style="font-weight: 400;"><a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a></span> lauded Bitcoin&#8217;s <span style="font-weight: 400;">(<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>)</span><span style="box-sizing: border-box; margin: 0px; padding: 0px;"> record-breaking ascent past $100,000, congratulated Bitcoin investors on his Truth Social platform, and attributed</span> the milestone to his influence.</p>
+<p>Trump declared that Bitcoin investors are &#8220;<a href="https://truthsocial.com/@realDonaldTrump/posts/113600319916325790">welcome,</a>&#8221; framing the surge as a testament to his pro-growth policies. He said:</p>
+<blockquote><p>&#8220;CONGRATULATIONS BITCOINERS!!! $100,000!!! YOU’RE WELCOME!!! Together, we will Make America Great Again!&#8221;</p></blockquote>
+<p>Following the US election results on Nov. 6, Bitcoin experienced a series of all-time highs, culminating in a historic all-time high of $104,611 on Dec. 4. However, as of press time, the flagship crypto was trading around $98,300 following a retracement.</p>
+<p>Over this period, BTC delivered a staggering 36% return, with market sentiment buoyed by what many traders and analysts dubbed the &#8220;<a href="https://cryptoslate.com/bitcoin-expected-to-face-high-volatility-as-trump-trade-and-q4-seasonality-converge-bitfinex/">Trump trade.</a>&#8221;</p>
+<h2><strong>Trump trade</strong></h2>
+<p>Bitcoin&#8217;s rally gained traction in early October after a period of <a href="https://cryptoslate.com/bitcoin-on-track-for-longest-flat-market-in-halving-year-history/">prolonged stagnation</a>, driven by speculation surrounding the election&#8217;s outcome. Traders and investors began pouring into risk assets, including Bitcoin and US equities, anticipating that a Trump victory would catalyze a price surge.</p>
+<p>This pre-election momentum pushed BTC prices up 20% in just a month. Market analysts responded by revising their forecasts, aligning investment strategies with the bullish sentiment spurred by Trump&#8217;s political comeback.</p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/standard-chartered/">Standard Chartered&#8217;s</a> </span> global head of digital assets research, Geoffrey Kendrick, <strong><a href="https://cryptoslate.com/standard-chartered-advises-buying-bitcoin-below-60000-despite-geopolitical-uncertainty/">said</a></strong> investors should buy Bitcoin&#8217;s dip at $60,000 on Oct. 3, citing Trump&#8217;s potential win as a pivotal factor. Kendrick&#8217;s call coincided with growing market confidence in a pro-crypto administration.</p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/vaneck/">VanEck’s</a> </span>head of digital asset research, Matthew Sigel, echoed this optimism, raising the firm&#8217;s price target for Bitcoin to <a href="https://cryptoslate.com/vaneck-exec-predicts-institutional-tsunami-may-drive-bitcoin-to-180k-within-a-year/">$180,000</a> during the current bull cycle. Sigel attributed his bullish outlook to a combination of institutional demand and the political tailwinds from Trump&#8217;s election victory.</p>
+<p>Meanwhile, <span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/bitwise/">Bitwise</a> </span>CIO <a href="https://cryptoslate.com/people/matthew-hougan/">Matthew Hougan</a> described Trump&#8217;s presidency as heralding a &#8220;<a href="https://cryptoslate.com/trump-election-win-set-to-kick-off-golden-age-of-crypto-in-the-us-bitwise-cio/">Golden Age of Crypto.</a>&#8221; In a memo released after the election, Hougan suggested that Trump&#8217;s administration could usher in greater regulatory clarity for the US crypto market.</p>
+<p>Hougan emphasized that Bitcoin&#8217;s fundamentals entering 2024 were already robust, bolstered by institutional demand following the approval of spot Bitcoin ETFs in the US and the increasing adoption of real-world use cases.</p>
+<p>However, he noted that a pro-crypto government could amplify these gains, providing the final push to cement Bitcoin&#8217;s position as a mainstream asset class.</p>
+<p>The post <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Trump celebrates Bitcoin surpassing $100k milestone following election win</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin-whitehouse.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin-whitehouse.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Fed chair Powell views Bitcoin as digital gold, not a dollar competitor</title>
+		<link>https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/</link>
+					<comments>https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 22:32:41 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455982</guid>
+
+					<description><![CDATA[<p>The Federal Reserve Chairman Jerome Powell dismissed the notion of Bitcoin as a replacement for the U.S. dollar, instead framing the leading crypto as a speculative asset comparable to gold. Powell shared his insights during an appearance at The New York Times DealBook Summit in Manhattan, emphasizing Bitcoin’s volatility and limited use as a form [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/">Fed chair Powell views Bitcoin as digital gold, not a dollar competitor</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The Federal Reserve Chairman <a href="https://cryptoslate.com/people/jerome-powell/">Jerome Powell</a> dismissed the notion of Bitcoin as a replacement for the U.S. dollar, instead framing the leading crypto as a speculative asset comparable to gold. </span></p>
+<p>Powell shared his insights during an appearance at The New York Times DealBook Summit in Manhattan, emphasizing Bitcoin’s volatility and limited use as a form of payment or store of value.</p>
+<p>According to Powell:</p>
+<blockquote><p>&#8220;It’s just like gold, only it’s virtual&#8230; It’s very volatile, it’s not a competitor for the dollar, it’s really a competitor for gold. That’s how I think of it.&#8221;</p></blockquote>
+<p>Powell’s comments come amid heightened speculation about Bitcoin’s growing influence in global finance. Crypto recently achieved a market capitalization of $1.92 trillion, surpassing silver, valued at $1.75 trillion, to become the world&#8217;s eighth most valuable asset. However, it remains far behind gold, which holds an estimated market value of $18 trillion.</p>
+<p><span style="font-weight: 400;">This is not the first time Powell has used this comparison to address Bitcoin. In 2021, the Fed chair</span><a href="https://www.nytimes.com/2021/03/22/business/jerome-powell-says-the-fed-wont-issue-a-digital-currency-without-congressional-approval.html#:~:text=%E2%80%9CCrypto%20assets%2C%20they're,rather%20than%20for%20the%20dollar.%E2%80%9D"> <span style="font-weight: 400;"><strong>said</strong></span></a><span style="font-weight: 400;"> that crypto is not useful as a store of value due to its intrinsic volatility, with Bitcoin being &#8220;essentially a substitute for gold, rather than for the dollar.&#8221;</span></p>
+<p><span style="font-weight: 400;">Under President <a href="https://cryptoslate.com/people/joe-biden/">Joe Biden&#8217;s</a> administration, the Fed is accused of being pivotal in Operation Chokepoint 2.0, an alleged plan to hinder the progress of the US crypto industry.</span></p>
+<p><span style="font-weight: 400;">In August, following a Fed mandate directed at crypto-friendly Customers Bank urging tighter risk management and compliance measures, Gemini co-founder <a href="https://cryptoslate.com/people/tyler-winklevoss/">Tyler Winklevoss</a> stated that the initiative &#8220;<a href="https://cryptoslate.com/fed-escalates-operation-chokepoint-2-0-crackdown-against-crypto-winklevoss/">is alive and well</a>.&#8221;</span></p>
+<h2><strong>DeFi as ally</strong></h2>
+<p><span style="font-weight: 400;">Despite Powell&#8217;s conservative tone toward Bitcoin and crypto as an asset class, Fed Governor Christopher J. Waller</span> <strong><a href="https://cryptoslate.com/fed-official-touts-defi-as-ally-not-rival-to-traditional-finance/">recently praised</a></strong><span style="font-weight: 400;"> DeFi as an ally.</span></p>
+<p><span style="font-weight: 400;">At the Vienna Macroeconomics Workshop on Oct. 18, Waller argued that intermediaries are still fundamental for the financial markets. However, he acknowledged that DeFi applications presented technologies that offer efficiency to traditional financial instruments.</span></p>
+<p><span style="font-weight: 400;">He recognized the benefits of distributed ledger technology (DLT), tokenization, and smart contracts, which can enhance the speed and accuracy of financial transactions.</span></p>
+<p><span style="font-weight: 400;">Moreover, Waller</span> <strong><a href="https://cryptoslate.com/fed-governor-waller-questions-cbdc-utility-for-payments/">recognized</a></strong><span style="font-weight: 400;"> at The Clearing House Annual Conference 2024 on Nov. 12 that central bank digital currencies (CBDC) are not helpful for payments, questioning whether the payments system has a problem that CBDCs could solve.</span></p>
+<p>The post <a href="https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/">Fed chair Powell views Bitcoin as digital gold, not a dollar competitor</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/jerome-powell-feds-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/jerome-powell-feds-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</title>
+		<link>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/</link>
+					<comments>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 20:38:01 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455959</guid>
+
+					<description><![CDATA[<p>New York City Mayor Eric Adams slammed the criticism he faced after deciding to receive his first three paychecks in Bitcoin (BTC) and Ethereum (ETH) back in early 2022. He made the statement during a Dec. 3 press conference, saying: &#8220;Remember y’all laughed at me when I first got my Bitcoin. Who&#8217;s laughing now? Go [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/">New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">New York City Mayor Eric Adams slammed the criticism he faced after deciding to receive his first three paychecks in Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) and Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) back in early 2022.</span></p>
+<p>He made the statement during a Dec. 3 <strong><a href="https://www.nyc.gov/office-of-the-mayor/news/875-24/transcript-mayor-adams-holds-in-person-media-availability">press conference</a></strong>, saying:</p>
+<blockquote><p><strong>&#8220;Remember y’all laughed at me when I first got my Bitcoin. Who&#8217;s laughing now? Go look at my Bitcoin now. You all mock me. You&#8217;re taking your first three paychecks in Bitcoin. What&#8217;s wrong with you? Now you wish you would have done it.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">He also said people should not be afraid of Bitcoin and voiced his satisfaction with people willing to think outside the box on President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump&#8217;s</a> administration, like <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a>.</span></p>
+<p><span style="font-weight: 400;">Additionally, when asked about the return on his Bitcoin paycheck, Adams explained that the amount is on his annual Conflicts of Interest Board (COIB) report, where the mayor must disclose his investments.</span></p>
+<p><span style="font-weight: 400;">According to his</span> <strong><a href="https://www.nyc.gov/assets/coib/downloads/pdf2/publicdocs/elected-officials-ad/2023/adams-e-2023-ad-report.pdf">2023 COIB</a></strong><span style="font-weight: 400;">, Adams holds between $5,000 and $54,999.99 in BTC, considering the market value at the close of the reporting year. Based on Bitcoin&#8217;s 130% climb to a high of $99,600, Adams could hold roughly $110,000 worth of BTC.</span></p>
+<p><span style="font-weight: 400;">On a broader approach to innovation, the New York Mayor also spoke on artificial intelligence (AI), stating that people shouldn&#8217;t be afraid of AI. He said the innovation push is a racehorse that the US is holding back &#8220;out of fear of being canceled.&#8221;</span></p>
+<p>New York has generally <span style="font-weight: 400;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">taken a pro-crypto stance with some caveats. In January 2022, legislators <a href="https://cryptoslate.com/new-york-introduces-bill-to-legalize-crypto-payments-for-state-purposes/" target="_blank" rel="noopener"><strong>introduced a bill</strong></a></span> to allow state entities to receive Bitcoin as payment. However, the bill did not encourage the use of BTC for commercial purposes.</span></p>
+<p>Meanwhile<span style="font-weight: 400;"><span style="box-sizing: border-box; margin: 0px; padding: 0px;">, in June of the same year, the New York State Senate approved a bill </span>that could</span> <strong><a href="https://cryptoslate.com/new-york-senate-passes-bill-that-could-ban-crypto-mining/">ban Bitcoin mining</a></strong><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Recently, mining firm Greenidge</span> <strong><a href="https://cryptoslate.com/bitcoin-miner-greenidge-wins-legal-battle-to-keep-mining-in-new-york/">won a legal battle</a></strong><span style="font-weight: 400;"> to keep its operations in New York following the state&#8217;s Department of Environmental Conservation (DEC) denial of a Title V Air Permit application.</span></p>
+<p>The post <a href="https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/">New York Mayor Eric Adams has the last laugh as Bitcoin hovers near $100k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/new-york-mayor-eric-adams-has-the-last-laugh-as-bitcoin-hovers-near-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/eric-adams-bitcoin-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/eric-adams-bitcoin-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Coinbase cuts ties with law firms hiring ex-regulators linked to crypto crackdown</title>
+		<link>https://cryptoslate.com/coinbase-cuts-ties-with-law-firms-hiring-ex-regulators-linked-to-crypto-crackdown/</link>
+					<comments>https://cryptoslate.com/coinbase-cuts-ties-with-law-firms-hiring-ex-regulators-linked-to-crypto-crackdown/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 21:15:24 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455758</guid>
+
+					<description><![CDATA[<p>Coinbase CEO Brian Armstrong announced the exchange would sever ties with law firms that hire former regulatory officials linked to what he describes as &#8220;unlawful&#8221; actions against the crypto industry. Armstrong&#8217;s comments, made in a social media post on Dec. 3, follow news that former SEC Division of Enforcement Director Gurbir S. Grewal joined Milbank&#8217;s [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/coinbase-cuts-ties-with-law-firms-hiring-ex-regulators-linked-to-crypto-crackdown/">Coinbase cuts ties with law firms hiring ex-regulators linked to crypto crackdown</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> CEO <a href="https://cryptoslate.com/people/brian-armstrong/">Brian Armstrong</a> announced the exchange would sever ties with law firms that hire former regulatory officials linked to what he describes as &#8220;unlawful&#8221; actions against the crypto industry.</p>
+<p>Armstrong&#8217;s comments, made in a social media post on Dec. 3, follow news that former SEC Division of Enforcement Director Gurbir S. Grewal joined Milbank&#8217;s Litigation &amp; Arbitration Group — prompting the Coinbase CEO to single out the firm as one the exchange would no longer engage with.</p>
+<p>Armstrong stated:</p>
+<blockquote><p>&#8220;We&#8217;ve let all the law firms we work with know that, if they hire anyone who committed these bad deeds in the (soon to be) prior administration, we will no longer be a client of theirs.&#8221;</p></blockquote>
+<p>Armstrong criticized senior partners at law firms for being &#8220;unaware of the crypto industry&#8217;s position&#8221; on the issue. He specifically referenced Grewal, accusing him of contributing to regulatory actions that he called &#8220;an ethics violation.&#8221;</p>
+<p>The Coinbase CEO claimed the prior SEC administration under Gary Gensler had &#8220;<a href="https://cryptoslate.com/crypto-debanking-wave-tied-to-political-figures-coinbase-ceo-brian-armstrong-alleges/">unlawfully</a>&#8221; targeted the crypto industry while refusing to provide clear guidance on compliance.</p>
+<p>Armstrong wrote:</p>
+<blockquote><p>&#8220;This was not a normal SEC tenure. If you were a senior there, you cannot say you were just following orders. They had the option to leave the SEC, and many good people did.&#8221;</p></blockquote>
+<p>Armstrong emphasized that while he does not believe in &#8220;permanently canceling people,&#8221; the crypto industry should avoid financially supporting individuals he alleges were <a href="https://cryptoslate.com/coinbases-brian-armstrong-champions-crypto-mom-hester-peirce-for-sec-chair/">involved in harming</a> the sector.</p>
+<p>He said:</p>
+<blockquote><p>&#8220;Let your law firms know that hiring these folks means losing you as a client.&#8221;</p></blockquote>
+<p>Milbank did not immediately respond to requests for comment.</p>
+<p>The move highlights the deep-rooted tensions between the crypto industry and regulators. Coinbase has been at the forefront of legal and policy battles, with Armstrong often calling for clearer guidelines to foster innovation in digital assets.</p>
+<p>Grewal&#8217;s tenure at the SEC coincided with increased enforcement actions targeting crypto platforms, including high-profile lawsuits against Coinbase and other firms. His move to private practice reflects a broader trend of regulators transitioning to legal advisory roles in the industries they once oversaw.</p>
+<p>The post <a href="https://cryptoslate.com/coinbase-cuts-ties-with-law-firms-hiring-ex-regulators-linked-to-crypto-crackdown/">Coinbase cuts ties with law firms hiring ex-regulators linked to crypto crackdown</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/coinbase-cuts-ties-with-law-firms-hiring-ex-regulators-linked-to-crypto-crackdown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/08/brian-armstrong-sec.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/08/brian-armstrong-sec.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Justin Sun eats the $6.2 million banana duct-taped to a wall</title>
+		<link>https://cryptoslate.com/justin-sun-eats-the-6-2-million-banana-duct-taped-to-a-wall/</link>
+					<comments>https://cryptoslate.com/justin-sun-eats-the-6-2-million-banana-duct-taped-to-a-wall/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 20:00:21 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=455349</guid>
+
+					<description><![CDATA[<p>Tron founder Justin Sun ate the banana duct-taped to a wall, which he recently bought for $6.2 million at Sotheby’s. The event took place at the Peninsula Hotel in Hong Kong.   The artwork, titled &#8220;Comedian,&#8221; was created by Italian artist Maurizio Cattelan and gained global fame in 2019 when it debuted at Art Basel in [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/justin-sun-eats-the-6-2-million-banana-duct-taped-to-a-wall/">Justin Sun eats the $6.2 million banana duct-taped to a wall</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/coins/tron/">Tron</a> founder <a href="https://cryptoslate.com/people/justin-sun/">Justin Sun</a> ate the banana duct-taped to a wall, which he recently bought for $6.2 million at Sotheby’s. </span></p>
+<p><span style="font-weight: 400;">The event took place at the Peninsula Hotel in Hong Kong.  </span></p>
+<p><span style="font-weight: 400;">The artwork, titled &#8220;Comedian,&#8221; was created by Italian artist Maurizio Cattelan and gained global fame in 2019 when it debuted at Art Basel in Miami Beach. </span></p>
+<p><span style="font-weight: 400;">According to</span> <strong><a href="https://www.theguardian.com/world/2024/nov/29/crypto-entrepreneur-justin-sun-eats-banana-art-he-bought-for-6m-dollars">The Guardian</a></strong><span style="font-weight: 400;">, Sun used the event to draw parallels between conceptual art, non-fungible tokens (NFT), and blockchain. </span></p>
+<h2><strong>&#8216;Quite good&#8217;</strong></h2>
+<p><span style="font-weight: 400;">After giving a speech, Sun took a bite of the fruit, declaring it &#8220;quite good.&#8221; As souvenirs, attendees received rolls of duct tape and bananas, a nod to the artwork.  </span></p>
+<p><span style="font-weight: 400;">For him, the piece represents more than satire; it is a statement on the intersection of art, technology, and global culture.  </span></p>
+<p><span style="font-weight: 400;">The banana, sourced from a fruit stall on Manhattan&#8217;s Upper East Side, cost less than a dollar. Its original seller, 74-year-old Shah Alam, reportedly cried when he learned the fruit had been resold for millions.</span></p>
+<p><span style="font-weight: 400;">In response, Sun</span> <strong><a href="https://x.com/justinsuntron/status/1862202496602788160">pledged</a></strong><span style="font-weight: 400;"> to buy 100,000 bananas from Alam&#8217;s stall to distribute globally as a &#8220;celebration of the connection between art and everyday life.&#8221; However, as the New York Times</span><a href="https://www.nytimes.com/2024/11/28/nyregion/banana-sothebys-fruit-stand.html"> <span style="font-weight: 400;"><strong>reported</strong></span></a><span style="font-weight: 400;">, Alam said that selling bananas generates no profit.</span></p>
+<p>The post <a href="https://cryptoslate.com/justin-sun-eats-the-6-2-million-banana-duct-taped-to-a-wall/">Justin Sun eats the $6.2 million banana duct-taped to a wall</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/justin-sun-eats-the-6-2-million-banana-duct-taped-to-a-wall/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/justin-sun-banana.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/justin-sun-banana.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Crypto windfalls boost homeownership dreams for low-income Americans</title>
+		<link>https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/</link>
+					<comments>https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 12:23:15 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=454885</guid>
+
+					<description><![CDATA[<p>Low-income households in the United States are turning crypto profits into opportunities for homeownership, as revealed by a Nov. 26 report from the Office of Financial Research (OFR), a US Treasury Department research arm. Samuel Hughes, Francisco Ilabaca, Jacob Lockwood, and Kevin Zhao conducted the study based on tax data. It offers a crucial look [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/">Crypto windfalls boost homeownership dreams for low-income Americans</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Low-income households in the United States are turning crypto profits into opportunities for homeownership, as revealed by a Nov. 26 <a href="https://www.financialresearch.gov/briefs/files/OFRBrief-24-08-crypto-exposure-and-household-financial-outcomes.pdf">report</a> from the Office of Financial Research (OFR), a US Treasury Department research arm.</p>
+<p>Samuel Hughes, Francisco Ilabaca, Jacob Lockwood, and Kevin Zhao conducted the study based on tax data. It offers a crucial look at how crypto is shaping financial behaviors in economically vulnerable communities.</p>
+<h2>Mortgage and auto-debts</h2>
+<p>The report noted the rise of &#8220;high-crypto&#8221; areas, defined as zip codes where over 6% of households reported crypto holdings in tax filings. These regions have seen a significant uptick in mortgage and auto loan activity, coinciding with substantial <a href="https://cryptoslate.com/institutional-capital-fuels-crypto-rally-amid-profit-taking-trends-bitfinex/">crypto market gains</a>.</p>
+<p>In these high-crypto areas, low-income households experienced a surge in mortgage activity between 2020 and 2024. The number of consumers with mortgages grew by more than 250%, while average mortgage balances jumped from $172,000 in 2020 to $443,000 in 2024, an increase of over 150%.</p>
+<p>These figures suggest that crypto windfalls have enabled many families to secure larger loans and enter the housing market.</p>
+<p>The report stated:</p>
+<blockquote><p>&#8220;For low-income households, average mortgage debt balances and mortgage-holding rates sharply increased in zip codes with high crypto exposure. This indicates that low-income households may be using crypto gains to take out new mortgages and to take out larger mortgages.&#8221;</p></blockquote>
+<p>The report also sheds light on auto loan trends in these areas. Among low-income households, auto loan balances rose most sharply in high-crypto regions. Interestingly, while delinquency rates increased in low- and mid-crypto zip codes, they declined in high-crypto areas. This pattern suggests that crypto earnings may be helping some households manage auto loan payments more effectively.</p>
+<p>Since the 2008 banking crisis, which led to widespread defaults, single-family home ownership has never recovered. However, since Bitcoin&#8217;s inception in 2009 figures have continued to rise. While the correlation is not indicative of causation, it is interesting to note that the 2021 bull run and subsequent bear market of 2022 also saw increases and declines in new single-family homes.</p>
+<figure id="attachment_454910" aria-describedby="caption-attachment-454910" style="width: 1024px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-454910 size-large" src="https://cryptoslate.com/wp-content/uploads/2024/11/fredgraph-1-1024x349.png" alt="U.S. Census Bureau and U.S. Department of Housing and Urban Development, New Privately-Owned Housing Units Started: Single-Family Units [HOUST1F], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HOUST1F, November 27, 2024" width="1024" height="349" srcset="https://cryptoslate.com/wp-content/uploads/2024/11/fredgraph-1-1024x349.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/11/fredgraph-1-300x102.png 300w, https://cryptoslate.com/wp-content/uploads/2024/11/fredgraph-1-768x262.png 768w, https://cryptoslate.com/wp-content/uploads/2024/11/fredgraph-1.png 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption id="caption-attachment-454910" class="wp-caption-text">U.S. Census Bureau and U.S. Department of Housing and Urban Development, New Privately-Owned Housing Units Started: Single-Family Units [HOUST1F], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HOUST1F, November 27, 2024</figcaption></figure>
+<h2>Risks</h2>
+<p>Despite these positive trends, the researchers warn of potential risks tied to rising debt and leverage among low-income households with significant <a href="https://cryptoslate.com/insights/public-bitcoin-miners-underperform-btc-and-other-proxies-year-to-date/">crypto exposure</a>.</p>
+<p>While delinquencies remain low overall, economic downturns or a slump in the crypto market could lead to financial instability. The concentration of exposure in systemically important institutions could amplify these risks.</p>
+<p>The researchers concluded:</p>
+<blockquote><p>&#8220;An important takeaway for future monitoring is the increased debt balances and leverage among low-income households with crypto exposure. Rising distress in this group could cause future financial stress, especially if exposure to these types of high-leverage, high-risk consumers is concentrated in systemically important institutions.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/">Crypto windfalls boost homeownership dreams for low-income Americans</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/crypto-windfalls-boost-homeownership-dreams-for-low-income-americans/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/household-crypto.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/household-crypto.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Cookie DAO launches platform to track performance of AI agents</title>
+		<link>https://cryptoslate.com/cookie-dao-launches-platform-to-track-performance-of-ai-agents/</link>
+					<comments>https://cryptoslate.com/cookie-dao-launches-platform-to-track-performance-of-ai-agents/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 22:00:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=454633</guid>
+
+					<description><![CDATA[<p>Cookie DAO has introduced Cookie.fun, a platform that tracks AI agents&#8217; performance in real-time across blockchain activity and social media. The platform offers both human and AI investors a clear way to evaluate on-chain and market metrics for these rapidly growing agents. Tracking metrics in real-time AI agents — autonomous AI systems that can manage [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/cookie-dao-launches-platform-to-track-performance-of-ai-agents/">Cookie DAO launches platform to track performance of AI agents</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Cookie DAO has introduced <a href="https://www.cookie.fun/">Cookie.fun</a>, a platform that tracks AI agents&#8217; performance in real-time across blockchain activity and social media.</p>
+<p>The platform offers both human and AI investors a clear way to evaluate on-chain and market metrics for these rapidly growing agents.</p>
+<h2>Tracking metrics in real-time</h2>
+<p>AI agents — autonomous AI systems that can <a href="https://cryptoslate.com/coinbase-ceo-brian-armstrong-offers-ai-agent-truth-terminal-its-own-crypto-wallet/">manage digital wallets</a>, execute transactions, and interact with users on platforms like X (formerly Twitter) — have emerged as a major trend in the crypto space.</p>
+<p>While these agents have driven significant hype and rapid growth in market capitalization, evaluating their true impact has been challenging. Cookie.fun aims to provide a comprehensive dashboard to analyze on-chain and social activity for AI-driven agents.</p>
+<p>The Cookie.fun platform tracks and ranks AI agents using metrics like market capitalization, social engagement, token holder growth, and impressions. It allows users to compare performance across leading agents, including GOAT, ZEROBRO, and ELIZA.</p>
+<p>One standout feature is the &#8220;mindshare&#8221; ranking, which quantifies each agent&#8217;s influence across the market and social platforms. Recent data from the platform shows GOAT leading the pack in impressions, while ZEROBRO recorded significant growth in token holder numbers over the past 24 hours.</p>
+<p>These metrics, updated in real-time, help investors navigate the fast-moving AI agent ecosystem with clarity and confidence.</p>
+<h2>AI agent wave</h2>
+<p>AI agents, with their ability to interact autonomously across financial systems and social platforms, are seen as the next frontier for blockchain innovation. These agents are already driving token value and market narratives, as <a href="https://cryptoslate.com/autonomous-ai-agent-amasses-500000-in-crypto-after-spurring-memecoin-movement/">projects like Goatseus Maximus</a> and ELIZA demonstrate.</p>
+<p>By offering a centralized hub for tracking their performance, Cookie.fun positions itself as a vital resource for investors looking to capitalize on this trend. As tools like Cookie.fun become more prevalent, they could usher in a new era of transparency and credibility for AI-driven projects, ensuring long-term sustainability in this burgeoning market.</p>
+<p>The post <a href="https://cryptoslate.com/cookie-dao-launches-platform-to-track-performance-of-ai-agents/">Cookie DAO launches platform to track performance of AI agents</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/cookie-dao-launches-platform-to-track-performance-of-ai-agents/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/10/ai-agent.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/10/ai-agent.jpg" length="1456" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

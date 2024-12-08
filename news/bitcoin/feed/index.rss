@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Bitcoin (BTC) News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/news/bitcoin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/news/bitcoin/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Fri, 06 Dec 2024 23:16:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>Bitcoin (BTC) News | CryptoSlate</title>
+	<link>https://cryptoslate.com/news/bitcoin/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</title>
+		<link>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/</link>
+					<comments>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 01:30:04 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Liquidium]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456333</guid>
+
+					<description><![CDATA[<p>DeFi lending on Bitcoin-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a new all-time high above $100,000. Onchain data reveals that loans against Runes accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while Ordinals accounted for the remaining 43%, contributing 9 BTC. These [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>DeFi lending on <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>-based Liquidium reached a four-month high of 21 BTC on Dec. 5, following the top asset climb to a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">new all-time high above $100,000.</a></p>
+<p>Onchain <a href="https://dune.com/liquidiumfi/liquidium">data</a> reveals that loans against <a href="https://cryptoslate.com/bitcoin-runes-made-up-57-percent-of-transactions-on-halving-day/">Runes</a> accounted for 57% of Liquidium&#8217;s daily volume, contributing 12 BTC, while <a href="https://cryptoslate.com/products/ordinals/">Ordinals</a> accounted for the remaining 43%, contributing 9 BTC.</p>
+<p>These numbers reflect a year-long upward trend for Liquidium, which has facilitated over 63,000 loans totaling more than 3,378 BTC. Runes dominate the platform, comprising over half of all collateral.</p>
+<p>Liquidium enables users to borrow Bitcoin against assets like Runes, Ordinals, Inscriptions, and BRC-20 tokens. Its non-custodial model employs Discreet Log Contracts (DLC) for secure escrow, ensuring that lenders&#8217; returns are protected, even in default cases.</p>
+<p>The rise in Liquidium&#8217;s activity mirrors Bitcoin&#8217;s increasing mainstream adoption. Analysts point to <a href="https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/">BTC&#8217;s price rally</a> above $100,000 and the introduction of spot <a href="https://cryptoslate.com/insights/us-bitcoin-etfs-exceed-satoshi-nakamotos-btc-holdings-in-less-than-a-year/">Bitcoin exchange-traded funds (ETFs)</a> as key factors driving institutional interest in the ecosystem.</p>
+<p>Additionally, market sentiment has dramatically improved with expectations of crypto-friendly regulations under a <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Donald Trump-led US administration</a>, fueling optimism for broader industry growth.</p>
+<p>Moreover, the platform&#8217;s native LIQUIDIUM token is also enjoying an uptrend, according to CoinMarketCap data, which has pushed its value up over 25% during the past week.</p>
+<h2>New features</h2>
+<p>Looking ahead, Liquidium is set to launch features designed to streamline user experience. A new instant loans feature will allow borrowers to access funds without requiring lender countersignatures, simplifying the process for loans of any size.</p>
+<p>The upcoming Custom Loan V2 upgrade will introduce a gallery-like interface, enabling borrowers and lenders to create and customize loan offers.</p>
+<p>This shift from the traditional model — where only lenders could initiate offers — will make the platform more dynamic and accessible. The intuitive design promises an engaging experience where users can explore loan opportunities as effortlessly as browsing a curated collection.</p>
+<p>Liquidium&#8217;s consistent growth and planned advancements position it as a key player in the expanding Bitcoin DeFi ecosystem.</p>
+<p>The post <a href="https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/">DeFi lending on Liquidium hits 4-month high as Bitcoin soars past $100K</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/defi-lending-on-liquidium-hits-4-month-high-as-bitcoin-soars-past-100k/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-defi-lending.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</title>
+		<link>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/</link>
+					<comments>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:45:48 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456388</guid>
+
+					<description><![CDATA[<p>Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (BTC) reserve is “crazy. &#8220; Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued: &#8220;Of all the prices to support, why would the government choose to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Former US Secretary of the Treasury Larry Summers said in an interview with Bloomberg that the idea of a national Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) reserve is “crazy. &#8220;</span></p>
+<p><span style="font-weight: 400;">Summers said he understands the concept of other commodities’ reserves, such as oil and gold, but argued:</span></p>
+<blockquote><p><strong>&#8220;Of all the prices to support, why would the government choose to support by accumulating a sterile inventory, a bunch of Bitcoin? There is no reason other than to pander to generous special interest campaign contributors.&#8221;</strong></p></blockquote>
+<p><span style="font-weight: 400;">His remarks follow</span> <strong><a href="https://cryptoslate.com/trumps-crypto-advisory-council-to-setup-promised-strategic-bitcoin-reserve-report/">reports</a></strong><span style="font-weight: 400;"> that President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump’s</a> Crypto Advisory Council is expected to establish the &#8220;Strategic Bitcoin Reserve.&#8221;</span></p>
+<p><span style="font-weight: 400;">The idea of a national Bitcoin reserve surfaced during the Bitcoin 2024 conference earlier this year, where both Trump and Robert F. Kennedy Jr. made keynote speeches, along with several lawmakers, including Senator <a href="https://cryptoslate.com/people/cynthia-lummis/">Cynthia Lummis</a> (R-WY), who introduced the &#8220;</span><strong><a href="https://cryptoslate.com/lummis-unveils-the-bitcoin-act-to-establish-strategic-btc-reserve-for-the-us/">Bitcoin Act</a></strong><span style="font-weight: 400;">&#8221; legislation proposing the creation of such an institute at the event.</span></p>
+<h2><strong>Bitcoin reserve idea gaining traction</strong></h2>
+<p><span style="font-weight: 400;">The idea of creating Bitcoin reserves is gaining traction beyond institutions now, with lawmakers and politicians around the world warming to the concept. </span></p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/satoshi-action-fund/">Satoshi Act Fund</a> founder <a href="https://cryptoslate.com/people/dennis-porter/">Dennis Porter</a> recently revealed he is in discussions with Texas state officials to introduce</span> <a href="https://x.com/Dennis_Porter_/status/1859640897715175433">legislation</a> for <span style="font-weight: 400;">a strategic Bitcoin fund. </span><span style="font-weight: 400;">Additionally, on Nov. 14, Representative Mike Cabell</span> <strong><a href="https://cryptoslate.com/pennsylvannia-introduces-bill-to-use-7-billion-state-fund-for-bitcoin-strategic-reserve-purchases/">introduced a bill</a></strong><span style="font-weight: 400;"> to create a BTC reserve in Pennsylvania using the state&#8217;s $7 billion fund.</span></p>
+<p><span style="font-weight: 400;">Porter said Texas and Pennsylvania are the first of many and claimed that up to 10 more US states will likely follow suit before the year ends in an attempt to front-run the Trump administration&#8217;s plans for a federal Bitcoin reserve.</span></p>
+<p><span style="font-weight: 400;">The examples in the US are motivating politicians in other countries. A Brazilian lawmaker</span> <strong><a href="https://cryptoslate.com/brazilian-lawmaker-proposes-18-billion-bitcoin-reserve-initiative/">pushed</a></strong><span style="font-weight: 400;"> for a Bitcoin reserve in the country through legislation introduced on Nov. 26, which would allocate up to nearly $19 billion in BTC.</span></p>
+<p><span style="font-weight: 400;">Meanwhile,</span><span style="font-weight: 400;"> Poland&#8217;s libertarian presidential candidate, Sławomir Mentzen, wants to</span> <strong><a href="https://cryptoslate.com/poland-presidential-candidate-wants-to-allow-nation-to-hold-bitcoin-with-strategic-reserve/">allow the country</a></strong><span style="font-weight: 400;"> to hold BTC as a strategic reserve.</span></p>
+<p>The post <a href="https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/">Former US Treasury Secretary calls Bitcoin reserve &#8216;crazy&#8217; idea</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/former-us-treasury-secretary-calls-bitcoin-reserve-crazy-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/us-bitcoin-reserve.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>StanChart updates Bitcoin price projection to $200k by 2025-end</title>
+		<link>https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/</link>
+					<comments>https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 20:00:43 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<category><![CDATA[TradFi]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456394</guid>
+
+					<description><![CDATA[<p>Standard Chartered believes Bitcoin (BTC) could reach $200,000 by the end of 2025 as institutional investments and anticipated regulatory shifts solidify its position as a mainstream asset. In its latest report, the bank attributed Bitcoin&#8217;s surge past $100,000 this year to unprecedented institutional inflows and projected a clear path for further growth. Growing interest StanChart&#8217;s [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/">StanChart updates Bitcoin price projection to $200k by 2025-end</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/standard-chartered/">Standard Chartered</a> believes Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) could reach $200,000 by the end of 2025 as institutional investments and anticipated regulatory shifts solidify its position as a mainstream asset.</p>
+<p>In its latest report, the bank attributed Bitcoin&#8217;s <a href="https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/">surge past $100,000</a> this year to unprecedented institutional inflows and projected a clear path for further growth.</p>
+<h2>Growing interest</h2>
+<p>StanChart&#8217;s head of digital assets research, Geoffrey Kendrick, highlighted that institutions acquired 683,000 BTC in 2024, with a significant amount — 245,000 BTC — purchased in the weeks following the US election, a period marked by <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">heightened optimism</a> about regulatory reform under the incoming <a href="https://cryptoslate.com/people/donald-trump/">Trump</a> administration.</p>
+<p><a href="https://cryptoslate.com/companies/microstrategy/">MicroStrategy</a> alone accounted for 213,000 BTC, significantly exceeding its annual target, while US spot exchange-traded funds (ETFs) added 470,000 BTC to their portfolios.</p>
+<p>According to Kendrick:</p>
+<blockquote><p>&#8220;MicroStrategy&#8217;s pace of accumulation has exceeded expectations, and its commitment to raising $42 billion over three years indicates further significant inflows in 2025.&#8221;</p></blockquote>
+<p>Kendrick said he anticipates <a href="https://cryptoslate.com/coinbase-policy-executive-predicts-fast-crypto-regulation-under-trump/">regulatory changes</a> in early 2025, including a repeal of SAB 121, the passage of stablecoin legislation, and leadership changes at the US Securities and Exchange Commission (SEC), as pivotal for unlocking additional institutional participation.</p>
+<p>These reforms are expected to enable retirement funds and pension accounts — representing a $40 trillion market — to allocate a fraction of their assets to Bitcoin. The report noted that even a 1% allocation could drive inflows worth $400 billion, with transformative effects on Bitcoin&#8217;s price.</p>
+<p>Additionally, the report highlighted the role of sovereign wealth funds, such as Norway&#8217;s NBIM, which indirectly holds 7,000 BTC through its investment in MicroStrategy. The report also floated the possibility of a US strategic Bitcoin reserve fund, a move that could catalyze broader adoption by other global sovereign wealth funds.</p>
+<h2>Lower market volatility</h2>
+<p>Standard Chartered noted that the launch of Bitcoin ETF options in November has further reduced market volatility, a factor likely to attract more traditional finance players. The growing appeal of Bitcoin as a portfolio asset is reflected in metrics such as MicroStrategy&#8217;s market cap-to-Bitcoin holdings ratio, which has tripled this year, signaling excess demand.</p>
+<p>Additionally, the potential for corporate treasuries and global investors to deepen their Bitcoin exposure has increased with the success experienced by companies like Japan&#8217;s <a href="https://cryptoslate.com/companies/metaplanet/">Metaplanet</a> and Germany&#8217;s Acurx Pharmaceuticals. Both firms have made recent Bitcoin investments, while <a href="https://cryptoslate.com/companies/microsoft/">Microsoft&#8217;s</a> board is set to <a href="https://cryptoslate.com/michael-saylor-tells-microsoft-board-bitcoin-could-boost-its-market-cap-by-5-trillion/">vote on a similar move</a> this month.</p>
+<p>While challenges remain, including the speed of regulatory implementation and broader adoption among conservative asset managers, Standard Chartered <a href="https://cryptoslate.com/standard-chartered-advises-buying-bitcoin-below-60000-despite-geopolitical-uncertainty/">reaffirmed its confidence</a> in Bitcoin&#8217;s upward trajectory.</p>
+<p>According to the lender:</p>
+<blockquote><p>&#8220;Bitcoin&#8217;s limited market capitalization, relative to potential institutional demand, positions it uniquely for outsized growth.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/">StanChart updates Bitcoin price projection to $200k by 2025-end</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/stanchart-updates-bitcoin-price-projection-to-200k-by-2025-end/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/06/standard-chartered-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/06/standard-chartered-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Long term Bitcoin HODLers in Czech Republic to pay zero capital gains tax from January</title>
+		<link>https://cryptoslate.com/long-term-bitcoin-hodlers-in-czech-republic-to-pay-zero-capital-gains-tax-from-january/</link>
+					<comments>https://cryptoslate.com/long-term-bitcoin-hodlers-in-czech-republic-to-pay-zero-capital-gains-tax-from-january/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 14:38:04 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[Taxes]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456315</guid>
+
+					<description><![CDATA[<p>The Czech Republic approved an amendment granting exemptions for income from cryptoasset transfers. The move, passed on Dec. 6 and set to take effect on Jan. 1, 2025, introduces conditions under which individuals may exclude such income from personal taxation, echoing some established rules applied to securities. Under the new framework, individuals can claim an [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/long-term-bitcoin-hodlers-in-czech-republic-to-pay-zero-capital-gains-tax-from-january/">Long term Bitcoin HODLers in Czech Republic to pay zero capital gains tax from January</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Czech Republic <a href="https://x.com/BTCPrague/status/1865010348476059740">approved</a> an amendment granting exemptions for income from cryptoasset transfers. The move, passed on Dec. 6 and set to take effect on Jan. 1, 2025, introduces conditions under which individuals may exclude such income from personal taxation, echoing some established rules applied to securities.</p>
+<p>Under the <a href="https://danovky.cz/en/news/detail/1540">new framework</a>, individuals can claim an exemption if the total gross annual income from these transactions does not exceed CZK 100,000 and, separately, if digital assets are held for more than three years before the sale.</p>
+<p>As Czech consulting firm BDO <a href="https://www.bdo.cz/en-gb/insights/tax/proposal-to-exempt-income-of-natural-persons-from-the-transfer-of-crypto-assets-for-consideration?t">explained</a>, the legislation parallels exemptions granted to securities transfers, although the threshold for the time test involves a CZK 40 million aggregate limit that also applies to gains from securities and business shares. The measure excludes electronic cash tokens and requires that digital assets are not part of business assets for at least three years after ceasing self-employment.</p>
+<p>This initiative appears to align with broader efforts at clarifying digital asset taxation. Implementation would follow ongoing digitalization measures and possible EU-level regulations, and per <a href="https://kpmg.com/us/en/taxnewsflash/news/2024/10/tnf-czech-republic-proposed-exemption-from-individual-income-tax-for-income-from-transfer-of-cryptoassets.html?t">KPMG</a>, the proposal relies on principles already familiar from securities exemptions. The absence of transitional provisions means digital assets acquired before 2025 may also qualify if sold under these conditions in subsequent tax years, but this raises questions of interpretation.</p>
+<p>Without a dedicated definition of digital assets in the Income Tax Act, the scope of the exemption could extend across multiple types of crypto holdings. Interpretive uncertainties remain, as the amendment does not specify how to confirm the length of ownership, and it lacks an explanatory memorandum to clarify legislative intent or address technical ambiguities.</p>
+<p>Recent market conditions provide context for shifting regulatory stances. In November, after the U.S. election, Bitcoin reached record highs approaching $100,000, reflecting heightened activity and market interest. Although the amendment focuses on the Czech Republic&#8217;s domestic tax environment, it emerges as one among various regulatory adjustments in response to evolving digital asset markets. Some observers note this approach may encourage long-term holding strategies.</p>
+<p>As <a href="https://cryptoslate.com/press-releases/legendary-investor-michael-saylor-to-speak-at-europes-largest-bitcoin-conference-btc-prague/">BTC Prague</a> reported, the vote in favor of the exemption framework was <a href="https://x.com/BTCPrague/status/1865010348476059740">unanimous</a>, potentially signaling domestic consensus on encouraging compliant crypto engagement through predictable rules.</p>
+<p>The Czech authorities have not indicated any immediate guidance or clarifications on the new rules, leaving practitioners and taxpayers to rely on general principles. The forthcoming effective date could prompt advisors, exchanges, and individual holders to review record-keeping practices, ensuring alignment with a three-year holding criterion and aggregate transaction limits.</p>
+<p>Although the legislation&#8217;s concise wording may invite future interpretative challenges, the core exemption provisions are now established.</p>
+<p>The post <a href="https://cryptoslate.com/long-term-bitcoin-hodlers-in-czech-republic-to-pay-zero-capital-gains-tax-from-january/">Long term Bitcoin HODLers in Czech Republic to pay zero capital gains tax from January</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/long-term-bitcoin-hodlers-in-czech-republic-to-pay-zero-capital-gains-tax-from-january/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-czech.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-czech.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Analysts foresee upside potential for Bitcoin beyond $100k despite some red flags</title>
+		<link>https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/</link>
+					<comments>https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 00:00:02 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456182</guid>
+
+					<description><![CDATA[<p>Bitcoin&#8217;s (BTC) recent breach of the $100,000 price level has sparked discussions among analysts about market conditions and potential risks — while some metrics suggest caution, others indicate room for further gains, according to analysts. VanEck head of digital assets research Matthew Sigel observed that only a few indicators suggest a market peak, leaving room [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/">Analysts foresee upside potential for Bitcoin beyond $100k despite some red flags</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Bitcoin&#8217;s (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) </span>recent breach of the $100,000 price level has sparked discussions among analysts about market conditions and potential risks — while some metrics suggest caution, others indicate room for further gains, according to analysts.</p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/vaneck/">VanEck</a> head of digital assets research Matthew Sigel <a href="https://x.com/matthew_sigel/status/1864660133797679107">observed</a> that only a few indicators suggest a market peak, leaving room for potential price increases. </span></p>
+<p><span style="font-weight: 400;">Sigel pointed to a low MVRV Z-Score, subdued search interest for &#8220;Bitcoin,&#8221; relatively stable BTC market dominance, and a simple moving average multiplier still in a moderate range. </span></p>
+<p><span style="font-weight: 400;">He also</span><span style="font-weight: 400;"> acknowledged elevated funding rates but emphasized that these have persisted without triggering significant market corrections.</span></p>
+<h2>Call for caution</h2>
+<p>In contrast, a recent report by <span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/glassnode/">Glassnode</a> </span>highlighted metrics that <a href="https://insights.glassnode.com/the-week-onchain-week-49-2024/">call for caution</a>. The report emphasized risks stemming from the current redistribution of Bitcoin supply and intensified profit-taking behavior.</p>
+<p>The Realized Supply Density metric, which has dropped below 10%, reflects that a significant portion of Bitcoin&#8217;s circulating supply now sits in unrealized profit. Historically, such conditions have been associated with heightened market volatility.</p>
+<p>Another concerning metric is the Percent of Supply in Profit (PSIP), which shows that over 90% of Bitcoin&#8217;s supply is currently profitable—a level Glassnode categorizes as “Very High Risk.” This phase often precedes market corrections as investors look to secure gains.</p>
+<p>Additionally, the Net Unrealized Profit/Loss (NUPL) has surged to 0.59, signaling extreme market optimism that could heighten vulnerability to sell-offs. Similarly, the Realized Profit and Loss Ratio (RPLR) has climbed above 9, indicating intense profit-taking activity that might overwhelm market demand and lead to a pullback.</p>
+<h2><strong>Redistribution</strong></h2>
+<p>The redistribution of Bitcoin&#8217;s supply further illustrates these trends. Between March and early November, Bitcoin traded within a narrow range of $54,000 to $74,000.</p>
+<p>This extended period of consolidation allowed the supply to shift into higher cost bases, with around 15% of the circulating supply concentrated within this range. While this reflects increased market resilience, it also amplifies risks tied to the large proportion of supply now in profit.</p>
+<p>Despite these warning signs, some indicators suggest that market pressures may ease. Realized Profit, which measures USD gains from on-chain transactions, has fallen sharply from $10.5 billion daily during the rally to $2.5 billion — a 76% decline.</p>
+<p>Additionally, perpetual futures funding rates, which indicate leveraged demand, have started to stabilize, pointing to a potential cooling of speculative behavior. The mixed signals from these metrics highlight the complexity of Bitcoin’s current market conditions.</p>
+<p>The post <a href="https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/">Analysts foresee upside potential for Bitcoin beyond $100k despite some red flags</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/analysts-foresee-upside-potential-for-bitcoin-beyond-100k-despite-some-red-flags/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-deleverage.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-deleverage.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Bitcoin flash crashes to $90,200 causing over $885 million in liquidations</title>
+		<link>https://cryptoslate.com/bitcoin-flash-crashes-to-90200-causing-over-885-million-in-liquidations/</link>
+					<comments>https://cryptoslate.com/bitcoin-flash-crashes-to-90200-causing-over-885-million-in-liquidations/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 22:40:35 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456210</guid>
+
+					<description><![CDATA[<p>Bitcoin&#8217;s (BTC) historic rally above $100,000 hit a roadblock on Dec. 5 as the flagship crypto fell back into five-figure territory, leaving a trail of liquidations across the market. BTC gave up almost all of the 24-hour gains that took it to a new all-time high of $103,679. It fell to a low of roughly [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-flash-crashes-to-90200-causing-over-885-million-in-liquidations/">Bitcoin flash crashes to $90,200 causing over $885 million in liquidations</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bitcoin&#8217;s (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) historic rally above $100,000 hit a roadblock on Dec. 5 as the flagship crypto fell back into five-figure territory, leaving a trail of liquidations across the market.</p>
+<p>BTC gave up almost all of the 24-hour gains that took it to a new all-time high of $103,679. It fell to a low of roughly $90,300 for the day before attempting a recovery.</p>
+<p>Bitcoin was trading at $95,500 as of press time amid heavy volatility, based on <em>CryptoSlate</em> data.</p>
+<h2>Liquidations</h2>
+<p>Roughly $885.61 million in leveraged positions were liquidated in the past 24 hours, impacting 202,956 traders worldwide. Bitcoin accounted for $540 million of the total liquidations, followed by Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) with $105.53 million.</p>
+<p>Other altcoins also experienced substantial liquidations, including <a href="https://cryptoslate.com/coins/xrp/">XRP</a> with $57.07 million, <a href="https://cryptoslate.com/coins/dogecoin/">DOGE</a> with $37.54 million, and <a href="https://cryptoslate.com/coins/solana/">Solana</a> with $29.28 million. A combined $92 million was liquidated across other cryptocurrencies, highlighting the broad impact of Bitcoin&#8217;s price movement.</p>
+<p>Long traders, who bet on rising prices, bore the brunt of the impact, with $640.83 million in liquidated positions — 72.4% of the total.</p>
+<p>Short positions, which bet on price declines, accounted for $244.78 million. The largest single liquidation occurred on <a href="https://cryptoslate.com/companies/okx/">OKX</a>, where an $18.63 million BTC-USDT swap was forcibly closed.</p>
+<h2>High volatility</h2>
+<p>Breaking down the data further, $284.43 million was liquidated in just one hour, of which $279.50 million were longs. Over the last 12 hours, $552.54 million in liquidations were recorded, including $482.81 million in longs and $69.72 million in shorts.</p>
+<p>The four-hour liquidation figure stood at $428.42 million, reflecting heightened volatility during Bitcoin&#8217;s decline.</p>
+<p><em>Editor&#8217;s Note: The liquidation numbers may not be fully accurate due to extremely high volatility at the time the article was published.</em></p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-flash-crashes-to-90200-causing-over-885-million-in-liquidations/">Bitcoin flash crashes to $90,200 causing over $885 million in liquidations</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/bitcoin-flash-crashes-to-90200-causing-over-885-million-in-liquidations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/bitcoin-down-red.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/bitcoin-down-red.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Kraken survey reveals crypto holders&#8217; struggle with emotional trading decisions</title>
+		<link>https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/</link>
+					<comments>https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 21:30:43 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Trading]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456200</guid>
+
+					<description><![CDATA[<p>A new survey by Kraken revealed that 63% of US crypto holders believe emotional decision-making has negatively impacted their portfolios, with fear of missing out (FOMO) and fear, uncertainty, and doubt (FUD) playing significant roles. The survey, which gathered responses from 1,248 crypto investors, found that 84% had made decisions influenced by FOMO, and 81% [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/">Kraken survey reveals crypto holders&#8217; struggle with emotional trading decisions</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A new <a href="https://www.kraken.com/learn/crypto-fomo">survey</a> by <a href="https://cryptoslate.com/companies/kraken/">Kraken</a> revealed that 63% of US crypto holders believe emotional decision-making has negatively impacted their portfolios, with fear of missing out (FOMO) and fear, uncertainty, and doubt (FUD) playing significant roles.</p>
+<p>The survey, which gathered responses from 1,248 crypto investors, found that 84% had made decisions influenced by FOMO, and 81% acted on FUD.  Missing out on significant price surges emerged as the top emotional trigger for 60% of participants, compared to 17% who feared missing price dips.</p>
+<p>The findings underline how emotions continue to drive trading strategies in the volatile crypto market, especially as crypto becomes an <a href="https://cryptoslate.com/survey-suggests-democrats-see-crypto-as-more-important-to-election-than-republicans/">increasingly important</a> part of investors&#8217; portfolios.</p>
+<h2>FOMO and FUD</h2>
+<p>FOMO, the anxiety of missing a profitable opportunity, frequently pushes investors to act impulsively, particularly during market highs. The survey revealed that 58% of crypto holders frequently make decisions influenced by FOMO, with 26% occasionally succumbing to its effects.</p>
+<p>FUD, on the other hand, often causes hesitation or panic. Despite this, many respondents acknowledged that their reactions to these emotions had caused them to miss long-term opportunities. In fact, 88% of investors said they felt they had missed out on major gains.</p>
+<p>Age and gender differences play a role in emotional investing. Investors aged 45 to 60 were the most likely to feel they missed out on early gains (78%) but were also the most optimistic about the future, with 74% expressing confidence in significant returns ahead.</p>
+<p>Gender disparities were also evident, as men reported more frequent decisions based on FOMO (66%) compared to women (42%). Male investors also expressed higher regret, with 70% believing they had missed out on major gains, versus 48% of female respondents.</p>
+<h2>Social media influence</h2>
+<p>Social media emerged as a major factor influencing trading behavior.</p>
+<p>Among respondents who relied on platforms like Twitter or Instagram for market insights, 85% reported significant portfolio impacts from emotional trades. The rapid flow of information often amplifies FOMO and FUD, making it challenging for investors to maintain a rational approach.</p>
+<p>Despite the challenges, many investors are turning to strategies designed to reduce impulsive decisions. The survey found that 59% of respondents use dollar-cost averaging (DCA), a method involving regular investments regardless of price fluctuations.</p>
+<p>Other tools gaining traction include automated recurring buys, custom orders to target specific prices, and AI trading bots to eliminate emotional bias. These strategies help investors focus on long-term goals rather than reacting to short-term market movements.</p>
+<p>Despite the prevalence of FOMO and FUD, 84% of respondents <a href="https://cryptoslate.com/crypto-top-two-choice-for-etf-investors-in-latest-schwab-survey/">remain hopeful</a> about the future of crypto. Older investors, particularly those aged 45 and up, displayed the highest levels of optimism, with many believing significant gains still lie ahead.</p>
+<p>The post <a href="https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/">Kraken survey reveals crypto holders&#8217; struggle with emotional trading decisions</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/kraken-survey-reveals-crypto-holders-struggle-with-emotional-trading-decisions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/07/kraken-blockchain-security.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/07/kraken-blockchain-security.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Trump celebrates Bitcoin surpassing $100k milestone following election win</title>
+		<link>https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/</link>
+					<comments>https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 20:22:24 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Election 2024]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456177</guid>
+
+					<description><![CDATA[<p>President-elect Donald Trump lauded Bitcoin&#8217;s (BTC) record-breaking ascent past $100,000, congratulated Bitcoin investors on his Truth Social platform, and attributed the milestone to his influence. Trump declared that Bitcoin investors are &#8220;welcome,&#8221; framing the surge as a testament to his pro-growth policies. He said: &#8220;CONGRATULATIONS BITCOINERS!!! $100,000!!! YOU’RE WELCOME!!! Together, we will Make America Great Again!&#8221; [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Trump celebrates Bitcoin surpassing $100k milestone following election win</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>President-elect <span style="font-weight: 400;"><a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a></span> lauded Bitcoin&#8217;s <span style="font-weight: 400;">(<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>)</span><span style="box-sizing: border-box; margin: 0px; padding: 0px;"> record-breaking ascent past $100,000, congratulated Bitcoin investors on his Truth Social platform, and attributed</span> the milestone to his influence.</p>
+<p>Trump declared that Bitcoin investors are &#8220;<a href="https://truthsocial.com/@realDonaldTrump/posts/113600319916325790">welcome,</a>&#8221; framing the surge as a testament to his pro-growth policies. He said:</p>
+<blockquote><p>&#8220;CONGRATULATIONS BITCOINERS!!! $100,000!!! YOU’RE WELCOME!!! Together, we will Make America Great Again!&#8221;</p></blockquote>
+<p>Following the US election results on Nov. 6, Bitcoin experienced a series of all-time highs, culminating in a historic all-time high of $104,611 on Dec. 4. However, as of press time, the flagship crypto was trading around $98,300 following a retracement.</p>
+<p>Over this period, BTC delivered a staggering 36% return, with market sentiment buoyed by what many traders and analysts dubbed the &#8220;<a href="https://cryptoslate.com/bitcoin-expected-to-face-high-volatility-as-trump-trade-and-q4-seasonality-converge-bitfinex/">Trump trade.</a>&#8221;</p>
+<h2><strong>Trump trade</strong></h2>
+<p>Bitcoin&#8217;s rally gained traction in early October after a period of <a href="https://cryptoslate.com/bitcoin-on-track-for-longest-flat-market-in-halving-year-history/">prolonged stagnation</a>, driven by speculation surrounding the election&#8217;s outcome. Traders and investors began pouring into risk assets, including Bitcoin and US equities, anticipating that a Trump victory would catalyze a price surge.</p>
+<p>This pre-election momentum pushed BTC prices up 20% in just a month. Market analysts responded by revising their forecasts, aligning investment strategies with the bullish sentiment spurred by Trump&#8217;s political comeback.</p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/standard-chartered/">Standard Chartered&#8217;s</a> </span> global head of digital assets research, Geoffrey Kendrick, <strong><a href="https://cryptoslate.com/standard-chartered-advises-buying-bitcoin-below-60000-despite-geopolitical-uncertainty/">said</a></strong> investors should buy Bitcoin&#8217;s dip at $60,000 on Oct. 3, citing Trump&#8217;s potential win as a pivotal factor. Kendrick&#8217;s call coincided with growing market confidence in a pro-crypto administration.</p>
+<p><span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/vaneck/">VanEck’s</a> </span>head of digital asset research, Matthew Sigel, echoed this optimism, raising the firm&#8217;s price target for Bitcoin to <a href="https://cryptoslate.com/vaneck-exec-predicts-institutional-tsunami-may-drive-bitcoin-to-180k-within-a-year/">$180,000</a> during the current bull cycle. Sigel attributed his bullish outlook to a combination of institutional demand and the political tailwinds from Trump&#8217;s election victory.</p>
+<p>Meanwhile, <span style="font-weight: 400;"><a href="https://cryptoslate.com/companies/bitwise/">Bitwise</a> </span>CIO <a href="https://cryptoslate.com/people/matthew-hougan/">Matthew Hougan</a> described Trump&#8217;s presidency as heralding a &#8220;<a href="https://cryptoslate.com/trump-election-win-set-to-kick-off-golden-age-of-crypto-in-the-us-bitwise-cio/">Golden Age of Crypto.</a>&#8221; In a memo released after the election, Hougan suggested that Trump&#8217;s administration could usher in greater regulatory clarity for the US crypto market.</p>
+<p>Hougan emphasized that Bitcoin&#8217;s fundamentals entering 2024 were already robust, bolstered by institutional demand following the approval of spot Bitcoin ETFs in the US and the increasing adoption of real-world use cases.</p>
+<p>However, he noted that a pro-crypto government could amplify these gains, providing the final push to cement Bitcoin&#8217;s position as a mainstream asset class.</p>
+<p>The post <a href="https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/">Trump celebrates Bitcoin surpassing $100k milestone following election win</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/trump-celebrates-bitcoin-surpassing-100k-milestone-following-election-win/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin-whitehouse.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/trump-bitcoin-whitehouse.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>How the crypto community reacted to Bitcoin&#8217;s $100,000 record</title>
+		<link>https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/</link>
+					<comments>https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 16:00:35 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[People]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456100</guid>
+
+					<description><![CDATA[<p>Bitcoin has achieved an unprecedented milestone, surpassing the $100,000 mark for the first time in its history. Data from CryptoSlate showed that the top digital asset peaked at $103,465.81 on Dec. 5, showcasing its most remarkable performance since its inception. This surge propelled Bitcoin&#8217;s market capitalization beyond $2 trillion, marking a pivotal moment in its [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/">How the crypto community reacted to Bitcoin&#8217;s $100,000 record</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> has achieved an unprecedented milestone, surpassing the $100,000 mark for the first time in its history.</p>
+<p>Data from <em>CryptoSlate</em> showed that the top digital asset peaked at $103,465.81 on Dec. 5, showcasing its most remarkable <a href="https://cryptoslate.com/bitcoin-hits-historic-100000-price-level-as-1000-sats-now-equal-1/">performance</a> since its inception.</p>
+<p>This surge propelled Bitcoin&#8217;s market capitalization beyond $2 trillion, marking a pivotal moment in its journey. Further, the total crypto market cap soared to a record $3.6 trillion, underlining the sector&#8217;s explosive growth.</p>
+<h2>How the crypto community reacted</h2>
+<p>The $100,000 milestone ignited widespread celebrations within the crypto community, with many viewing it as a defining moment that cements Bitcoin&#8217;s role in the global financial landscape.</p>
+<p>US President-elect <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a> joined in on the excitement, congratulating Bitcoin holders and crediting the achievement to his incoming administration&#8217;s pro-crypto policies. He posted,</p>
+<blockquote><p>&#8220;CONGRATULATIONS BITCOINERS!!! $100,000!!! YOU’RE WELCOME!!!&#8221;</p></blockquote>
+<p>Since Trump&#8217;s election victory in November, he has appointed several pro-crypto candidates and maintained that he would adopt a <a href="https://cryptoslate.com/trump-confirms-nomination-of-paul-atkins-as-the-new-sec-chair/">crypto-friendly approach</a>. These decisive actions have unsurprisingly bolstered the crypto industry uptrend, with several digital assets climbing to new highs since then.</p>
+<p><a href="https://cryptoslate.com/companies/gemini/">Gemini</a> exchange co-founder <a href="https://cryptoslate.com/people/tyler-winklevoss/">Tyler Winklevoss</a> <a href="https://x.com/tyler/status/1864521751142518878?t=cQrZJ_u_bo3QbqUAS18cbA&amp;s=19">compared</a> the milestone to landmark historical events, calling it as significant as the moon landing or the fall of the Berlin Wall.</p>
+<p>Meanwhile, <a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> CEO <a href="https://cryptoslate.com/people/brian-armstrong/">Brian Armstrong</a> highlighted Bitcoin&#8217;s unparalleled performance, <a href="https://x.com/brian_armstrong/status/1864510348856053858?t=chcOW0hdtT2jO_rzZEObKg&amp;s=08">noting</a> that an investment of $100 in Bitcoin at Coinbase&#8217;s launch in 2012 would now yield over $1.5 million.</p>
+<p>Considering this, Armstrong proposed that governments adopt Bitcoin as a strategic reserve asset to counter inflationary pressures.</p>
+<p>Additionally, <a href="https://cryptoslate.com/companies/binance/">Binance</a> founder <a href="https://cryptoslate.com/people/changpeng-zhao/">Changpeng Zhao</a> <a href="https://x.com/cz_binance/status/1864549839498850700?t=nfnmct3CM7A6tmwHbrhAFw&amp;s=19">hailed</a> Bitcoin&#8217;s resilience over the past years and framed its price surge as evidence of the devaluation of traditional assets.</p>
+<p><span style="color: #333333; font-size: 22px; font-weight: bold;">What next for BTC?</span></p>
+<p>Following this historic breakthrough, the market now focuses on Bitcoin&#8217;s significant milestones.</p>
+<p>Analysts predict Bitcoin could become the leading &#8220;store of value,&#8221; <a href="https://cryptoslate.com/fed-chair-powell-views-bitcoin-as-digital-gold-not-a-dollar-competitor/">surpassing gold</a> within the next decade. According to Bernstein&#8217;s Gautam Chhugani, Bitcoin&#8217;s 141% annual growth, driven mainly by expectations of crypto-friendly US policies, could propel the asset to $200,000 by late 2025.</p>
+<p>Standard Chartered analysts echo this sentiment, projecting Bitcoin could double in value by the end of 2025.</p>
+<p>Analysts at the firm noted that factors such as BTC&#8217;s potential integration into sovereign wealth funds and US retirement portfolios as catalysts for further growth. Institutional players like <a href="https://cryptoslate.com/companies/microstrategy/">MicroStrategy</a> are also expected to <a href="https://cryptoslate.com/insights/microstrategys-bitcoin-holdings-surpass-400000-btc-after-latest-1-5-billion-buy/">increase their Bitcoin holdings</a>, fueling momentum in the coming years.</p>
+<p>The post <a href="https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/">How the crypto community reacted to Bitcoin&#8217;s $100,000 record</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/how-the-crypto-community-reacted-to-bitcoins-100000-record/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-100k-pump.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/bitcoin-100k-pump.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Elon Musk impressed by El Salvador’s over $300 million unrealized profit in Bitcoin</title>
+		<link>https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/</link>
+					<comments>https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 12:11:55 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[El Salvador]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=456063</guid>
+
+					<description><![CDATA[<p>El Salvador&#8217;s president Nayib Bukele is celebrating the country&#8217;s success as its Bitcoin holdings surpass $300 million in unrealized profit. In a Dec. 5 post on X (formerly Twitter), Bukele shared a screenshot showing that the country&#8217;s Bitcoin holdings reached over $600 million. This spike came as Bitcoin&#8217;s price surged past $100,000, hitting an all-time [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/">Elon Musk impressed by El Salvador’s over $300 million unrealized profit in Bitcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>El Salvador&#8217;s president <a href="https://cryptoslate.com/people/nayib-bukele/">Nayib Bukele</a> is celebrating the country&#8217;s success as its <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> holdings surpass $300 million in unrealized profit.</p>
+<p>In a Dec. 5 <a href="https://x.com/nayibbukele/status/1864506095131144278">post</a> on X (formerly Twitter), Bukele shared a screenshot showing that the country&#8217;s Bitcoin holdings reached over $600 million. This spike came as Bitcoin&#8217;s price surged past $100,000, hitting an all-time high of $103,465.81.</p>
+<p>According to the screenshot, the value of El Salvador&#8217;s Bitcoin holdings increased by 117.74%, reaching approximately $603 million. Bukele&#8217;s figures show that the country initially invested around $269.7 million in Bitcoin, resulting in an unrealized profit exceeding $335 million.</p>
+<p>The term &#8220;unrealized profit&#8221; refers to the difference between the initial purchase price and the asset&#8217;s current market value, which changes with market fluctuations.</p>
+<p>Over the years, El Salvador&#8217;s unwavering commitment to Bitcoin has made it a focal point of support and criticism.</p>
+<p>Despite repeated warnings from international financial organizations, including the <a href="https://cryptoslate.com/el-salvador-doubles-down-on-bitcoin-defies-imf-concerns/">International Monetary Fund (IMF)</a>, Bukele&#8217;s administration has continued accumulating the flagship digital asset since it was made legal tender in 2021.</p>
+<p>Additionally, the government has introduced a <a href="https://cryptoslate.com/el-salvador-entices-bitcoin-investors-with-citizenship-offer/">range of initiatives</a> to further integrate Bitcoin into the national economy. These include exploring using the country&#8217;s <a href="https://cryptoslate.com/el-salvador-toys-with-renting-170-volcanoes-to-bitcoin-miners-aims-to-disrupt-industry/">volcanoes for Bitcoin mining</a> and launching a BTC <a href="https://cryptoslate.com/el-salvador-launches-bitcoin-training-for-80000-public-servants/">training and certification program</a> for public officials.</p>
+<h2>Community reacts</h2>
+<p>The crypto community has primarily supported El Salvador&#8217;s <a href="https://cryptoslate.com/president-bukele-champions-el-salvadors-multiple-bitcoin-revenue-streams/">Bitcoin strategy</a>, noting the significant boost to the country&#8217;s financial position.</p>
+<p><a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a>, a prominent tech billionaire and crypto advocate, <a href="https://x.com/elonmusk/status/1864511096045875570?t=-jq1mVvVAV9LnuvnXsnTYw&amp;s=19">praised</a> the impressive profits the Central American country has generated since it adopted the top crypto.</p>
+<p>According to Arkham Intelligence <a href="https://intel.arkm.com/explorer/entity/tesla">data</a>, Musk&#8217;s electric car company Tesla&#8217;s Bitcoin holdings have also retaken the $1 billion mark amid BTC&#8217;s price rise. Had the company held all the Bitcoin it bought in 2021, it would now be worth $4 billion.</p>
+<p>Meanwhile, Stacy Herbert, Director of the El Salvador Bitcoin Office, acknowledged the efforts of the team behind the country&#8217;s success, stating:</p>
+<blockquote><p>&#8220;So much hard work went into this success. And one day the story will be told about how a very small team of us made this happen.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/">Elon Musk impressed by El Salvador’s over $300 million unrealized profit in Bitcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/elon-musk-impressed-by-el-salvadors-over-300-million-unrealized-profit-in-bitcoin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/12/elon-musk-elsalvador-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/12/elon-musk-elsalvador-bitcoin.jpg" length="1100" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>

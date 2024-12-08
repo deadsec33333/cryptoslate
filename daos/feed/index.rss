@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>DAOs News | CryptoSlate</title>
+	<atom:link href="https://cryptoslate.com/daos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptoslate.com/daos/</link>
+	<description>Cryptocurrency News and Real-time Coin Data</description>
+	<lastBuildDate>Tue, 19 Nov 2024 15:17:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://cryptoslate.com/wp-content/uploads/2023/06/cropped-cryptoslate-transparent-icon-256x256-1-32x32.png</url>
+	<title>DAOs News | CryptoSlate</title>
+	<link>https://cryptoslate.com/daos/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>US court rules DAOs can face legal liability under partnership law</title>
+		<link>https://cryptoslate.com/us-court-rules-daos-can-face-legal-liability-under-partnership-law/</link>
+					<comments>https://cryptoslate.com/us-court-rules-daos-can-face-legal-liability-under-partnership-law/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 15:55:47 +0000</pubDate>
+				<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[California]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[Lido]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=453670</guid>
+
+					<description><![CDATA[<p>The US District Court for the Northern District of California has ruled that decentralized autonomous organizations (DAOs) can face legal liability under general partnership laws. Judge Vince Chhabria&#8217;s decision, delivered on Nov. 18, establishes that DAOs and their identifiable members can be held accountable for legal actions. This judgment emerged from a lawsuit involving Lido [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/us-court-rules-daos-can-face-legal-liability-under-partnership-law/">US court rules DAOs can face legal liability under partnership law</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The US District Court for the Northern District of California has ruled that decentralized autonomous organizations (DAOs) can face legal liability under general partnership laws.</p>
+<p>Judge Vince Chhabria&#8217;s <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.422388/gov.uscourts.cand.422388.115.0.pdf">decision</a>, delivered on Nov. 18, establishes that DAOs and their identifiable members can be held accountable for legal actions.</p>
+<p>This judgment emerged from a lawsuit involving <a href="https://cryptoslate.com/products/lido/">Lido</a> DAO, a decentralized autonomous organization behind the Ethereum <a href="https://cryptoslate.com/coins/steth/">liquid staking protocol</a>.</p>
+<p>The organization attempted to avoid liability by claiming it was not a legal entity. However, the court determined that Lido DAO operates as a general partnership. The Judge wrote:</p>
+<blockquote><p>&#8220;The Lido DAO general partnership [may be] narrower (for instance, including only the founders) or broader (for instance, including everyone who has voted on a governance proposal or who holds any LDO).&#8221;</p></blockquote>
+<p>Under California law, a partnership is formed when two or more parties work together for profit, regardless of intent to create a formal partnership.</p>
+<h2>Lido DAO lawsuit</h2>
+<p>Andrew Samuels, a former LDO token holder, initiated the lawsuit after incurring losses from a decline in the token&#8217;s value.</p>
+<p>Samuels accused <a href="https://cryptoslate.com/coins/lido-dao-token/">Lido DAO</a> of offering unregistered securities and violating federal securities laws. He argued that the DAO and its identifiable partners should bear responsibility for his financial losses.</p>
+<p>Judge Chhabria supported Samuels&#8217; claims, emphasizing that Lido DAO&#8217;s decentralized structure does not shield it from legal action.</p>
+<p>The lawsuit named institutional investors such as <a href="https://cryptoslate.com/companies/paradigm/">Paradigm</a>, Andreessen Horowitz (<a href="https://cryptoslate.com/companies/a16z/">a16z</a>), Dragonfly Digital Management, and Robot Ventures as liable partners. While Robot Ventures&#8217; dismissal motion was accepted due to insufficient evidence, the others remain implicated.</p>
+<p>The court further clarified that Lido DAO&#8217;s business model aligns with general partnership criteria. It operates an Ethereum staking service that collects a percentage of staking rewards, with plans to distribute revenue among founders and token holders.</p>
+<h2>Community reaction</h2>
+<p>The ruling has triggered unease within the blockchain sector as it sets a precedent that could impact other DAOs and their contributors.</p>
+<p>Miles Jennings, General Counsel at venture capital firm a16z Crypto, <a href="https://x.com/milesjennings/status/1858720755523219932">called</a> it a significant challenge for decentralized governance. Jennings warned that even minimal participation in a DAO could lead to legal liability for other members&#8217; actions.</p>
+<p>He suggested this might push the industry toward adopting the <a href="https://cryptoslate.com/wyoming-to-recognize-daos-as-legal-entities-under-newly-passed-law/">Decentralized Unincorporated Non-profit Association Act (DUNA)</a> as a protective measure. DUNA is a bill passed in Wyoming that recognizes blockchain-based decentralized autonomous organizations (DAOs) as legal entities.</p>
+<p>Similarly, pro-crypto lawyer Gabriel Shapiro commented that DAOs may now require formal legal structures to minimize risk. He admitted efforts to avoid such outcomes had reached their limits, and legislative solutions might eventually offer relief.</p>
+<p>He <a href="https://x.com/lex_node/status/1858812350482075682">added</a>:</p>
+<blockquote><p>&#8220;As we know from TornadoCash it is very easy to prosecute the people involved in a decentralized system even if the system itself is unstoppable.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/us-court-rules-daos-can-face-legal-liability-under-partnership-law/">US court rules DAOs can face legal liability under partnership law</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/us-court-rules-daos-can-face-legal-liability-under-partnership-law/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/dao-partnership-laws-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/dao-partnership-laws-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Polymarket can serve as an effective source of information, Buterin says</title>
+		<link>https://cryptoslate.com/polymarket-can-serve-as-an-effective-source-of-information-buterin-says/</link>
+					<comments>https://cryptoslate.com/polymarket-can-serve-as-an-effective-source-of-information-buterin-says/#respond</comments>
+		
+		<dc:creator><![CDATA[Monika Ghosh]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2024 10:52:40 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[People]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=452309</guid>
+
+					<description><![CDATA[<p>Prediction markets like Polymarket can be more than just a platform to bet on elections. They can be a powerful tool with the &#8220;potential to create better implementations of social media, science, news, governance, and other fields,&#8221; Ethereum co-founder Vitalik Buterin wrote in his blog. Buterin calls this &#8220;info finance.&#8221; This is how he defines [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/polymarket-can-serve-as-an-effective-source-of-information-buterin-says/">Polymarket can serve as an effective source of information, Buterin says</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Prediction markets like <a href="http://cryptoslate.com/companies/polymarket">Polymarket</a> can be more than just a platform to bet on elections. They can be a powerful tool with the &#8220;potential to create better implementations of social media, science, news, governance, and other fields,&#8221; Ethereum co-founder <a href="http://cryptoslate.com/people/vitlaik-buterin">Vitalik Buterin</a> wrote in his <a href="https://vitalik.eth.limo/general/2024/11/09/infofinance.html">blog</a>.</p>
+<p>Buterin calls this &#8220;info finance.&#8221; This is how he defines it:</p>
+<blockquote><p>&#8220;&#8230;info finance is a discipline where you (i) start from a fact that you want to know, and then (ii) deliberately design a market to optimally elicit that information from market participants.&#8221;</p></blockquote>
+<p>According to Buterin, Polymarket turned out to be a &#8220;very effective&#8221; source of information regarding the U.S. elections this week. Polymarket correctly predicted Trump&#8217;s win with 60/40 odds. But the platform also displayed that Trump had over a 95% chance of winning and over a 90% chance of gaining control of all branches of government even as some news sources tried to keep hope alive for vice president Kamala Harris.</p>
+<p>Therefore, platforms like Polymarket have two distinct uses—bettors use it to place bets while others can read the charts, treating Polymarket as a news site. Buterin highlighted that he reads the charts of Polymarket as one of the steps in his &#8220;information-gathering workflow&#8221; and claims that it has helped him &#8220;become more informed more efficiently.&#8221;</p>
+<p>Buterin believes that artificial intelligence (AI) is likely to &#8220;turbocharge&#8221; info finance over the next decade by participating in prediction markets.</p>
+<h2>Use Case &#8211; DAOs</h2>
+<p>Info finance has applications in social media as well as decentralized Autonomous Organizations (DAOs). According to Buterin, many DAOs face a common problem: there are too many decisions to be taken and most people are not willing to participate in most of them. This leads to the widespread use of delegation, which raises centralization risks and vulnerability to attacks.</p>
+<p>Buterin believes that a DAO could use a prediction market, where humans and AI participate, to predict the votes for smaller decisions. The major decisions can be voted on by DAO members on rare occasions.</p>
+<p>Info finance applications can solve &#8220;trust problems,&#8221; Buterin wrote. This is further made possible now by affordable gas fees on blockchains.</p>
+<p>Info finance &#8220;contains many potential paths to solving important problems in decentralized governance,&#8221; Buterin wrote.</p>
+<p>The post <a href="https://cryptoslate.com/polymarket-can-serve-as-an-effective-source-of-information-buterin-says/">Polymarket can serve as an effective source of information, Buterin says</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/polymarket-can-serve-as-an-effective-source-of-information-buterin-says/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/polymarket-vitalik.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/polymarket-vitalik.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>MakerDAO community decides to continue Sky rebrand amid centralization concerns in vote</title>
+		<link>https://cryptoslate.com/makerdao-community-decides-to-continue-sky-rebrand-amid-centralization-concerns-in-vote/</link>
+					<comments>https://cryptoslate.com/makerdao-community-decides-to-continue-sky-rebrand-amid-centralization-concerns-in-vote/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2024 18:00:43 +0000</pubDate>
+				<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[Sky]]></category>
+		<category><![CDATA[USDS]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=452190</guid>
+
+					<description><![CDATA[<p>The DeFi project Sky has retained its new brand identity rather than revert to MakerDAO following a community vote. Polling data revealed that 79.3% of votes supported maintaining the Sky brand as the core protocol name. In contrast, about 18.46% backed a &#8220;limited brand refresh&#8221; under MakerDAO, while a mere 2.2% preferred a full reversion [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/makerdao-community-decides-to-continue-sky-rebrand-amid-centralization-concerns-in-vote/">MakerDAO community decides to continue Sky rebrand amid centralization concerns in vote</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The DeFi project Sky has retained its new brand identity rather than <a href="https://cryptoslate.com/sky-considers-reverting-to-makerdao-after-community-pushback/">revert to MakerDAO</a> following a community vote.</p>
+<p>Polling <a href="https://vote.makerdao.com/polling/QmZzSVJE">data</a> revealed that 79.3% of votes supported maintaining the Sky brand as the core protocol name. In contrast, about 18.46% backed a &#8220;limited brand refresh&#8221; under MakerDAO, while a mere 2.2% preferred a full reversion to the <a href="https://cryptoslate.com/coins/maker/">MakerDAO</a> branding.</p>
+<p>According to a Nov. 7 <a href="https://x.com/SkyEcosystem/status/1854643511406006447">statement</a>, the decision signifies a clear path forward for the Sky ecosystem, which has been positioned as the protocol&#8217;s primary brand. Essentially, the vote supports the transition from MKR to SKY and designates Sky as the identity for both its frontend app and backend protocol.</p>
+<p>Sky co-founder <a href="https://cryptoslate.com/people/rune-christensen/">Rune Christensen</a> expressed enthusiasm about moving forward with the new brand, <a href="https://x.com/RuneKek/status/1854557680389521530">noting</a> that:</p>
+<blockquote><p>&#8220;Sky stays as the brand for the backend protocol powering USDS &#8211; the stablecoin with access to native token rewards and savings rate.&#8221;</p></blockquote>
+<h2>Centralization concerns</h2>
+<p>While the vote to retain the Sky brand gained broad support, concerns over centralized voting influence surfaced within the community.</p>
+<p>The polling data showed that only around 20 participants cast votes, with four large entities controlling about 80% of the vote share. Each of these entities held roughly 20% voting power, and just one voted against the rebrand decision, leaving smaller participants with limited sway over the outcome.</p>
+<p>Venture capitalist Mike Dudas raised concerns about these dynamics, pointing out that concentrated voting power among a few entities exposes DAOs to centralization issues. He noted that &#8220;five large entities accounted for 80% of the MakerDAO vote,&#8221; suggesting that <a href="https://cryptoslate.com/glossary/dao/">DAOs</a> may struggle to uphold fair governance under such conditions.</p>
+<p>The centralization dilemma has become a recurring issue for DAOs. A <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441178">research paper</a> published in 2023 outlined how low voter participation can concentrate control in the hands of large token holders or &#8220;whales,&#8221; undermining DAOs&#8217; decentralized goals.</p>
+<p>Without high levels of voter engagement, the risk of centralized control grows, as smaller stakeholders often hold minimal influence over major decisions.</p>
+<h2>Looking ahead</h2>
+<p>With the Sky brand reaffirmed, Christensen <a href="https://x.com/RuneKek/status/1854569937190129958">detailed</a> several upcoming goals for the ecosystem. Key priorities include expanding the adoption of USDS by launching <a href="https://cryptoslate.com/coins/solana/">Solana</a> and <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> Layer 2 solutions.</p>
+<p>Moreover, plans are underway to migrate MKR to SKY across centralized exchanges and update listings on platforms like CoinGecko. Additionally, Sky is preparing to launch Spark, its first major project under the new brand, offering SPK token rewards for USDS holders.</p>
+<p>Christensen also shared that a proposal draft is being worked on to make SKY a deflationary token and to define tokenomics for Spark. These steps align with Sky&#8217;s vision of long-term sustainability and robust community engagement.</p>
+<p>The post <a href="https://cryptoslate.com/makerdao-community-decides-to-continue-sky-rebrand-amid-centralization-concerns-in-vote/">MakerDAO community decides to continue Sky rebrand amid centralization concerns in vote</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/makerdao-community-decides-to-continue-sky-rebrand-amid-centralization-concerns-in-vote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/11/sky-makerdao.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/11/sky-makerdao.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Lido DAO launches its Community Staking Module to boost Ethereum decentralization</title>
+		<link>https://cryptoslate.com/lido-dao-launches-its-community-staking-module-to-boost-ethereum-decentralization/</link>
+					<comments>https://cryptoslate.com/lido-dao-launches-its-community-staking-module-to-boost-ethereum-decentralization/#respond</comments>
+		
+		<dc:creator><![CDATA[Gino Matos]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2024 21:07:04 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Staking]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=450214</guid>
+
+					<description><![CDATA[<p>Liquid staking protocol Lido launched its Community Staking Module (CSM) on the Ethereum (ETH) mainnet on Oct. 25. The CSM allows any user staking ETH to become a solo validator. CSM aims to reduce barriers to Ethereum staking by allowing individuals to operate Ethereum validators with less technical know-how and an Ether deposit requirement smaller [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/lido-dao-launches-its-community-staking-module-to-boost-ethereum-decentralization/">Lido DAO launches its Community Staking Module to boost Ethereum decentralization</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Liquid staking protocol <a href="https://cryptoslate.com/companies/lido/">Lido</a> launched </span><span style="font-weight: 400;">its Community Staking Module (CSM) on the Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) mainnet on Oct. 25. The CSM allows any user staking ETH to become a <a href="https://x.com/LidoFinance/status/1849852480474993083">solo validator</a>.</span></p>
+<p><span style="font-weight: 400;">CSM aims to reduce barriers to Ethereum staking by allowing individuals to operate Ethereum validators with less technical know-how and an Ether deposit requirement smaller than 32 ETH. </span></p>
+<p><span style="font-weight: 400;">However, CSM is currently in the &#8220;Early Adoption&#8221; phase, allowing only curated community stakers to participate, with the fully permissionless phase set to go live soon.</span></p>
+<p>The parameters <a href="https://snapshot.org/#/lido-snapshot.eth/proposal/0xd0d7bfd68f2241524dbb14ae6fe0e8414b9fe3e0dcfc50641a8d28f0067d6693">approval</a> for the mainnet release had 109 Lido DAO governance members allocating 71 million <a href="https://cryptoslate.com/coins/lido-dao-token/">LDO</a> tokens in favor, while 86 members voted against it.</p>
+<p><span style="font-weight: 400;">Lido is currently the largest decentralized application by total value locked, with over $24 billion in its smart contracts, </span><strong><a href="https://defillama.com/">according</a></strong><span style="font-weight: 400;"> to DefiLlama.</span></p>
+<p><span style="font-weight: 400;">Notably, CSM underwent a test period on Ethereum&#8217;s testnet Holesky initiated on July 1. The three-month trial welcomed over 370 unique node operators, including 70 solo stakers, within the first 10 days.</span></p>
+<h2><strong>Enhancing accessibility</strong></h2>
+<p><span style="font-weight: 400;">The Ethereum staking landscape faces an old challenge consisting of the high capital and technical expertise typically required to run a validator. </span></p>
+<p><span style="font-weight: 400;">Unlike conventional solo staking, which requires a 32 ETH bond — equating to $79,000 at current prices — the CSM reduces the threshold to 2.4 ETH to get started and 1.3 ETH for subsequent validators. </span></p>
+<p><span style="font-weight: 400;">Additionally, potential validators can use Lido&#8217;s interface and don&#8217;t need to set up their own operation.</span></p>
+<p><span style="font-weight: 400;">Thus, by allowing a wide array of participants to the network, the CSM contributes to Ethereum’s decentralization.</span></p>
+<p><span style="font-weight: 400;">Dmitry Gusakov, CSM Technical Lead and Lido Protocol Contributor, said: </span></p>
+<blockquote><p><strong>&#8220;The Community Staking Module allows more people to contribute to Ethereum&#8217;s security and decentralization, creating a healthier, more resilient network. We’re committed to breaking down barriers, so anyone, regardless of financial or technical background, can contribute to Ethereum’s security.”</strong></p></blockquote>
+<p><span style="font-weight: 400;">The CSM is based on the Staking Router, a modular architectural upgrade that allows anyone to develop on-ramps for new node operators.</span></p>
+<p>The post <a href="https://cryptoslate.com/lido-dao-launches-its-community-staking-module-to-boost-ethereum-decentralization/">Lido DAO launches its Community Staking Module to boost Ethereum decentralization</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/lido-dao-launches-its-community-staking-module-to-boost-ethereum-decentralization/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/05/lido-ethereum-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/05/lido-ethereum-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Japanese Prime Minister reaffirms strong support for Web3 industry</title>
+		<link>https://cryptoslate.com/japanese-prime-minister-reaffirms-strong-support-for-web3-industry/</link>
+					<comments>https://cryptoslate.com/japanese-prime-minister-reaffirms-strong-support-for-web3-industry/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Wed, 28 Aug 2024 18:15:49 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=440944</guid>
+
+					<description><![CDATA[<p>Japanese Prime Minister Fumio Kishida said the country plans to become a leader in web3 innovation and reaffirmed the government&#8217;s strong support for the blockchain and crypto industry. Kishida made the remarks during his keynote address at the WebX2024 conference on Aug. 28. He also emphasized Japan&#8217;s proactive approach during the talk, noting that the country [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/japanese-prime-minister-reaffirms-strong-support-for-web3-industry/">Japanese Prime Minister reaffirms strong support for Web3 industry</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Japanese Prime Minister Fumio Kishida said the country plans to become a leader in web3 innovation and reaffirmed the government&#8217;s strong support for the blockchain and crypto industry.</p>
+<p>Kishida made the remarks during his keynote address at the WebX2024 conference on Aug. 28. He also emphasized Japan&#8217;s proactive approach during the talk, noting that the country has implemented significant regulatory measures to help <a href="https://cryptoslate.com/japan-revises-regulatory-framework-to-allow-startups-to-raise-capital-via-digital-assets/">nurture the ecosystem</a>.</p>
+<h2>Supportive reforms</h2>
+<p>Kishida highlighted the government&#8217;s recent tax reforms as a cornerstone of Japan&#8217;s strategy to support Web3 startups and noted that the industry has been growing since the changes.</p>
+<p>Among these reforms is the elimination of taxes on unrealized crypto gains, a move aimed at reducing financial pressures on emerging companies and encouraging innovation in the sector. By easing these burdens, Japan hopes to attract both domestic and international entrepreneurs to its burgeoning Web3 ecosystem.</p>
+<p>Kishida also discussed <a href="https://cryptoslate.com/japan-greenlights-bill-allowing-investment-firms-to-hold-crypto/">new legislative changes</a> that allow limited partnership firms to invest in and hold digital assets. The new rules are expected to significantly boost domestic investment in Web3 ventures, which has been a key focus of the government&#8217;s efforts to position Japan as a global hub for blockchain innovation.</p>
+<p>The Prime Minister also referenced a government white paper that explores the potential of decentralized autonomous organizations (DAOs) and suggests creating a legal framework to recognize their status, further demonstrating the government&#8217;s commitment to fostering a supportive environment for Web3​</p>
+<h2>&#8216;New Capitalism&#8217;</h2>
+<p>Kishida linked the government&#8217;s support for Web3 technologies to his broader &#8220;New Capitalism&#8221; policy, which aims to balance economic growth with social welfare by leveraging innovative technologies to address societal challenges.</p>
+<p>He highlighted how Web3 and blockchain technologies could play a pivotal role in this vision by fostering financial inclusion, revitalizing the content industry, and enabling new forms of intellectual property management. Kishida described them as crucial tools for driving innovation and solving social issues, which are central to his economic agenda.</p>
+<p>The Prime Minister also emphasized that &#8220;New Capitalism&#8221; is about more than just economic policies; it&#8217;s about creating a society where innovation leads to tangible improvements in people&#8217;s lives. He framed Web3 as an essential component of this strategy, noting that its potential to revolutionize various industries aligns with the goals of his administration&#8217;s economic reform efforts.</p>
+<p>Kishida praised the private sector&#8217;s rapid adoption of Web3 technologies, noting that <a href="https://cryptoslate.com/sony-expands-into-crypto-with-the-acquisition-of-amber-japan/">several major corporations</a> have already <a href="https://cryptoslate.com/japanese-e-commerce-giant-mercari-to-allow-bitcoin-payments-for-products/">begun integrating blockchain solutions</a> into their business models. He emphasized the government&#8217;s proactive stance, designed to complement these developments and ensure that Japan remains at the forefront of global technological innovation.</p>
+<p>The post <a href="https://cryptoslate.com/japanese-prime-minister-reaffirms-strong-support-for-web3-industry/">Japanese Prime Minister reaffirms strong support for Web3 industry</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/japanese-prime-minister-reaffirms-strong-support-for-web3-industry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/japan-web3-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/japan-web3-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>MakerDAO rebrands as Sky, unveils new USDS stablecoin and SKY governance token</title>
+		<link>https://cryptoslate.com/makerdao-rebrands-as-sky-unveils-new-usds-stablecoin-and-sky-governance-token/</link>
+					<comments>https://cryptoslate.com/makerdao-rebrands-as-sky-unveils-new-usds-stablecoin-and-sky-governance-token/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Tue, 27 Aug 2024 12:45:53 +0000</pubDate>
+				<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=440618</guid>
+
+					<description><![CDATA[<p>MakerDAO has rebranded to Sky and announced the names of its upcoming upgraded tokens, USDS and SKY, set for September 18. The release of the names follows its recent confirmation of upgrades to its token ecosystem. The rebranding is part of MakerDAO&#8217;s &#8220;Endgame Plan,&#8221; a vision laid out by co-founder Rune Christensen aimed at transforming [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/makerdao-rebrands-as-sky-unveils-new-usds-stablecoin-and-sky-governance-token/">MakerDAO rebrands as Sky, unveils new USDS stablecoin and SKY governance token</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/makerdao-unveils-revamped-stablecoin-and-governance-tokens/">MakerDAO</a> has rebranded to Sky and announced the names of its upcoming upgraded tokens, USDS and SKY, set for September 18. The release of the names follows its recent <a href="https://x.com/SkyEcosystem/status/1826614481494962325">confirmation</a> of upgrades to its token ecosystem.</p>
+<p>The rebranding is part of MakerDAO&#8217;s &#8220;Endgame Plan,&#8221; a vision laid out by co-founder Rune Christensen aimed at transforming the structure of the DAO to enhance DeFi&#8217;s growth, accessibility, and resilience. Central to this transformation is introducing new tokens—USDS, an upgraded version of the DAI stablecoin, and SKY, the new governance token replacing MKR.</p>
+<p>Sky&#8217;s launch aims to help it shift toward simplifying the user experience in DeFi, with an emphasis on making the protocol more accessible to a broader audience. The rebranding also introduces a novel concept called &#8220;Sky Stars,&#8221; which are independent decentralized projects within the Sky ecosystem. These Sky Stars, beginning with the Spark protocol, are designed to foster rapid innovation while maintaining autonomy within the broader Sky framework.</p>
+<p>Per the announcement, USDS will function as an upgradable version of DAI, enabling users to transition their existing DAI holdings into the new stablecoin. Similarly, MKR holders will have the option to upgrade their tokens to SKY, with each MKR converting into 24,000 SKY tokens. The upgraded tokens will provide enhanced functionality, including access to the Sky Savings Rate (SSR) and Sky Token Rewards (STRs), designed to reward user participation in the protocol.</p>
+<p>In conjunction with the rebranding, a new platform called Sky.money will be launched to facilitate non-custodial access to the Sky protocol. However, it&#8217;s important to note that some features, such as the SSR and STRs, will be restricted in certain jurisdictions due to regulatory considerations.</p>
+<p>The transition from MakerDAO to Sky is claimed to be a foundational shift aimed at scaling DeFi&#8217;s unique benefits. As Christensen noted, the evolution to Sky represents a step towards creating a more robust and user-friendly decentralized financial infrastructure, leveraging the success and security of the Maker protocol to drive the next phase of DeFi development.</p>
+<h2>Rebranding amid DeFi tensions</h2>
+<p>In 2024, MakerDAO has faced growing tensions with Aave. This discord stems from MakerDAO&#8217;s decision to back a significant portion of DAI with Ethena Labs&#8217; synthetic dollar, USDe, a move perceived as <a href="https://cryptoslate.com/experts-worry-ethenas-bitcoin-backing-strategy-for-usde-could-bring-contagion-risks/">risky</a> by some in the DeFi community.</p>
+<p>Aave expressed concerns over MakerDAO&#8217;s governance actions, which are seen as increasingly aggressive and unpredictable. This has led to a proposal from Aave to <a href="https://cryptoslate.com/aave-considers-dropping-dai-as-collateral-over-contagion-concerns-from-makerdaos-usde-move/">cease</a> supporting DAI as collateral on its platform, citing potential contagion risks associated with MakerDAO&#8217;s new direction. The proposal reflected a broader unease within the DeFi sector about the systemic risks posed by USDe, drawing parallels to past stablecoin failures like the Terra/Luna <a href="https://cryptoslate.com/insights/seeing-the-result-of-the-luna-collapse-one-year-on/">collapse.</a></p>
+<p>As MakerDAO continues to navigate these challenges, its future direction will likely have significant implications for the broader DeFi landscape.</p>
+<p>The rebranding of Maker to Sky and the introduction of USDS and SKY is a strategic move designed to enhance the protocol&#8217;s functionality, accessibility, and resilience, positioning it for long-term growth in the evolving DeFi landscape.</p>
+<p>The post <a href="https://cryptoslate.com/makerdao-rebrands-as-sky-unveils-new-usds-stablecoin-and-sky-governance-token/">MakerDAO rebrands as Sky, unveils new USDS stablecoin and SKY governance token</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/makerdao-rebrands-as-sky-unveils-new-usds-stablecoin-and-sky-governance-token/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/sky-makerdao-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/sky-makerdao-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Justin Sun pledges $1M to DAO supporting Telegram&#8217;s Pavel Durov</title>
+		<link>https://cryptoslate.com/justin-sun-pledges-1million-to-dao-supporting-telegrams-pavel-durov/</link>
+					<comments>https://cryptoslate.com/justin-sun-pledges-1million-to-dao-supporting-telegrams-pavel-durov/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Mon, 26 Aug 2024 09:44:15 +0000</pubDate>
+				<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Justin Sun]]></category>
+		<category><![CDATA[pavel durov]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[Vitalik Buterin]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=440380</guid>
+
+					<description><![CDATA[<p>TRON founder Justin Sun has pledged to donate $1 million to any Decentralized Autonomous Organization (DAO) formed to advocate for the release of Telegram&#8217;s founder, Pavel Durov. On Aug. 25, Sun tweeted: &#8220;We should show the cryptocurrency industry&#8217;s unity by organizing a #FreePavel DAO to help Telegram founder Pavel Durov legally gain freedom. I&#8217;ll donate [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/justin-sun-pledges-1million-to-dao-supporting-telegrams-pavel-durov/">Justin Sun pledges $1M to DAO supporting Telegram&#8217;s Pavel Durov</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/tron/">TRON</a> founder <a href="https://cryptoslate.com/people/justin-sun/">Justin Sun</a> has pledged to donate $1 million to any Decentralized Autonomous Organization (DAO) formed to advocate for the release of Telegram&#8217;s founder, <a href="https://cryptoslate.com/people/pavel-durov/">Pavel Durov</a>.</p>
+<p>On Aug. 25, Sun <a href="https://x.com/justinsuntron/status/1827770155834982594?t=ZcJGNBEAdD_pbFmu23p1qQ&amp;s=19">tweeted</a>:</p>
+<blockquote><p>&#8220;We should show the cryptocurrency industry&#8217;s unity by organizing a #FreePavel DAO to help Telegram founder Pavel Durov legally gain freedom. I&#8217;ll donate $1 million if it&#8217;s created in a decentralized way with enough community support.&#8221;</p></blockquote>
+<p>Sun&#8217;s statement highlights the widespread support Durov has received since his arrest in France on Aug. 23.</p>
+<p>Durov, a French-Russian citizen, was <a href="https://cryptoslate.com/telegram-founder-pavel-durov-arrested-in-france-ton-price-drops-16/">detained</a> by the French Air Transport Gendarmerie (GTA) after his private jet landed at Le Bourget airport. He was listed as a wanted person in France under a warrant that applied only if he was on French soil.</p>
+<p>French authorities accuse Durov of complicity in crimes due to Telegram&#8217;s alleged failure to moderate content properly. He could face charges related to complicity in drug trafficking, child exploitation, and fraud.</p>
+<h2>#FreePavel</h2>
+<p>Over the weekend, prominent figures in the crypto industry—including <a href="https://cryptoslate.com/people/elon-musk/">Elon Musk</a>, Ethereum co-founder Vitalik Buterin, <a href="https://cryptoslate.com/people/robert-f-kennedy-jr/">Robert Kennedy Jr.</a>, and several others — voiced their support for Durov&#8217;s release using the #FreePavel hashtag.</p>
+<p>Elon Musk was among the first to express support, tweeting the hashtag &#8220;#FreePavel.&#8221; True to his style, Musk later added a sarcastic comment referencing the increasing censorship in Europe. He <a href="https://x.com/elonmusk/status/1827484648454418881">wrote</a>:</p>
+<blockquote><p>&#8220;POV: It’s 2030 in Europe, and you’re being executed for liking a meme.&#8221;</p></blockquote>
+<p>Similarly, <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> co-founder <a href="https://cryptoslate.com/people/vitalik-buterin/">Vitalik Buterin</a> <a href="https://x.com/VitalikButerin/status/1827602680388239582">stated</a> that the arrest looks &#8220;very bad and worrying for the future of software and comms freedom in Europe.&#8221;</p>
+<p>Meanwhile, Robert F. Kennedy, who recently <a href="https://cryptoslate.com/bitcoin-surges-past-63k-as-robert-f-kennedy-jr-confirms-he-will-endorse-trump/">exited the US presidential race</a> to back former president <a href="https://cryptoslate.com/people/donald-trump/">Donald Trump</a>, stressed the importance of protecting free speech. He <a href="https://x.com/RobertKennedyJr/status/1827540616282055012">tweeted</a>:</p>
+<blockquote><p>&#8220;France just arrested Pavel Durov, founder &amp; CEO of the encrypted, uncensored Telegram platform. The need to protect free speech has never been more urgent.&#8221;</p></blockquote>
+<p>In addition, renowned whistleblower <a href="https://cryptoslate.com/people/edward-snowden/">Edward Snowden</a> said Durov&#8217;s arrest was &#8220;an assault on the basic human rights of speech and association.&#8221; He <a href="https://x.com/Snowden/status/1827695836832334169">added</a>:</p>
+<blockquote><p>&#8220;I am surprised and deeply saddened that Macron has descended to the level of taking hostages as a means for gaining access to private communications. It lowers not only France, but the world.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/justin-sun-pledges-1million-to-dao-supporting-telegrams-pavel-durov/">Justin Sun pledges $1M to DAO supporting Telegram&#8217;s Pavel Durov</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/justin-sun-pledges-1million-to-dao-supporting-telegrams-pavel-durov/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/pavel-durov-telegram.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/pavel-durov-telegram.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Curve founder’s $6.3 million funding request under fire for lacking clarity</title>
+		<link>https://cryptoslate.com/curve-founders-6-3-million-funding-request-under-fire-for-lacking-clarity/</link>
+					<comments>https://cryptoslate.com/curve-founders-6-3-million-funding-request-under-fire-for-lacking-clarity/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2024 19:45:35 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Governance]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=439551</guid>
+
+					<description><![CDATA[<p>Curve DAO members have raised concerns over a recent proposal by Curve Finance founder Michael Egorov, who has requested 21 million CRV tokens, valued at approximately $6.3 million, to support ongoing development efforts. The proposal has sparked debate within the community, with many calling for greater transparency and detailed information on how the funds will [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/curve-founders-6-3-million-funding-request-under-fire-for-lacking-clarity/">Curve founder’s $6.3 million funding request under fire for lacking clarity</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/coins/curve-dao-token/">Curve DAO</a> members have raised concerns over a recent proposal by <a href="https://cryptoslate.com/coins/curve-dao-token/">Curve Finance</a> founder <a href="https://cryptoslate.com/people/michael-egorov/">Michael Egorov</a>, who has requested <a href="https://gov.curve.fi/t/funding-proposal-for-swiss-stake-ag-the-company-building-curve/10204/22">21 million CRV tokens</a>, valued at approximately $6.3 million, to support ongoing development efforts.</p>
+<p>The proposal has sparked debate within the community, with many calling for greater transparency and detailed information on how the funds will be utilized.</p>
+<p>Egorov submitted the proposal on Aug. 19, seeking a substantial portion of the DAO&#8217;s Community Fund to support the continued research and development of Curve&#8217;s key components. Swiss Stake, a key contributor to the DeFi protocol, has been instrumental in developing the platform&#8217;s stable swap mechanism and governance system.</p>
+<p>The proposed funds would be used to maintain the company&#8217;s 25-person team and to continue research and development efforts. However, the request represents a marked shift from the DAO&#8217;s usual practices, which have traditionally been <a href="https://cryptoslate.com/binance-labs-invests-5m-in-curve-dao-token-following-60m-july-hack/">more conservative</a> in deploying community resources.</p>
+<h2>Lack of clarity</h2>
+<p>The proposal has drawn criticism from community members who argue that it lacks essential details, including a clear roadmap, specific milestones, and a detailed breakdown of how the funds will be spent. This lack of clarity has fueled skepticism about the necessity and timing of the request.</p>
+<p>Many members have already made clear that they do not intend to support the proposal in its current form. One influential member, who holds a substantial amount of CRV tokens, voiced opposition by stating:</p>
+<blockquote><p>&#8220;Without a clear plan and detailed expenditure, I cannot support this proposal. I intend to vote against it.&#8221;</p></blockquote>
+<p>The proposed allocation, nearly half of the Community Fund&#8217;s current holdings of 47.5 million CRV, has raised additional questions about the long-term sustainability of such funding practices. Critics worry that approving this request could set a precedent that may strain the DAO&#8217;s financial resources in the future.</p>
+<h2>Legal concerns</h2>
+<p>In response to these concerns, Egorov acknowledged that the proposal represents a significant &#8220;cultural shift&#8221; for the DAO, noting that it diverges from the Community Fund&#8217;s traditional, more conservative use.</p>
+<p>He explained that legal advice had influenced the level of detail he could provide in the proposal and emphasized that while the proposal might seem less transparent due to these constraints, he intended to mitigate any concerns by committing to regular bi-annual reports that would detail how the funds were being used.</p>
+<p>He also assured the community that any unused portions of the allocated funds would be rolled over to the following year, ensuring that the funds would be managed responsibly and with continued oversight.</p>
+<p>Additionally, Egorov proposed that any future funding requests would include more detailed documentation, aligning with the community&#8217;s expectations for transparency and accountability.</p>
+<p>The post <a href="https://cryptoslate.com/curve-founders-6-3-million-funding-request-under-fire-for-lacking-clarity/">Curve founder’s $6.3 million funding request under fire for lacking clarity</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/curve-founders-6-3-million-funding-request-under-fire-for-lacking-clarity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/curve-finance-funding.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/curve-finance-funding.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>MangoDAO&#8217;s proposed SEC settlement faces scrutiny over potential impact on investors</title>
+		<link>https://cryptoslate.com/mangodaos-proposed-sec-settlement-faces-scrutiny-over-potential-impact-on-investors/</link>
+					<comments>https://cryptoslate.com/mangodaos-proposed-sec-settlement-faces-scrutiny-over-potential-impact-on-investors/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2024 14:30:53 +0000</pubDate>
+				<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Avraham Eisenberg]]></category>
+		<category><![CDATA[Mango Markets]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=439429</guid>
+
+					<description><![CDATA[<p>The DAO behind the Solana-based DeFi protocol, Mango Market, has overwhelmingly approved a proposal to settle a securities violation case with the US Securities and Exchange Commission (SEC). On Aug. 19, MangoDAO submitted the SEC Settlement Offer Proposal to avoid further litigation after the financial regulator accused the platform of securities violations. Under the proposal, [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/mangodaos-proposed-sec-settlement-faces-scrutiny-over-potential-impact-on-investors/">MangoDAO&#8217;s proposed SEC settlement faces scrutiny over potential impact on investors</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The DAO behind the Solana-based DeFi protocol, <a href="https://cryptoslate.com/coins/mango-markets/">Mango Market</a>, has overwhelmingly approved a proposal to settle a securities violation case with the US Securities and Exchange Commission (SEC).</p>
+<p>On Aug. 19, MangoDAO <a href="https://app.realms.today/dao/MNGO/proposal/9Ex2wAACZ928p5kMHUQcgruivFvKXZRichiuDy9iVgsL">submitted</a> the SEC Settlement Offer Proposal to avoid further litigation after the financial regulator accused the platform of securities violations.</p>
+<p>Under the proposal, MangoDAO would pay the SEC $223,228 in fines, destroy its MNGO token holdings, and seek delisting from trading platforms. It added:</p>
+<blockquote><p>&#8220;The settlement offer would also agree that the DAO will, and certify compliance, immediately cease all of its offers, sales or resales of MNGO tokens on the protocol through the means or instrumentalities of interstate commerce in the United States.&#8221;</p></blockquote>
+<p>Crypto lawyer Gabriel Shapiro <a href="https://x.com/lex_node/status/1825876836158423350">noted</a> that the SEC typically requires &#8220;token issuers&#8221; to destroy all &#8220;unissued&#8221; tokens to dissolve the &#8220;common enterprise&#8221; and end the &#8220;investment contract.&#8221; However, he questioned whether delisting the tokens from centralized exchanges truly serves investors&#8217; interests.</p>
+<p>Meanwhile, the MangoDAO proposal emphasized that the settlement is neither an admission nor a denial of wrongdoing.</p>
+<p>As of this writing, the proposal has reached a quorum with over 110 million votes, all in favor of the settlement.</p>
+<h2>Mango Market&#8217;s downturn</h2>
+<p>Mango Markets was once a leading DeFi platform on Solana until Avraham Eisenberg <a href="https://cryptoslate.com/deep-dive-into-the-mango-markets-economic-attack/">exploited</a> it for $110 million in 2022. At that time, Eisenberg <a href="https://cryptoslate.com/solana-tvl-tanks-23-following-100m-mango-market-hack/">admitted</a> to the actions but claimed they were legitimate.</p>
+<p>Eisenberg was recently <a href="https://cryptoslate.com/mango-markets-exploiter-faces-new-set-of-charges-from-the-cftc/">convicted</a> after being found guilty of commodities fraud, commodities manipulation, and wire fraud. He is reportedly seeking a retrial of his case.</p>
+<p>Although Eisenberg <a href="https://cryptoslate.com/mango-market-exploiter-says-action-was-legal/">returned</a> a significant portion of the funds to MangoDAO, the platform has struggled since, with deposits remaining a fraction of their pre-exploit levels. Meanwhile, the incident also drew the attention of regulators, leading to further inquiries into Mango Markets by regulators like the US SEC.</p>
+<p>The <a href="https://cryptoslate.com/coins/mango/">MNG</a> token is up 4% in the past 24 hours according to <em>CryptoSlate</em> data.</p>
+<p>The post <a href="https://cryptoslate.com/mangodaos-proposed-sec-settlement-faces-scrutiny-over-potential-impact-on-investors/">MangoDAO&#8217;s proposed SEC settlement faces scrutiny over potential impact on investors</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/mangodaos-proposed-sec-settlement-faces-scrutiny-over-potential-impact-on-investors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/mango-market-sec.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/mango-market-sec.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Arbitrum DAO votes to launch staking as $50M ARB tokens flood the market</title>
+		<link>https://cryptoslate.com/arbitrum-dao-votes-to-launch-staking-as-50m-arb-tokens-flood-the-market/</link>
+					<comments>https://cryptoslate.com/arbitrum-dao-votes-to-launch-staking-as-50m-arb-tokens-flood-the-market/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2024 12:30:55 +0000</pubDate>
+				<category><![CDATA[DAOs]]></category>
+		<category><![CDATA[ARB]]></category>
+		<category><![CDATA[Arbitrum]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=438907</guid>
+
+					<description><![CDATA[<p>The Arbitrum Decentralized Autonomous Organization (DAO) has passed a proposal to introduce ARB staking for the largest Ethereum layer-2 network. Staking initiative The proposal, which received overwhelming community support, aims to launch ARB staking to enhance the token&#8217;s utility and governance participation. This initiative seeks to protect the DAO Treasury from potential attacks. According to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/arbitrum-dao-votes-to-launch-staking-as-50m-arb-tokens-flood-the-market/">Arbitrum DAO votes to launch staking as $50M ARB tokens flood the market</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <a href="https://cryptoslate.com/coins/arbitrum/">Arbitrum</a> Decentralized Autonomous Organization (DAO) has passed a proposal to introduce ARB staking for the largest <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> layer-2 network.</p>
+<h2>Staking initiative</h2>
+<p>The <a href="https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xb581f3aed701ae889c1d79406acdf3d653e6eb4323cb5e46635f729e6313da4d">proposal</a>, which received overwhelming community support, aims to launch ARB staking to enhance the token&#8217;s utility and governance participation.</p>
+<p>This initiative seeks to protect the DAO Treasury from potential attacks. According to Tally&#8217;s Arbitrum <a href="https://www.tally.xyz/gov/arbitrum/treasury">data</a>, the DAO currently holds approximately $1.9 billion in assets, including Arbitrum and Ethereum.</p>
+<p>This significant holding makes the DAO an attractive target for malicious actors, as the cost of purchasing ARB for voting power isn&#8217;t rising proportionally to defend against attacks.</p>
+<p>To counter this risk, the proposal suggests ARB staking to unlock utility and align governance. It plans to create a mechanism that streams future rewards from DAO-generated sources—such as sequencer fees, MEV fees, validator fees, token inflation, and treasury diversification—to token holders delegated to active governance participants.</p>
+<p>This initiative will introduce ARB staking using the Tally governance system and launch a liquid staking token, stARB. However, fee distribution to token holders will not begin immediately.</p>
+<p>Staking will also allow token holders to earn value on their assets. The Tally Protocol system for stARB supports auto-compounding and restaking of future rewards while remaining compatible with DeFi.</p>
+<h2>Token unlock</h2>
+<p>This approval coincides with the network&#8217;s planned release of over 92 million ARB tokens—accounting for 2.77% of the circulating supply—later today. The project will execute a &#8220;Cliff Unlock,&#8221; releasing the tokens simultaneously. At current prices, these tokens are worth more than $50 million, according to Token Unlocks <a href="https://token.unlocks.app/arbitrum">data</a>.</p>
+<p>Typically, <a href="https://cryptoslate.com/avalanche-anticipates-most-bullish-unlock-amid-broader-market-1-billion-in-token-release/">token unlocks</a> can cause significant market volatility for digital assets because it could lead to a supply shock and a potential price drop. This possibility has fueled speculation that many holders might take short positions against the token.</p>
+<p>Already, the anticipated unlock appears to have negatively impacted ARB&#8217;s price, which has dropped more than 2% in the last 24 hours to $0.60 as of press time, according to <em>CryptoSlate&#8217;s</em> data.</p>
+<p>The post <a href="https://cryptoslate.com/arbitrum-dao-votes-to-launch-staking-as-50m-arb-tokens-flood-the-market/">Arbitrum DAO votes to launch staking as $50M ARB tokens flood the market</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/arbitrum-dao-votes-to-launch-staking-as-50m-arb-tokens-flood-the-market/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/08/arbitrum-staking.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/08/arbitrum-staking.jpg" length="1200" type="image/jpg"/>
+	</item>
+	</channel>
+</rss>
